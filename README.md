@@ -1,4 +1,5 @@
 # YouTube Vanced
+# Trang này sẽ được lưu trữ vĩnh viễn và không hoạt động do đã có Vanced Manager lấy source từ GitHub bởi KhanhNguyen9872
 YouTube Vanced &amp; Vanced MicroG Backup APK
 
 Credits YouTube Vanced Universal: [KhanhNguyen9872](https://github.com/KhanhNguyen9872)
