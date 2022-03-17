@@ -3,6 +3,8 @@ YouTube Vanced &amp; Vanced MicroG Backup APK
 
 Credits YouTube Vanced Universal: [KhanhNguyen9872](https://github.com/KhanhNguyen9872)
 
+Forks not required, this repo will stay here forever.
+
 Statistics of downloads:
 [![GitHub Releases](https://img.shields.io/github/downloads/cuynu/ytvanced/latest/total?logo=github)](https://github.com/cuynu/ytvanced)
 ____________________________________________________
