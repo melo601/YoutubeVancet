@@ -1,5 +1,5 @@
 # YouTube Vanced
-YouTube Vanced &amp; Vanced MicroG Backup APK
+YouTube Vanced &amp; Vanced MicroG Direct APK Install without Vanced Manager
 
 Credits YouTube Vanced Universal: [KhanhNguyen9872](https://github.com/KhanhNguyen9872)
 
