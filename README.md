@@ -19,6 +19,15 @@ Without Vanced MicroG, YouTube Vanced will crash.
 
 [Download Vanced MicroG 0.2.24.220220](https://github.com/cuynu/ytvanced/releases/download/17.03.38/Vanced.microG_0.2.24.220220.apk)
 
+[View MD5 Hash](https://github.com/cuynu/ytvanced/wiki/MD5Hash)
+
+VirusTotal scan results :
+YouTube Vanced_v17.03.38_Black.apk : https://www.virustotal.com/gui/file/23bd47c93e03688f6e7540d551aabb25a0501572209f7b59c568da45508cc9b4
+
+YouTube Vanced_v17.03.38_Dark.apk : https://www.virustotal.com/gui/file/4ead25520e9032d0a69d495782f1165b00fe8464809aeee9eed23458070fb026
+
+Vanced MicroG 0.2.24.220220 : https://www.virustotal.com/gui/file/e5ce4f9759d3e70ac479bf2d0707efe5a42fca8513cf387de583b8659dbfbbbf
+
 [Some Miui device may not be able to install. If you get this error, please disable Miui Optimization on Developer options./ Một số thiết bị chạy Miui sẽ không thể cài đặt được. Nếu bạn bị lỗi trên, hãy tắt Tối ưu hoá Miui trong cài đặt tùy chọn nhà phát triển.]
 
 Credits Infomation
