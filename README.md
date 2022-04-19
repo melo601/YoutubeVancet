@@ -1,7 +1,7 @@
 # YouTube Vanced
 YouTube Vanced &amp; Vanced MicroG Direct APK Install without Vanced Manager
 
-Credits YouTube Vanced Universal: [KhanhNguyen9872](https://github.com/KhanhNguyen9872)
+Credits YouTube Vanced .APK Files : [KhanhNguyen9872](https://github.com/KhanhNguyen9872) and [Vanced Team](https://github.com/TeamVanced)
 
 Forks not required, this repo will stay here forever.
 
@@ -17,7 +17,13 @@ Without Vanced MicroG, YouTube Vanced will crash.
 
 [Download YouTube Vanced 17.03.38 Dark](https://github.com/cuynu/ytvanced/releases/download/17.03.38/YouTube_Vanced_v17.03.38_Dark.apk)
 
+[Download YouTube Music Vanced v4.64.51](https://github.com/cuynu/ytvanced/releases/download/17.03.38/Youtube_Music_v4.64.51.apk)
+
 [Download Vanced MicroG 0.2.24.220220](https://github.com/cuynu/ytvanced/releases/download/17.03.38/Vanced.microG_0.2.24.220220.apk)
+
+For Root user, please install Vanced Manager, its still works fine. 
+
+[Download Modifed repo Vanced Manager](https://github.com/KhanhNguyen9872/KhanhNguyen9872_VN/releases/download/v2.6.2/VC_Manager_Lau_KhanhNguyen9872.apk)
 
 [View MD5 Hash](https://github.com/cuynu/ytvanced/wiki/MD5Hash)
 
@@ -34,7 +40,6 @@ Credits Infomation
 
 [Redirect to KhanhNguyen9872](https://github.com/KhanhNguyen9872/youtube_vanced/releases/tag/v17.03.38-1527248320)
 
-Tạm thời chưa có bản root. (Temporarily no root version)
 
 Thông báo từ Vanced / Important Notification from Vanced
 ![Preview](https://files.catbox.moe/ricm16.jpg)
