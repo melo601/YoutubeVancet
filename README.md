@@ -9,7 +9,7 @@ Statistics of downloads:
 [![GitHub Releases](https://img.shields.io/github/downloads/cuynu/ytvanced/latest/total?logo=github)](https://github.com/cuynu/ytvanced)
 ____________________________________________________
 
-Without Vanced MicroG, YouTube Vanced will crash.
+Without Vanced MicroG, YouTube Vanced will crash, please install Vanced MicroG below.
 
 (Không có Vanced MicroG, YouTube Vanced sẽ không chạy)
 
@@ -34,7 +34,8 @@ YouTube Vanced_v17.03.38_Dark.apk : https://www.virustotal.com/gui/file/4ead2552
 
 Vanced MicroG 0.2.24.220220 : https://www.virustotal.com/gui/file/e5ce4f9759d3e70ac479bf2d0707efe5a42fca8513cf387de583b8659dbfbbbf
 
-[Some Miui device may not be able to install. If you get this error, please disable Miui Optimization on Developer options./ Một số thiết bị chạy Miui sẽ không thể cài đặt được. Nếu bạn bị lỗi trên, hãy tắt Tối ưu hoá Miui trong cài đặt tùy chọn nhà phát triển.]
+[Some Miui device may not be able to install. If you has this, please use modifed repo vanced manager because Miui blocked./ Một số thiết bị chạy Miui sẽ không thể cài đặt được. Nếu bạn bị lỗi trên, hãy dùng vanced manager
+]
 
 Credits Infomation
 
