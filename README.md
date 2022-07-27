@@ -6,7 +6,7 @@ Credits YouTube Vanced .APK Files : [Vanced Team](https://github.com/TeamVanced)
 Forks not required, this repo will stay here forever.
 
 Statistics of downloads:
-[![GitHub Releases](https://img.shields.io/github/downloads/cuynu/ytvanced/latest/total?logo=github)](https://github.com/cuynu/ytvanced/releases)
+[![GitHub Releases](https://img.shields.io/github/downloads/cuynu/ytvanced/total?logo=github)](https://github.com/cuynu/ytvanced/releases)
 
 [Join our Telegram Unofficial Discussion](https://t.me/cuynuytvanced)
 ____________________________________________________
