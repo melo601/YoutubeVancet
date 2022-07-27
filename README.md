@@ -19,6 +19,8 @@ Recent fixes : Fixed Play Protect warning, I'm not inject any Virus or Malware o
 
 Architecture : Universal (arm64-v8a-armeabi-v7a-x86)
 
+Minimum Android version : 6
+
 
 [Download YouTube Vanced 17.03.38 Black](https://github.com/cuynu/ytvanced/releases/download/17.03.38/YouTube_Vanced_17.03.38_Black.apk)
 
