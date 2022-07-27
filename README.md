@@ -35,11 +35,17 @@ For Root user, please install Vanced Manager, its still works fine.
 [View MD5 Hash](https://github.com/cuynu/ytvanced/wiki/MD5Hash)
 
 VirusTotal scan results :
-YouTube Vanced_v17.03.38_Black.apk : https://www.virustotal.com/gui/file/23bd47c93e03688f6e7540d551aabb25a0501572209f7b59c568da45508cc9b4
 
-YouTube Vanced_v17.03.38_Dark.apk : https://www.virustotal.com/gui/file/4ead25520e9032d0a69d495782f1165b00fe8464809aeee9eed23458070fb026
+YouTube_Vanced_v17.03.38_Black.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/262ce8ea6d6eb04be448881aa2e99a627f1ff1b208f882ea6df6707697bfdf0c/summary)
 
-Vanced MicroG 0.2.24.220220 : https://www.virustotal.com/gui/file/e5ce4f9759d3e70ac479bf2d0707efe5a42fca8513cf387de583b8659dbfbbbf
+
+YouTube_Vanced_v17.03.38_Dark.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/2defe8f18374ec4f6c907869e4c09aeb515046d6b3d518d5eb48d3fcdb41dbad/summary)
+
+
+YouTube_Music_v4.64.51.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/47a8398198f1a5266a28dfcb6281d2b75a1146e0fe4f6d1bd878586d95752445/summary)
+
+
+Vanced.MicroG.0.2.24.220220.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/e5ce4f9759d3e70ac479bf2d0707efe5a42fca8513cf387de583b8659dbfbbbf)
 
 [Some Miui device may not be able to install. If you has this, please use modifed repo vanced manager because Miui blocked./ Một số thiết bị chạy Miui sẽ không thể cài đặt được. Nếu bạn bị lỗi trên, hãy dùng Vanced manager
 ]
