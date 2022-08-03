@@ -7,8 +7,6 @@ Forks not required, this repo will stay here forever.
 
 Statistics of downloads:
 [![GitHub Releases](https://img.shields.io/github/downloads/cuynu/ytvanced/total?logo=github)](https://github.com/cuynu/ytvanced/releases)
-
-[Join Telegram Unofficial Discussion](https://t.me/cuynuytvanced)
 ____________________________________________________
 
 (Without Vanced MicroG, YouTube Vanced will crash due to missing MicroG, Please install Vanced MicroG below.)
