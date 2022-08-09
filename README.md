@@ -51,9 +51,6 @@ Vanced.MicroG.0.2.24.220220.apk : [View on VirusTotal](https://www.virustotal.co
 ]
 
 
-Want support me? Just subscribe to [this YouTube channel here](https://m.youtube.com/cuynudtw)
-
-
 Thông báo từ Vanced / Important Notification from Vanced
 ![Preview](https://files.catbox.moe/ricm16.jpg)
 
