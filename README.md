@@ -30,7 +30,7 @@ Minimum Android version : 6
 
 For Root user, please install Vanced Manager, its still works fine. 
 
-[Download Modifed repo Vanced Manager](https://github.com/KhanhNguyen9872/KhanhNguyen9872_VN/releases/download/v2.6.2/VC_Manager_Lau_KhanhNguyen9872.apk)
+[Download original Vanced Manager](https://github.com/cuynu/ytvanced/releases/download/17.03.38/manager.apk)
 
 [View MD5 Hash](https://github.com/cuynu/ytvanced/wiki/MD5Hash)
 
