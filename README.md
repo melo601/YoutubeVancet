@@ -28,6 +28,11 @@ Minimum Android version : 6
 
 [Download Vanced MicroG 0.2.24.220220](https://github.com/cuynu/ytvanced/releases/download/17.03.38/Vanced.microG_0.2.24.220220.apk)
 
+Beta Vanced MicroG
+
+[Download Vanced MicroG 0.2.25.223212](https://github.com/cuynu/ytvanced/releases/download/17.03.38/Vanced.microG_0.2.25.223212.apk)
+
+
 For Root user, please install Vanced Manager, its still works fine. 
 
 [Download original Vanced Manager](https://github.com/cuynu/ytvanced/releases/download/17.03.38/manager.apk)
