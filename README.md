@@ -21,7 +21,7 @@ Merged multiple languages.
 
 Minimum Android version : 6
 
-[Download BETA unofficial YouTube Vanced](https://github.com/cuynu/ytvanced/releases)
+[Download unofficial YouTube Vanced 17.33.42](https://github.com/cuynu/ytvanced/releases)
 
 
 [Download YouTube Vanced 17.03.38 Black](https://github.com/cuynu/ytvanced/releases/download/17.03.38/YouTube_Vanced_17.03.38_Black.apk)
