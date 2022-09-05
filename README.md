@@ -24,7 +24,7 @@ Minimum Android version : 6
 [Download unofficial YouTube Vanced 17.33.42](https://github.com/cuynu/ytvanced/releases)
 
 
-[Download YouTube Vanced 17.03.38 Black](https://github.com/cuynu/ytvanced/releases/download/17.03.38/YouTube_Vanced_17.03.38_Black.apk)
+[Download YouTube Vanced 17.03.38 Black](https://github.com/cuynu/ytvanced/releases/download/17.03.38/YouTube.Vanced_17.03.38_Black.apk)
 
 [Download YouTube Vanced 17.03.38 Dark](https://github.com/cuynu/ytvanced/releases/download/17.03.38/YouTube.Vanced_17.03.38_Dark.apk)
 
