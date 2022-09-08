@@ -63,7 +63,7 @@ Vanced.MicroG.0.2.24.220220.apk : [View on VirusTotal](https://www.virustotal.co
 Thông báo từ Vanced / Important Notification from Vanced
 ![Preview](https://files.catbox.moe/ricm16.jpg)
 
-![Preview 2](https://files.catbox.moe/il0n3d.png)
+
 
 Vanced (v17.03.38)
 Changelog:
