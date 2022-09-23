@@ -56,13 +56,11 @@ YouTube_Music_v4.64.51.apk : [View on VirusTotal](https://www.virustotal.com/gui
 
 Vanced.MicroG.0.2.24.220220.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/e5ce4f9759d3e70ac479bf2d0707efe5a42fca8513cf387de583b8659dbfbbbf)
 
-[Some Miui device may not be able to install. If you has this, please use modifed repo vanced manager because Miui blocked./ Một số thiết bị chạy Miui sẽ không thể cài đặt được. Nếu bạn bị lỗi trên, hãy dùng Vanced manager
-]
+[Some Xiaomi device that running MIUI may not be able to install due to security check by Xiaomi, you can workaround that by install [Package Installer (Google) from APKMirror (Select version depend on your Android version)](https://www.apkmirror.com/apk/google-inc/package-installer/) then install YouTube Vanced client with Package Installer (Google) instead of default Xiaomi APK installer.]
 
 
 Thông báo từ Vanced / Important Notification from Vanced
 ![Preview](https://files.catbox.moe/ricm16.jpg)
-
 
 
 Vanced (v17.03.38)
@@ -95,7 +93,10 @@ added an option to enable SB browser button.
 
 Option to change the API URL KNOWN ISSUES:
 On new action bar layouts(server-sided feature), the new toggles won't work. (Around 15% of users are currently affected by it)
-all the usual previous issues relating to Chromecast, codec override, swipe controls bug while scrolling in landscape mode and swipe down gesture to refresh. PLANNED CHANGES FOR NEXT RELEASE
+all the usual previous issues relating to Chromecast, codec override, swipe controls bug while scrolling in landscape mode and swipe down gesture to refresh.
+
+PLANNED CHANGES FOR NEXT RELEASE
+
 Option to make SponsorBlock submitting and voting buttons appear under the video
 make RYD work in all layouts
 add more ad whitelist options such as viewing the entire list of whitelisted channels and a global video ads toggle
