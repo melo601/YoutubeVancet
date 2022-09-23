@@ -1,7 +1,7 @@
 # YouTube Vanced
 YouTube Vanced &amp; Vanced MicroG Direct APK Install without Vanced Manager
 
-Credits YouTube Vanced .APK Files : [Vanced Team](https://github.com/TeamVanced)
+Credits YouTube Vanced : [Vanced Team](https://github.com/TeamVanced)
 
 Forks not required, this repo will stay here forever.
 
@@ -9,20 +9,21 @@ Statistics of downloads:
 [![GitHub Releases](https://img.shields.io/github/downloads/cuynu/ytvanced/total?logo=github)](https://github.com/cuynu/ytvanced/releases)
 ____________________________________________________
 
+ 
 (Without Vanced MicroG, YouTube Vanced will crash due to missing MicroG, Please install Vanced MicroG below.)
 
-(Không có Vanced MicroG, YouTube Vanced sẽ không chạy)
+(Không có Vanced MicroG, YouTube Vanced sẽ không chạy, vui lòng cài đặt Vanced MicroG bên dưới.)
 
-Recent fixes : Fixed Play Protect warning, I'm not inject any Virus or Malware on this APK.
+- Recent fixes : Fixed Play Protect warning, I'm not inject any Virus or Malware on this APK.
 
-Architecture : Universal (arm64-v8a-armeabi-v7a-x86)
+- Architecture : Universal (arm64-v8a-armeabi-v7a-x86)
 
-Merged multiple languages.
+- Support all language supported by official YouTube Vanced client.
 
-Minimum Android version : 6
+# Download 
+Minimum Android version : 6.0
 
 [Download unofficial YouTube Vanced 17.33.42](https://github.com/cuynu/ytvanced/releases)
-
 
 [Download YouTube Vanced 17.03.38 Black](https://github.com/cuynu/ytvanced/releases/download/17.03.38/YouTube.Vanced_17.03.38_Black.apk)
 
@@ -32,18 +33,21 @@ Minimum Android version : 6
 
 [Download Vanced MicroG 0.2.24.220220](https://github.com/cuynu/ytvanced/releases/download/17.03.38/Vanced.microG_0.2.24.220220.apk)
 
-Beta Vanced MicroG
+Beta Vanced MicroG (Recommended)
 
 [Download Vanced MicroG 0.2.25.223212](https://github.com/cuynu/ytvanced/releases/download/17.03.38/Vanced.microG_0.2.25.223212.apk)
 
 
-For Root user, please install Vanced Manager, its still works fine. 
+For Root user, please use YouTube Vanced Magisk Module below if you have Magisk : 
 
-[Download original Vanced Manager](https://github.com/cuynu/ytvanced/releases/download/17.03.38/manager.apk)
+[Download Magisk Module YouTube Vanced Root 17.33.42 Dark](https://github.com/cuynu/ytvanced/releases/download/17.33.42/YouTube.Vanced_17.33.42_Dark_Root_MagiskModules.zip)
 
-[View MD5 Hash](https://github.com/cuynu/ytvanced/wiki/MD5Hash)
+[Download Magisk Module YouTube Vanced Root 17.33.42 Black](https://github.com/cuynu/ytvanced/releases/download/17.33.42/YouTube.Vanced_17.33.42_Black_Root_MagiskModules.zip)
 
-VirusTotal scan results :
+# Issues
+If you have issue or problem when using YouTube Vanced downloaded from my GitHub repository, you can create issue on my GitHub repository [here.](https://github.com/cuynu/ytvanced/issues)
+
+# VirusTotal scan results and MD5 Hash :
 
 YouTube_Vanced_v17.03.38_Black.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/262ce8ea6d6eb04be448881aa2e99a627f1ff1b208f882ea6df6707697bfdf0c/summary)
 
@@ -56,13 +60,20 @@ YouTube_Music_v4.64.51.apk : [View on VirusTotal](https://www.virustotal.com/gui
 
 Vanced.MicroG.0.2.24.220220.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/e5ce4f9759d3e70ac479bf2d0707efe5a42fca8513cf387de583b8659dbfbbbf)
 
+[View MD5 Hash](https://github.com/cuynu/ytvanced/wiki/MD5Hash)
+
+
+# Installation for MIUI
 [Some Xiaomi device that running MIUI may not be able to install due to security check by Xiaomi, you can workaround that by install [Package Installer (Google) from APKMirror (Select version depend on your Android version)](https://www.apkmirror.com/apk/google-inc/package-installer/) then install YouTube Vanced client with Package Installer (Google) instead of default Xiaomi APK installer.]
 
 
-Thông báo từ Vanced / Important Notification from Vanced
+# Important Information from Vanced
+
+Thông báo từ Vanced / Important information from Vanced
 ![Preview](https://files.catbox.moe/ricm16.jpg)
 
 
+# Changelog [(see releases for full changelog)](https://github.com/cuynu/ytvanced/releases)
 Vanced (v17.03.38)
 Changelog:
 
