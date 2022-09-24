@@ -45,7 +45,7 @@ For Root user, please use YouTube Vanced Magisk Module below if you have Magisk 
 [Download Magisk Module YouTube Vanced Root 17.33.42 Black](https://github.com/cuynu/ytvanced/releases/download/17.33.42/YouTube.Vanced_17.33.42_Black_Root_MagiskModules.zip)
 
 # Issues
-If you have issue or problem when using YouTube Vanced downloaded from my GitHub repository, you can create issue on my GitHub repository [here.](https://github.com/cuynu/ytvanced/issues)
+If you have issue or problem when using YouTube Vanced downloaded from my GitHub repository, feel free create issue on my GitHub repository [here.](https://github.com/cuynu/ytvanced/issues)
 
 # VirusTotal scan results and MD5 Hash :
 
