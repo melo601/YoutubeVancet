@@ -18,6 +18,8 @@ ____________________________________________________
 - Architecture : Universal (arm64-v8a,armeabi-v7a,x86,x86_64)
 - Support all language supported by official YouTube client.
 
+____________________________________________________
+
 # Download 
 Minimum Android version : 6.0.0 
 
@@ -35,17 +37,19 @@ Beta Vanced MicroG (Recommended)
 
 [Download Vanced MicroG 0.2.25.223212](https://github.com/cuynu/ytvanced/releases/download/17.03.38/Vanced.microG_0.2.25.223212.apk)
 
-
 For Root user, please use YouTube Vanced Magisk Module below if you have Magisk : 
 
 [Download Magisk Module YouTube Vanced Root 17.33.42 Dark](https://github.com/cuynu/ytvanced/releases/download/17.33.42/YouTube.Vanced_17.33.42_Dark_Root_MagiskModules.zip)
 
 [Download Magisk Module YouTube Vanced Root 17.33.42 Black](https://github.com/cuynu/ytvanced/releases/download/17.33.42/YouTube.Vanced_17.33.42_Black_Root_MagiskModules.zip)
 
+____________________________________________________
+
 # Issues
 If you have issue or problem when using YouTube Vanced downloaded from my GitHub repository, feel free create issue on my GitHub repository [here.](https://github.com/cuynu/ytvanced/issues)
+____________________________________________________
 
-# VirusTotal scan results and MD5 Hash :
+# VirusTotal scan results and MD5 Hash 
 
 YouTube_Vanced_v17.03.38_Black.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/262ce8ea6d6eb04be448881aa2e99a627f1ff1b208f882ea6df6707697bfdf0c/summary)
 
@@ -60,16 +64,19 @@ Vanced.MicroG.0.2.24.220220.apk : [View on VirusTotal](https://www.virustotal.co
 
 [View MD5 Hash](https://github.com/cuynu/ytvanced/wiki/MD5Hash)
 
+____________________________________________________
 
 # Installation for MIUI
 [Some Xiaomi device that running MIUI may not be able to install due to security check by Xiaomi, you can workaround that by install [Package Installer (Google) from APKMirror (Select version depend on your Android version)](https://www.apkmirror.com/apk/google-inc/package-installer/) then install YouTube Vanced client with Package Installer (Google) instead of default Xiaomi APK installer.]
 
+____________________________________________________
 
 # Important Information from Vanced
 
 Thông báo từ Vanced / Important information from Vanced
 ![Preview](https://files.catbox.moe/ricm16.jpg)
 
+____________________________________________________
 
 # Changelog [(see releases for full changelog)](https://github.com/cuynu/ytvanced/releases)
 Vanced (v17.03.38)
