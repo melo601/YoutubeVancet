@@ -3,10 +3,10 @@ YouTube Vanced &amp; Vanced MicroG Direct APK Install without Vanced Manager
 
 Credits YouTube Vanced : [Vanced Team](https://github.com/TeamVanced)
 
-Forks not required, this repo will stay here forever.
+Forks not required, this repository will stay here forever.
 
-Statistics of downloads:
-[![GitHub Releases](https://img.shields.io/github/downloads/cuynu/ytvanced/total?logo=github)](https://github.com/cuynu/ytvanced/releases)
+Download counts : 
+[![Download counts](https://img.shields.io/github/downloads/cuynu/ytvanced/total?logo=github)](https://github.com/cuynu/ytvanced/releases)
 ____________________________________________________
 
  
@@ -14,16 +14,14 @@ ____________________________________________________
 
 (Không có Vanced MicroG, YouTube Vanced sẽ không chạy, vui lòng cài đặt Vanced MicroG bên dưới.)
 
-- Recent fixes : Fixed Play Protect warning, I'm not inject any Virus or Malware on this APK.
-
-- Architecture : Universal (arm64-v8a-armeabi-v7a-x86)
-
-- Support all language supported by official YouTube Vanced client.
+- [Can't install on Xiaomi MIUI devices?, See how to fix that with workaround!](https://github.com/cuynu/ytvanced#installation-for-miui)
+- Architecture : Universal (arm64-v8a,armeabi-v7a,x86,x86_64)
+- Support all language supported by official YouTube client.
 
 # Download 
-Minimum Android version : 6.0
+Minimum Android version : 6.0.0 
 
-[Download unofficial YouTube Vanced 17.33.42](https://github.com/cuynu/ytvanced/releases)
+[Download unofficial YouTube Vanced 17.33.42](https://github.com/cuynu/ytvanced/releases/17.33.42)
 
 [Download YouTube Vanced 17.03.38 Black](https://github.com/cuynu/ytvanced/releases/download/17.03.38/YouTube.Vanced_17.03.38_Black.apk)
 
