@@ -49,7 +49,7 @@ ____________________________________________________
 If you have issue or problem when using YouTube Vanced downloaded from my GitHub repository, feel free create issue on my GitHub repository [here.](https://github.com/cuynu/ytvanced/issues)
 ____________________________________________________
 
-# VirusTotal scan results and MD5 Hash 
+# VirusTotal scan results and MD5 Hash
 
 YouTube_Vanced_v17.03.38_Black.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/262ce8ea6d6eb04be448881aa2e99a627f1ff1b208f882ea6df6707697bfdf0c/summary)
 
@@ -62,7 +62,7 @@ YouTube_Music_v4.64.51.apk : [View on VirusTotal](https://www.virustotal.com/gui
 
 Vanced.MicroG.0.2.24.220220.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/e5ce4f9759d3e70ac479bf2d0707efe5a42fca8513cf387de583b8659dbfbbbf)
 
-[View MD5 Hash](https://github.com/cuynu/ytvanced/wiki/MD5Hash)
+[View MD5 hash file checksum](https://github.com/cuynu/ytvanced/wiki/MD5-Hash)
 
 ____________________________________________________
 
