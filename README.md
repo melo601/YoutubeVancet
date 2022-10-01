@@ -6,7 +6,7 @@ Credits YouTube Vanced : [Vanced Team](https://github.com/TeamVanced)
 Forks not required, this repository will stay here forever.
 
 Download counts : 
-[![Download counts](https://img.shields.io/github/downloads/cuynu/ytvanced/total?logo=github)](https://github.com/cuynu/ytvanced/releases)
+[![Download counts](https://img.shields.io/github/downloads/cuynu/ytvanced/total?logo=github)](https://github.com/cuynu/ytvanced#download)
 ____________________________________________________
 
  
