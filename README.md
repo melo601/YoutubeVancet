@@ -18,6 +18,9 @@ ____________________________________________________
 - Architecture : Universal (arm64-v8a,armeabi-v7a,x86,x86_64)
 - Support all language supported by official YouTube client.
 
+# New information!
+
+**Maybe in future, my new YouTube Vanced releases will "Base on ReVanced and ReVanced Extended patches!"**
 ____________________________________________________
 
 # Download 
@@ -43,10 +46,6 @@ For Root user, please use YouTube Vanced Magisk Module below if you have Magisk 
 
 [Download Magisk Module YouTube Vanced Root 17.33.42 Black](https://github.com/cuynu/ytvanced/releases/download/17.33.42/YouTube.Vanced_17.33.42_Black_Root_MagiskModules.zip)
 
-____________________________________________________
-
-# Issues
-If you have issue or problem when using YouTube Vanced downloaded from my GitHub repository, feel free create issue on my GitHub repository [here.](https://github.com/cuynu/ytvanced/issues)
 ____________________________________________________
 
 # VirusTotal scan results and MD5 Hash
