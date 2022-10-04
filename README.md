@@ -26,6 +26,8 @@ ____________________________________________________
 # Download 
 Minimum Android version : 6.0.0 
 
+**YouTube Vanced Non-root** : 
+
 [Download unofficial YouTube Vanced 17.33.42](https://github.com/cuynu/ytvanced/releases/17.33.42)
 
 [Download YouTube Vanced 17.03.38 Black](https://github.com/cuynu/ytvanced/releases/download/17.03.38/YouTube.Vanced_17.03.38_Black.apk)
@@ -40,8 +42,7 @@ Beta Vanced MicroG (Recommended)
 
 [Download Vanced MicroG 0.2.25.223212](https://github.com/cuynu/ytvanced/releases/download/17.03.38/Vanced.microG_0.2.25.223212.apk)
 
-For Root user, please use YouTube Vanced Magisk Module below if you have Magisk : 
-
+**YouTube Vanced Root [Magisk Module]:**
 [Download Magisk Module YouTube Vanced Root 17.33.42 Dark](https://github.com/cuynu/ytvanced/releases/download/17.33.42/YouTube.Vanced_17.33.42_Dark_Root_MagiskModules.zip)
 
 [Download Magisk Module YouTube Vanced Root 17.33.42 Black](https://github.com/cuynu/ytvanced/releases/download/17.33.42/YouTube.Vanced_17.33.42_Black_Root_MagiskModules.zip)
@@ -115,3 +116,19 @@ PLANNED CHANGES FOR NEXT RELEASE
 Option to make SponsorBlock submitting and voting buttons appear under the video
 make RYD work in all layouts
 add more ad whitelist options such as viewing the entire list of whitelisted channels and a global video ads toggle
+
+
+# Commons installation problem and solution
+**App not installed :**
+- Free up some free storage space
+- Uninstall official YouTube Vanced client downloaded from Vanced Manager then reinstall using my APK file from my repository. Reason : Mismatch signature.
+
+**Crash when opening:**
+- Install or reinstall Vanced MicroG 
+- Turn off battery optimization for Vanced MicroG
+- Wipe app data and cache
+- Reinstall YouTube Vanced client
+
+**There was a problem parsing the package:**
+- Check your Android version, Make sure your current Android version meet minimum required Android version.
+- Redownload APK file.
