@@ -20,7 +20,7 @@ ____________________________________________________
 
 # New information!
 
-**Maybe in future, my new YouTube Vanced releases will "Base on ReVanced and ReVanced Extended patches!"**
+**I made a new YouTube Vanced version 17.41.34 based on ReVanced Patches, [See here!](https://github.com/cuynu/ytvanced/releases/17.41.34)**
 ____________________________________________________
 
 # Download 
