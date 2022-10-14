@@ -17,24 +17,25 @@ ____________________________________________________
 - [Can't install on Xiaomi MIUI devices?, See how to fix that with workaround!](https://github.com/cuynu/ytvanced#installation-for-miui)
 - Architecture : Universal (arm64-v8a,armeabi-v7a,x86,x86_64)
 - Support all language supported by official YouTube client.
-
-# New information!
-
-**I made a new YouTube Vanced version 17.41.34 based on ReVanced Patches, [See here!](https://github.com/cuynu/ytvanced/releases/17.41.34)**
 ____________________________________________________
 
 # Download 
-Minimum Android version : 6.0.0 
+Minimum Android version : 8 Oreo for version newer than 17.35.xx,
+6.0.0 for version older than 17.35.xx.
 
 **YouTube Vanced Non-root** : 
 
-[Download unofficial YouTube Vanced 17.33.42](https://github.com/cuynu/ytvanced/releases/17.33.42)
+ **Scroll down for official 17.03.38 version**
 
-[Download YouTube Vanced 17.03.38 Black](https://github.com/cuynu/ytvanced/releases/download/17.03.38/YouTube.Vanced_17.03.38_Black.apk)
+[Download YouTube Vanced Unofficial version 17.41.34 Black](https://github.com/cuynu/ytvanced/releases/download/17.41.34/YouTube.Vanced_17.41.34_Black_Universal.apk)
 
-[Download YouTube Vanced 17.03.38 Dark](https://github.com/cuynu/ytvanced/releases/download/17.03.38/YouTube_Vanced_17.03.38_Dark.apk)
+[Download YouTube Vanced Unofficial version 17.41.34 Dark](https://github.com/cuynu/ytvanced/releases/download/17.41.34/YouTube.Vanced_17.41.34_Dark_Universal.apk)
 
-[Download YouTube Music Vanced v4.64.51](https://github.com/cuynu/ytvanced/releases/download/17.03.38/Youtube_Music_v4.64.51.apk)
+[Download YouTube Vanced Official version 17.03.38 Black](https://github.com/cuynu/ytvanced/releases/download/17.03.38/YouTube.Vanced_17.03.38_Black.apk)
+
+[Download YouTube Vanced Official version 17.03.38 Dark](https://github.com/cuynu/ytvanced/releases/download/17.03.38/YouTube_Vanced_17.03.38_Dark.apk)
+
+[Download YouTube Music Official v4.64.51](https://github.com/cuynu/ytvanced/releases/download/17.03.38/Youtube_Music_v4.64.51.apk)
 
 [Download Vanced MicroG 0.2.24.220220](https://github.com/cuynu/ytvanced/releases/download/17.03.38/Vanced.microG_0.2.24.220220.apk)
 
