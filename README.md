@@ -41,7 +41,7 @@ Minimum Android version : 8 Oreo for version newer than 17.35.xx,
 
 [Download YouTube Music Official version 4.64.51](https://github.com/cuynu/ytvanced/releases/download/17.03.38/Youtube_Music_v4.64.51.apk)
 
-## Vanced MicroG
+### Vanced MicroG
 
 [Download Vanced MicroG 0.2.25.223212](https://github.com/cuynu/ytvanced/releases/download/17.03.38/Vanced.microG_0.2.25.223212.apk)
 
