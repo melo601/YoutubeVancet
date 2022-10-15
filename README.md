@@ -54,7 +54,34 @@ Beta Vanced MicroG (Recommended)
 
 ____________________________________________________
 
+# Open source
+YouTube Vanced are closed source before, but YouTube ReVanced patches is open source, my YouTube Vanced build version newer than 17.41.xx are based on ReVanced patches and i only rename from "ReVanced" to "Vanced". You can build using ReVanced patches and did that yourself.
+
 # VirusTotal scan results and MD5 Hash
+
+**Because all my YouTube Vanced apk files are signed with debug keys, so some security vendor will flag it is Android.PUA.DebugKey and A.gray.plugingame.d. Don't worry about that, its only a normal problem!**
+
+YouTube.Vanced.v17.41.34_Dark_Universal.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/4daec477dbb8ffaa43a0a1380a306ff1e617f79244da280f637e84630b3c5711)
+
+YouTube.Vanced_v17.41.34_Black_Universal.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/f72523d4a677277613f6a47c02873d4087beb8fc3cf8602aa5e2bb9d7632dabd)
+
+YouTube.Music.Vanced-v5.28.51_arm64-v8a.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/f7ad8f3c6c20448910a439ffeecb37926b613e351b57dc8003d676ec1c8efda1)
+
+YouTube.Vanced_17.33.42_Black_Universal.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/a85e693bc50f11998345ceec853226b852f34a286e4e4f74ebffd749d09c35e8)
+
+YouTube.Vanced_17.33.42_Dark_Universal.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/258dbc55467c2309a6f3d44580a102e2cdc58c22948e3e443f9f133b732aa3f6)
+
+YouTube.Vanced_17.33.42_Black_Root_MagiskModules.zip : [View on VirusTotal](https://www.virustotal.com/gui/file/d0c727c9fd047398c31781fad2d3174243538316446ff31c3479dbf164f0d157)
+
+YouTube.Vanced_17.33.42_Dark_Root_MagiskModules.zip : [View on VirusTotal](https://www.virustotal.com/gui/file/514c5138a938924a63a80bb44ec89b3aa483b6e70f2a6006a2f5f5978fbf26f8)
+
+YouTube_Vanced_17.28.34_Black_Universal.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/8378948c85b5fff02d92d576bf3dfd79fa60ea3cbeb0811d31ba076d908dba9d)
+
+YouTube_Vanced_17.28.34_Dark_Universal.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/0c31e07bdfe86bc4155a8d53a9bcdec9a14a565a75f81d8aa270991397452564)
+
+YouTube_Music_5.16.51_Universal.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/676ba04a4559ca579870a73e394738cdeb5afb61c52850d849c3bd2ccbdf3aef)
+
+Vanced.microG_0.2.25.223212.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/9056241397a85bef6c4b6489b92fe7700a841351277266dedf77c054f244ee4a)
 
 YouTube_Vanced_v17.03.38_Black.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/262ce8ea6d6eb04be448881aa2e99a627f1ff1b208f882ea6df6707697bfdf0c/summary)
 
@@ -66,6 +93,7 @@ YouTube_Music_v4.64.51.apk : [View on VirusTotal](https://www.virustotal.com/gui
 
 
 Vanced.MicroG.0.2.24.220220.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/e5ce4f9759d3e70ac479bf2d0707efe5a42fca8513cf387de583b8659dbfbbbf)
+
 
 [View MD5 hash file checksum](https://github.com/cuynu/ytvanced/wiki/MD5-Hash)
 
