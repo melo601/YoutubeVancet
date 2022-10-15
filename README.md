@@ -82,10 +82,10 @@ YouTube_Music_5.16.51_Universal.apk : [View on VirusTotal](https://www.virustota
 
 Vanced.microG_0.2.25.223212.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/9056241397a85bef6c4b6489b92fe7700a841351277266dedf77c054f244ee4a)
 
-YouTube_Vanced_v17.03.38_Black.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/262ce8ea6d6eb04be448881aa2e99a627f1ff1b208f882ea6df6707697bfdf0c/summary)
+YouTube_Vanced_v17.03.38_Black.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/2defe8f18374ec4f6c907869e4c09aeb515046d6b3d518d5eb48d3fcdb41dbad/summary)
 
 
-YouTube_Vanced_v17.03.38_Dark.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/2defe8f18374ec4f6c907869e4c09aeb515046d6b3d518d5eb48d3fcdb41dbad/summary)
+YouTube_Vanced_v17.03.38_Dark.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/262ce8ea6d6eb04be448881aa2e99a627f1ff1b208f882ea6df6707697bfdf0c/summary)
 
 
 YouTube_Music_v4.64.51.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/47a8398198f1a5266a28dfcb6281d2b75a1146e0fe4f6d1bd878586d95752445/summary)
