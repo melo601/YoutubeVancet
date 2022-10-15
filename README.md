@@ -21,7 +21,7 @@ ____________________________________________________
 - Support all language supported by official YouTube client.
 ____________________________________________________
 
-# Download 
+## Download 
 Minimum Android version : 8 Oreo for version newer than 17.35.xx,
 6.0.0 for version older than 17.35.xx.
 
@@ -54,9 +54,9 @@ Beta Vanced MicroG (Recommended)
 
 ____________________________________________________
 
-# Open source
+### Open source
 YouTube client for Android isn't open source, YouTube Vanced are is closed source before, but YouTube ReVanced patches is open source, my YouTube Vanced build version newer than 17.41.xx are based on ReVanced patches and i only rename from "ReVanced" to "Vanced", so you can build using ReVanced patches!
-# VirusTotal scan results and MD5 Hash
+## VirusTotal scan results and MD5 Hash
 
 **Because all my YouTube Vanced apk files are signed with debug keys, so some security vendor will flag it is Android.PUA.DebugKey, A.gray.generic and  A.gray.plugingame.d. Don't worry about that, its only a normal problem!**
 
@@ -98,7 +98,7 @@ Vanced.MicroG.0.2.24.220220.apk : [View on VirusTotal](https://www.virustotal.co
 
 ____________________________________________________
 
-# Installation for MIUI
+## Installation for MIUI
 [Some Xiaomi device that running MIUI may not be able to install due to security check by Xiaomi, you can workaround that by install [Package Installer (Google) from APKMirror (Select version depend on your Android version)](https://www.apkmirror.com/apk/google-inc/package-installer/) then install YouTube Vanced client with Package Installer (Google) instead of default Xiaomi APK installer.]
 
 ____________________________________________________
@@ -150,7 +150,7 @@ make RYD work in all layouts
 add more ad whitelist options such as viewing the entire list of whitelisted channels and a global video ads toggle
 
 
-# Commons installation problem and solution
+## Commons installation problem and solution
 **App not installed :**
 - Free up some free storage space
 - Uninstall official YouTube Vanced client downloaded from Vanced Manager then reinstall using my APK file from my repository. Reason : Mismatch signature.
