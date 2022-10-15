@@ -103,14 +103,14 @@ ____________________________________________________
 
 ____________________________________________________
 
-# Important Information from Vanced
+## Important Information from Vanced
 
 Thông báo từ Vanced / Important information from Vanced
 ![Preview](https://files.catbox.moe/ricm16.jpg)
 
 ____________________________________________________
 
-# Changelog [(see releases for full changelog)](https://github.com/cuynu/ytvanced/releases)
+## Changelog [(see releases for full changelog)](https://github.com/cuynu/ytvanced/releases)
 Vanced (v17.03.38)
 Changelog:
 
@@ -139,15 +139,11 @@ replaced the "Change colors" button with a text field inside of each category's 
 403 messages (warns, locked video/segment) will now be properly displayed
 added an option to enable SB browser button.
 
-Option to change the API URL KNOWN ISSUES:
+Option to change the API URL 
+
+KNOWN ISSUES:
 On new action bar layouts(server-sided feature), the new toggles won't work. (Around 15% of users are currently affected by it)
 all the usual previous issues relating to Chromecast, codec override, swipe controls bug while scrolling in landscape mode and swipe down gesture to refresh.
-
-PLANNED CHANGES FOR NEXT RELEASE
-
-Option to make SponsorBlock submitting and voting buttons appear under the video
-make RYD work in all layouts
-add more ad whitelist options such as viewing the entire list of whitelisted channels and a global video ads toggle
 
 
 ## Commons installation problem and solution
