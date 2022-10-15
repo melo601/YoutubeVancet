@@ -31,11 +31,13 @@ Minimum Android version : 8 Oreo for version newer than 17.35.xx,
 
 [Download YouTube Vanced Unofficial version 17.41.34 Dark](https://github.com/cuynu/ytvanced/releases/download/17.41.34/YouTube.Vanced.v17.41.34_Dark_Universal.apk)
 
+[Download YouTube Music Vanced Unofficial version 5.28.51 (only arm64-v8a)](https://github.com/cuynu/ytvanced/releases/download/17.41.34/YouTube.Music.Vanced-v5.28.51_arm64-v8a.apk)
+
 [Download YouTube Vanced Official version 17.03.38 Black](https://github.com/cuynu/ytvanced/releases/download/17.03.38/YouTube.Vanced_17.03.38_Black.apk)
 
 [Download YouTube Vanced Official version 17.03.38 Dark](https://github.com/cuynu/ytvanced/releases/download/17.03.38/YouTube_Vanced_17.03.38_Dark.apk)
 
-[Download YouTube Music Official v4.64.51](https://github.com/cuynu/ytvanced/releases/download/17.03.38/Youtube_Music_v4.64.51.apk)
+[Download YouTube Music Official version 4.64.51](https://github.com/cuynu/ytvanced/releases/download/17.03.38/Youtube_Music_v4.64.51.apk)
 
 [Download Vanced MicroG 0.2.24.220220](https://github.com/cuynu/ytvanced/releases/download/17.03.38/Vanced.microG_0.2.24.220220.apk)
 
