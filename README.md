@@ -1,8 +1,6 @@
 # YouTube Vanced
 YouTube Vanced &amp; Vanced MicroG Direct APK Install without Vanced Manager
 
-YouTube Vanced Features : **Block advertisement,SponsorBlock,Return YouTube Dislikes,Play in background/pip and many more!**
-
 Credits YouTube Vanced : [Vanced Team](https://github.com/TeamVanced)
 
 Forks not required, this repository will stay here forever.
@@ -15,6 +13,8 @@ ____________________________________________________
 (Without Vanced MicroG, YouTube Vanced will crash due to missing MicroG, Please install Vanced MicroG below.)
 
 (Không có Vanced MicroG, YouTube Vanced sẽ không chạy, vui lòng cài đặt Vanced MicroG bên dưới.)
+
+- YouTube Vanced Features : **Block advertisement,SponsorBlock,Return YouTube Dislikes,Play in background/pip and many more!**
 
 - **[Can't install on Xiaomi MIUI devices?, See how to fix that with workaround!](https://github.com/cuynu/ytvanced#installation-for-miui)**
 - Architecture : Universal (arm64-v8a,armeabi-v7a,x86,x86_64)
