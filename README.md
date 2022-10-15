@@ -55,8 +55,7 @@ Beta Vanced MicroG (Recommended)
 ____________________________________________________
 
 # Open source
-YouTube Vanced are closed source before, but YouTube ReVanced patches is open source, my YouTube Vanced build version newer than 17.41.xx are based on ReVanced patches and i only rename from "ReVanced" to "Vanced". You can build using ReVanced patches and did that yourself.
-
+YouTube client for Android isn't open source, YouTube Vanced are is closed source before, but YouTube ReVanced patches is open source, my YouTube Vanced build version newer than 17.41.xx are based on ReVanced patches and i only rename from "ReVanced" to "Vanced", so you can build using ReVanced patches!
 # VirusTotal scan results and MD5 Hash
 
 **Because all my YouTube Vanced apk files are signed with debug keys, so some security vendor will flag it is Android.PUA.DebugKey and A.gray.plugingame.d. Don't worry about that, its only a normal problem!**
