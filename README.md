@@ -14,7 +14,7 @@ ____________________________________________________
 
 (Không có Vanced MicroG, YouTube Vanced sẽ không chạy, vui lòng cài đặt Vanced MicroG bên dưới.)
 
-- YouTube Vanced Features : **Block advertisement,SponsorBlock,Return YouTube Dislikes,Play in background/pip and many more!**
+- YouTube Vanced Features : **Block advertisement,[SponsorBlock](https://sponsor.ajay.app/),[Return YouTube Dislikes](https://www.returnyoutubedislike.com/),Play in background/pip and many more!**
 
 - **[Can't install on Xiaomi MIUI devices?, See how to fix that with workaround!](https://github.com/cuynu/ytvanced#installation-for-miui)**
 - Architecture : Universal (arm64-v8a,armeabi-v7a,x86,x86_64)
