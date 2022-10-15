@@ -21,7 +21,7 @@ ____________________________________________________
 - Support all language supported by official YouTube client.
 ____________________________________________________
 
-## Download 
+# Download 
 Minimum Android version : 8 Oreo for version newer than 17.35.xx,
 6.0.0 for version older than 17.35.xx.
 
