@@ -55,7 +55,7 @@ Minimum Android version : 8 Oreo for version newer than 17.35.xx,
 ____________________________________________________
 
 ### Open source
-YouTube client for Android isn't open source, YouTube Vanced are is closed source before, but YouTube ReVanced patches is open source, my YouTube Vanced build version newer than 17.41.xx are based on ReVanced patches and i only rename from "ReVanced" to "Vanced", so you can build using ReVanced patches!
+YouTube client for Android isn't open source, YouTube Vanced are is closed source before, but YouTube ReVanced patches is open source, my YouTube Vanced build version newer than 17.41.xx are based on ReVanced patches so you can build using ReVanced patches!
 ## VirusTotal scan results and MD5 Hash
 
 **Because all my YouTube Vanced apk files are signed with debug keys, so some security vendor will flag it is Android.PUA.DebugKey, A.gray.generic and  A.gray.plugingame.d. Don't worry about that, its only a normal problem!**
