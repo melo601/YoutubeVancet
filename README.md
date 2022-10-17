@@ -110,41 +110,7 @@ Thông báo từ Vanced / Important information from Vanced
 
 ____________________________________________________
 
-## Changelog [(see releases for full changelog)](https://github.com/cuynu/ytvanced/releases)
-Vanced (v17.03.38)
-Changelog:
-
-Main changes:
-Bumped base
-
-ReturnYouTubeDislike integration (NOT FOR SHORTS ALSO SEE KNOWN ISSUES)
-
-Channel whitelisting for video ads
-
-Improved ad-blocking
-
-Comments location (alpha) has been removed (because Google pushed new comments to tablet UI)
-
-Added tablet style under swipe controls for partially disabling recommended videos in landscape mode and other tablet styled UI
-
-Added support for themed icon (Android 13+) Sponsorblock changes:
-
-added support for channel whitelisting (see the "Channel whitelisting" toggle in sb settings)
-
-added support for setting the minimum segment duration
-
-added the filler category
-
-replaced the "Change colors" button with a text field inside of each category's setting
-403 messages (warns, locked video/segment) will now be properly displayed
-added an option to enable SB browser button.
-
-Option to change the API URL 
-
-KNOWN ISSUES:
-On new action bar layouts(server-sided feature), the new toggles won't work. (Around 15% of users are currently affected by it)
-all the usual previous issues relating to Chromecast, codec override, swipe controls bug while scrolling in landscape mode and swipe down gesture to refresh.
-
+## Changelogs [(see releases for changelogs)](https://github.com/cuynu/ytvanced/releases)
 
 ## Commons installation problem and solution
 **App not installed :**
