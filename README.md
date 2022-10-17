@@ -25,9 +25,15 @@ ____________________________________________________
 Minimum Android version : 8 Oreo for version newer than 17.35.xx,
 6.0.0 for version older than 17.35.xx.
 
+*Vanced MicroG (required to use YouTube Vanced non-root version, not needed for root version)*
+
+[Download Vanced MicroG 0.2.25.223212](https://github.com/cuynu/ytvanced/releases/download/17.03.38/Vanced.microG_0.2.25.223212.apk)
+
+[Download Vanced MicroG 0.2.24.220220](https://github.com/cuynu/ytvanced/releases/download/17.03.38/Vanced.microG_0.2.24.220220.apk)
+
 **YouTube Vanced Non-root** : 
 
- **Scroll down for official 17.03.38 version**
+**Unofficial version (Recommended)** :
 
 [Download YouTube Vanced Unofficial version 17.41.34 Black](https://github.com/cuynu/ytvanced/releases/download/17.41.34/YouTube.Vanced.v17.41.34_Black_Universal.apk)
 
@@ -35,19 +41,16 @@ Minimum Android version : 8 Oreo for version newer than 17.35.xx,
 
 [Download YouTube Music Vanced Unofficial version 5.28.51 (only arm64-v8a)](https://github.com/cuynu/ytvanced/releases/download/17.41.34/YouTube.Music.Vanced-v5.28.51_arm64-v8a.apk)
 
+**Official version (outdated, may have ads in homepage)**
+
 [Download YouTube Vanced Official version 17.03.38 Black](https://github.com/cuynu/ytvanced/releases/download/17.03.38/YouTube.Vanced_17.03.38_Black.apk)
 
 [Download YouTube Vanced Official version 17.03.38 Dark](https://github.com/cuynu/ytvanced/releases/download/17.03.38/YouTube_Vanced_17.03.38_Dark.apk)
 
 [Download YouTube Music Official version 4.64.51](https://github.com/cuynu/ytvanced/releases/download/17.03.38/Youtube_Music_v4.64.51.apk)
 
-**Beta Vanced MicroG (Recommended)**
-
-[Download Vanced MicroG 0.2.25.223212](https://github.com/cuynu/ytvanced/releases/download/17.03.38/Vanced.microG_0.2.25.223212.apk)
-
-[Download Vanced MicroG 0.2.24.220220](https://github.com/cuynu/ytvanced/releases/download/17.03.38/Vanced.microG_0.2.24.220220.apk)
-
 **YouTube Vanced Root [Magisk Module]:**
+
 [Download Magisk Module YouTube Vanced Root 17.33.42 Dark](https://github.com/cuynu/ytvanced/releases/download/17.33.42/YouTube.Vanced_17.33.42_Dark_Root_MagiskModules.zip)
 
 [Download Magisk Module YouTube Vanced Root 17.33.42 Black](https://github.com/cuynu/ytvanced/releases/download/17.33.42/YouTube.Vanced_17.33.42_Black_Root_MagiskModules.zip)
