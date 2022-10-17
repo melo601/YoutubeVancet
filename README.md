@@ -2,7 +2,7 @@
 YouTube Vanced &amp; Vanced MicroG Direct APK Install without Vanced Manager
 
 <a href="https://github.com/cuynu/ytvanced#download">
-<img alt="vanced" src="https://github.com/cuynu/archive/releases/download/archive/vanced2.jpg" width="500" height="280" />
+<img alt="vanced" src="https://github.com/cuynu/archive/releases/download/archive/vanced2.jpg" width="250" height="140" />
 </a>
 
 Credits YouTube Vanced : [Vanced Team](https://github.com/TeamVanced)
