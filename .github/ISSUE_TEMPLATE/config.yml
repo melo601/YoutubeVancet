@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Ask a question or suggestion
+    url: https://github.com/cuynu/ytvanced/discussions
+    about: If you have a question or requests, visit Discussion tab. DO NOT CREATE ISSUE IF YOU DON'T HAVE ISSUE.
