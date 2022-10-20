@@ -29,6 +29,8 @@ ____________________________________________________
 Minimum Android version : 8 Oreo for version newer than 17.35.xx,
 6.0.0 for version older than 17.35.xx.
 
+Please note, YouTube Vanced version newer than 17.33.42 now based on ReVanced and ReVanced Extended patches!
+
 **Vanced MicroG** **(required to use YouTube Vanced non-root version, not needed for root version)**
 
 [Download Vanced MicroG 0.2.25.223212](https://github.com/cuynu/ytvanced/releases/download/17.03.38/Vanced.microG_0.2.25.223212.apk)
