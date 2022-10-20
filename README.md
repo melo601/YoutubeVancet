@@ -57,9 +57,11 @@ Please note, YouTube Vanced version newer than 17.33.42 now based on ReVanced an
 
 **YouTube Vanced Root [Magisk Module]:**
 
-[Download Magisk Module YouTube Vanced Root 17.33.42 Dark](https://github.com/cuynu/ytvanced/releases/download/17.33.42/YouTube.Vanced_17.33.42_Dark_Root_MagiskModules.zip)
+[Download Magisk Module YouTube Vanced Root 17.41.34 Black](https://github.com/cuynu/ytvanced/releases/download/17.41.34/YouTube.Vanced.v17.41.34_Black_MagiskModule.zip)
 
 [Download Magisk Module YouTube Vanced Root 17.33.42 Black](https://github.com/cuynu/ytvanced/releases/download/17.33.42/YouTube.Vanced_17.33.42_Black_Root_MagiskModules.zip)
+
+[Download Magisk Module YouTube Vanced Root 17.33.42 Dark](https://github.com/cuynu/ytvanced/releases/download/17.33.42/YouTube.Vanced_17.33.42_Dark_Root_MagiskModules.zip)
 
 ____________________________________________________
 
