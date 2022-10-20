@@ -18,6 +18,8 @@ ____________________________________________________
 
 (Không có Vanced MicroG, YouTube Vanced sẽ không chạy, vui lòng cài đặt Vanced MicroG bên dưới.)
 
+- **[Changelogs and known issues](https://github.com/cuynu/ytvanced/releases)**
+
 - YouTube Vanced Features : **Block advertisement,[SponsorBlock](https://sponsor.ajay.app/),[Return YouTube Dislikes](https://www.returnyoutubedislike.com/),Play in background/pip and many more!**
 
 - **[Can't install on Xiaomi MIUI devices?, See how to fix that with workaround!](https://github.com/cuynu/ytvanced#installation-for-miui)**
@@ -28,8 +30,6 @@ ____________________________________________________
 # Download 
 Minimum Android version : 8 Oreo for version newer than 17.35.xx,
 6.0.0 for version older than 17.35.xx.
-
-Please note, YouTube Vanced version newer than 17.33.42 now based on ReVanced and ReVanced Extended patches!
 
 **Vanced MicroG** **(required to use YouTube Vanced non-root version, not needed for root version)**
 
@@ -121,7 +121,7 @@ Thông báo từ Vanced / Important information from Vanced
 
 ____________________________________________________
 
-## Changelogs [(see releases for changelogs)](https://github.com/cuynu/ytvanced/releases)
+**[Changelogs and known issues](https://github.com/cuynu/ytvanced/releases)**
 
 ## Commons installation problem and solution
 
