@@ -45,8 +45,9 @@ Minimum Android version : 8 (Oreo) for version 17.41.34 and above,
 
 [Download YouTube Vanced Unofficial version 17.41.34 Dark](https://github.com/cuynu/ytvanced/releases/download/17.41.34/YouTube.Vanced.v17.41.34_Dark_Universal.apk)
 
+[Download YouTube Music Vanced Unofficial version 5.28.51](https://github.com/cuynu/ytvanced/releases/download/17.41.34/YouTube.Music.Vanced-v5.28.51_Universal.apk)
 
-[Download YouTube Music Vanced Unofficial version 5.28.51 (only arm64-v8a)](https://github.com/cuynu/ytvanced/releases/download/17.41.34/YouTube.Music.Vanced-v5.28.51_arm64-v8a.apk)
+[Download YouTube Music Vanced Unofficial version 5.28.51 (Only armeabi-v7a,arm64-v8a)](https://github.com/cuynu/ytvanced/releases/download/17.41.34/YouTube.Music.Vanced-v5.28.51_2arch.apk)
 
 Looking old version for Android below 8 Oreo? [Download YouTube Vanced Unofficial 17.33.42](https://github.com/cuynu/ytvanced/releases/17.33.42) . 17.33.42 is last version that support Android below 8 Oreo.
 
