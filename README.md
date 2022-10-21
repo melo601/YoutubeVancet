@@ -59,7 +59,7 @@ Looking old version for Android below 8 Oreo? [Download YouTube Vanced Unofficia
 
 **YouTube Vanced Root [Magisk Module]:**
 
-[Download Magisk Module YouTube Vanced Root 17.41.34 Black](https://github.com/cuynu/ytvanced/releases/download/17.41.34/YouTube.Vanced.v17.41.34_Black_MagiskModule.zip)
+[Download Magisk Module YouTube Vanced Root 17.41.34 Black](https://github.com/cuynu/ytvanced/releases/download/17.41.34/YouTube.Vanced_v17.41.34_Black_MagiskModules_fixed.zip)
 
 [Download Magisk Module YouTube Vanced Root 17.33.42 Black](https://github.com/cuynu/ytvanced/releases/download/17.33.42/YouTube.Vanced_17.33.42_Black_Root_MagiskModules.zip)
 
