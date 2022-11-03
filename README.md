@@ -1,11 +1,11 @@
 # YouTube Vanced
-YouTube Vanced &amp; Vanced MicroG Direct APK Install without Vanced Manager
+YouTube Vanced &amp; Vanced MicroG APK install without Manager
 
 <a href="https://github.com/cuynu/ytvanced#download">
 <img alt="vanced" src="https://github.com/cuynu/archive/releases/download/archive/vanced2.jpg" width="270" height="150" />
 </a>
 
-Credits YouTube Vanced : [Vanced Team](https://github.com/TeamVanced)
+Credits YouTube Vanced : [Vanced Team](https://vancedapp.com)
 
 Forks not required, this repository will stay here forever.
 
@@ -58,13 +58,13 @@ Looking old version for Android below 8 Oreo? [Download YouTube Vanced Unofficia
 
 [Download YouTube Music Official version 4.64.51](https://github.com/cuynu/ytvanced/releases/download/17.03.38/Youtube_Music_v4.64.51.apk)
 
-**YouTube Vanced Root [Magisk Module]:**
+**YouTube Vanced [Magisk Module]:**
 
-[Download Magisk Module YouTube Vanced Root 17.41.34 Black](https://github.com/cuynu/ytvanced/releases/download/17.41.34/YouTube.Vanced_v17.41.34_Black_MagiskModules_fixed.zip)
+[Download Magisk Module YouTube Vanced 17.41.34 Black](https://github.com/cuynu/ytvanced/releases/download/17.41.34/YouTube.Vanced_v17.41.34_Black_MagiskModules_fixed.zip)
 
-[Download Magisk Module YouTube Vanced Root 17.33.42 Black](https://github.com/cuynu/ytvanced/releases/download/17.33.42/YouTube.Vanced_17.33.42_Black_Root_MagiskModules.zip)
+[Download Magisk Module YouTube Vanced 17.33.42 Black](https://github.com/cuynu/ytvanced/releases/download/17.33.42/YouTube.Vanced_17.33.42_Black_Root_MagiskModules.zip)
 
-[Download Magisk Module YouTube Vanced Root 17.33.42 Dark](https://github.com/cuynu/ytvanced/releases/download/17.33.42/YouTube.Vanced_17.33.42_Dark_Root_MagiskModules.zip)
+[Download Magisk Module YouTube Vanced 17.33.42 Dark](https://github.com/cuynu/ytvanced/releases/download/17.33.42/YouTube.Vanced_17.33.42_Dark_Root_MagiskModules.zip)
 
 ____________________________________________________
 
