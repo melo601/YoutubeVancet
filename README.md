@@ -68,6 +68,13 @@ Looking old version for Android below 8 Oreo? [Download YouTube Vanced Unofficia
 
 ____________________________________________________
 
+## Discussion 
+
+ [Discussion on GitHub](https://github.com/cuynu/ytvanced/discussions)
+ 
+[Discussion on Telegram (multiple languages)](https://t.me/feedbackvmess)
+
+
 ## Translation YouTube Vanced
 
 You can contributor translate YouTube Vanced to your language by visit [ReVanced Extended Crowdin](https://crowdin.com/project/revancedextended)
