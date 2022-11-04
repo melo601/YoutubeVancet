@@ -68,6 +68,12 @@ Looking old version for Android below 8 Oreo? [Download YouTube Vanced Unofficia
 
 ____________________________________________________
 
+## Translation YouTube Vanced
+
+You can contributor translate YouTube Vanced to your language by visit [ReVanced Extended Crowdin](https://crowdin.com/project/revancedextended)
+
+This is temporary translate site, i will make own later!
+
 ### Open source
 YouTube client for Android isn't open source, YouTube Vanced are is closed source before, but YouTube ReVanced patches is open source, my YouTube Vanced build version newer than 17.41.xx are based on ReVanced patches so you can build using ReVanced patches!
 ## VirusTotal scan results and MD5 Hash
