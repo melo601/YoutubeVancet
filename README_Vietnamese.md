@@ -43,9 +43,9 @@ Phiên bản Android tối thiểu : 8 (Oreo) cho phiên bản 17.41.34 hoặc c
 
 [Tải xuống YouTube Music Vanced Unofficial version 5.28.51 (chỉ armeabi-v7a,arm64-v8a)](https://github.com/cuynu/ytvanced/releases/download/17.41.34/YouTube.Music.Vanced-v5.28.51_2arch.apk)
 
-Bạn đang tìm YouTube Vanced cho Android dưới 8 Oreo? [Tải xuống YouTube Vanced Unofficial 17.33.42](https://github.com/cuynu/ytvanced/releases/17.33.42) . 17.33.42 is last version that support Android below 8 Oreo.
+Bạn đang tìm YouTube Vanced cho Android dưới 8 Oreo? [Tải xuống YouTube Vanced Unofficial 17.33.42](https://github.com/cuynu/ytvanced/releases/17.33.42) . 17.33.42 là phiên bản cuối cùng hỗ trợ Android dưới 8 Oreo.
 
-**Phiên bản chính thức **(Đã quá cũ, có thể có quảng cáo hoặc lỗi)**
+**Phiên bản chính thức (Đã quá cũ, có thể có quảng cáo hoặc lỗi)**
 [Tải xuống YouTube Vanced Official 17.03.38 Black](https://github.com/cuynu/ytvanced/releases/download/17.03.38/YouTube.Vanced_17.03.38_Black.apk)
 
 [Tải xuống YouTube Vanced Official 17.03.38 Dark](https://github.com/cuynu/ytvanced/releases/download/17.03.38/YouTube_Vanced_17.03.38_Dark.apk)
@@ -70,8 +70,7 @@ Tạm thời sử dụng crowdin của ReVanced, tôi sẽ làm crowdin riêng s
 
 ## VirusTotal và MD5 Hash
 
-**Because all my YouTube Vanced apk files are signed with debug keys, so some security vendor will flag it as malicious. Don't worry about this, its only a normal problem!**
-
+**Vì các file APK YouTube Vanced của tôi đều được sign bằng key debug, nên VirusTotal có thể nhận diện là độc hại, đừng lo lắng, nó chỉ là vấn đề bình thường!
 YouTube.Vanced.v17.41.34_Dark_Universal.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/4daec477dbb8ffaa43a0a1380a306ff1e617f79244da280f637e84630b3c5711)
 
 YouTube.Vanced_v17.41.34_Black_Universal.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/f72523d4a677277613f6a47c02873d4087beb8fc3cf8602aa5e2bb9d7632dabd)
@@ -111,25 +110,21 @@ Vanced.MicroG.0.2.24.220220.apk : [View on VirusTotal](https://www.virustotal.co
 ____________________________________________________
 
 ## Cài đặt cho MIUI
-[Some Xiaomi device that running MIUI may not be able to install due to security check by Xiaomi, you can workaround that by install [Package Installer (Google) from APKMirror (Select version depend on your Android version)](https://www.apkmirror.com/apk/google-inc/package-installer/) then install YouTube Vanced client with Package Installer (Google) instead of default Xiaomi APK installer.]
-
+[Một số thiết bị Xiaomi chạy MIUI sẽ không thể cài đặt do bảo mật của Xiaomi, bạn có thể khắc phục bằng cách tắt tối ưu hoá MIUI trong tuỳ chọn nhà phát triển và cài đặt [Package Installer (Google) Từ APKMirror (Chọn đúng phiên bản Android của bạn)](https://www.apkmirror.com/apk/google-inc/package-installer/) sau đó, cài đặt YouTube Vanced bằng Package Installer thay vì trình cài đặt APK của Xiaomi.]
 ____________________________________________________
-
-## Important Information from Vanced
 
 Thông báo từ Vanced / Important information from Vanced
 ![Preview](https://files.catbox.moe/ricm16.jpg)
 
 ____________________________________________________
 
-**[Changelogs and known issues](https://github.com/cuynu/ytvanced/releases)**
+**[Nhật ký thay đổi và vấn đề đã biết](https://github.com/cuynu/ytvanced/releases)**
 
-## Commons installation problem and solution
+## Các vấn đề thường gặp
 
-**No internet connection:**
-- Remove your account from Vanced MicroG (If have and try again)
-- Enable auto start for Vanced MicroG if you use heavy customized Android version such as OneUI,MIUI,etc
-
+**Không có kết nối Internet:**
+- Xoá tài khoản Google của bạn khỏi Vanced MicroG và thêm lại (nếu có và thử lại.)
+- Cho phép Vanced MicroG chạy nền nếu bạn sử dụng Android được tùy biến sâu (
 
 **App not installed :**
 - Free up some free storage space
