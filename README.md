@@ -126,7 +126,7 @@ Vanced.MicroG.0.2.24.220220.apk : [View on VirusTotal](https://www.virustotal.co
 ____________________________________________________
 
 ## Installation for MIUI
-[Some Xiaomi device that running MIUI may not be able to install due to security check by Xiaomi, you can workaround that by install [Package Installer (Google) from APKMirror (Select version depend on your Android version)](https://www.apkmirror.com/apk/google-inc/package-installer/) then install YouTube Vanced client with Package Installer (Google) instead of default Xiaomi APK installer.]
+[Some Xiaomi device that running MIUI may not be able to install due to security check by Xiaomi and MIUI Optimization, you can workaround that by install [Package Installer (Google) from APKMirror (Select version depend on your Android version)](https://www.apkmirror.com/apk/google-inc/package-installer/) and turn off MIUI Optimization on Developer options then install YouTube Vanced client with Package Installer (Google) instead of default Xiaomi APK installer.]
 
 ____________________________________________________
 
