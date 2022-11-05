@@ -58,7 +58,7 @@ Looking old version for Android below 8 Oreo? [Download YouTube Vanced Unofficia
 
 [Download YouTube Music Official version 4.64.51](https://github.com/cuynu/ytvanced/releases/download/17.03.38/Youtube_Music_v4.64.51.apk)
 
-**YouTube Vanced [Magisk Module]:**
+**YouTube Vanced Root [Magisk Module]:**
 
 [Download Magisk Module YouTube Vanced 17.41.34 Black](https://github.com/cuynu/ytvanced/releases/download/17.41.34/YouTube.Vanced_v17.41.34_Black_MagiskModules_fixed.zip)
 
