@@ -59,15 +59,19 @@ Minimum Android version : 8 (Oreo) for version 17.41.34 and above,
 
 ## YouTube Vanced old/outdated version
 
-[Download YouTube Vanced Unofficial 17.33.42](https://github.com/cuynu/ytvanced/wiki/ytvanced_old#173342-outdated)
+You can download old/outdated version of YouTube Vanced, YouTube Music Vanced and Vanced MicroG here, BUT PLEASE DO NOT REPORT BUGS ON THESE VERSION.
 
-[Download YouTube Vanced Unofficial 17.28.34](https://github.com/cuynu/ytvanced/wiki/ytvanced_old#172834-very-outdated)
+[Download YouTube Vanced Unofficial 17.33.42](https://github.com/cuynu/ytvanced/wiki/17.33.42)
 
-[Download YouTube Vanced Official 17.03.38](https://github.com/cuynu/ytvanced/wiki/ytvanced_old#170338-very-outdated)
+[Download YouTube Vanced Unofficial 17.28.34](https://github.com/cuynu/ytvanced/wiki/17.28.34)
 
-[Download YouTube Music Vanced Unofficial 5.16.51](https://github.com/cuynu/ytvanced/wiki/ytvanced_old#51651)
+[Download YouTube Vanced Official 17.03.38](https://github.com/cuynu/ytvanced/wiki/17.03.38)
 
-[Download YouTube Music Vanced Official 4.64.51](https://github.com/cuynu/ytvanced/wiki/ytvanced_old#46451)
+[Download YouTube Music Vanced Unofficial 5.16.51](https://github.com/cuynu/ytvanced/wiki/5.16.51)
+
+[Download YouTube Music Vanced Official 4.64.51](https://github.com/cuynu/ytvanced/wiki/4.64.51)
+
+[Download old Vanced MicroG](https://github.com/cuynu/ytvanced/wiki/MicroG)
 ____________________________________________________
 
 ## Discussion 
