@@ -71,9 +71,6 @@ ____________________________________________________
 ## Discussion 
 
  [Discussion on GitHub (English)](https://github.com/cuynu/ytvanced/discussions)
- 
-[Discussion on Telegram (English/Vietnamese)](https://t.me/feedbackvmess)
-
 
 ## Translation YouTube Vanced
 
