@@ -39,6 +39,11 @@ Minimum Android version : 8 (Oreo) for version 17.41.34 and above,
 **YouTube Vanced Non-root** : 
 
 **Unofficial version (Recommended)** :
+Latest version is : 17.42.33
+
+[Download YouTube Vanced Unofficial version 17.42.33 Black](https://github.com/cuynu/ytvanced/releases/download/17.42.33/YouTube.Vanced.v17.42.33_Black_Universal.apk)
+
+[Download YouTube Vanced Unofficial version 17.42.33 Dark](https://github.com/cuynu/ytvanced/releases/download/17.42.33/YouTube.Vanced.v17.42.33_Dark_Universal.apk)
 
 [Download YouTube Vanced Unofficial version 17.41.34 Black](https://github.com/cuynu/ytvanced/releases/download/17.41.34/YouTube.Vanced.v17.41.34_Black_Universal.apk)
 
@@ -161,4 +166,4 @@ ____________________________________________________
 
 **There was a problem parsing the package:**
 - Check your Android version, Make sure your current Android version meet minimum required Android version.
-- Redownload APK file.
+- Redownload APK file..
