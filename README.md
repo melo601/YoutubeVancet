@@ -70,9 +70,9 @@ ____________________________________________________
 
 ## Discussion 
 
- [Discussion on GitHub](https://github.com/cuynu/ytvanced/discussions)
+ [Discussion on GitHub (English)](https://github.com/cuynu/ytvanced/discussions)
  
-[Discussion on Telegram (multiple languages)](https://t.me/feedbackvmess)
+[Discussion on Telegram (English/Vietnamese)](https://t.me/feedbackvmess)
 
 
 ## Translation YouTube Vanced
