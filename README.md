@@ -56,6 +56,8 @@ Latest version is : 17.42.33
 
 **YouTube Vanced Root [Magisk Module]**
 
+[Download Magisk Module YouTube Vanced 17.42.33 Dark](https://github.com/cuynu/ytvanced/releases/download/17.42.33/YouTube.Vanced_v17.42.33_Dark_MagiskModules.zip)
+
 [Download Magisk Module YouTube Vanced 17.41.34 Black](https://github.com/cuynu/ytvanced/releases/download/17.41.34/YouTube.Vanced_v17.41.34_Black_MagiskModules_fixed.zip)
 
 [Download Magisk Module YouTube Vanced 17.33.42 Black](https://github.com/cuynu/ytvanced/releases/download/17.33.42/YouTube.Vanced_17.33.42_Black_Root_MagiskModules.zip)
