@@ -28,7 +28,7 @@ ____________________________________________________
 
 # Download 
 Minimum Android version : 8 (Oreo) for version 17.41.34 and above,
-6.0.0 for version 17.33.42 or lower.
+6.0.0 for version [17.33.42](https://github.com/cuynu/ytvanced/releases/tag/17.33.42) or lower.
 
 **Vanced MicroG** **(required to use YouTube Vanced non-root version, not needed for root version)**
 
@@ -48,9 +48,6 @@ Minimum Android version : 8 (Oreo) for version 17.41.34 and above,
 
 [Download YouTube Music Vanced Unofficial version 5.28.51 (Only armeabi-v7a,arm64-v8a)](https://github.com/cuynu/ytvanced/releases/download/17.41.34/YouTube.Music.Vanced-v5.28.51_2arch.apk)
 
-Looking for old or official old version? 
-
-[Download YouTube Vanced old/outdated version](https://github.com/cuynu/ytvanced/wiki/ytvanced_old)
 
 **YouTube Vanced Root [Magisk Module]**
 
@@ -60,6 +57,17 @@ Looking for old or official old version?
 
 [Download Magisk Module YouTube Vanced 17.33.42 Dark](https://github.com/cuynu/ytvanced/releases/download/17.33.42/YouTube.Vanced_17.33.42_Dark_Root_MagiskModules.zip)
 
+## YouTube Vanced old/outdated version
+
+[Download YouTube Vanced Unofficial 17.33.42](https://github.com/cuynu/ytvanced/wiki/ytvanced_old#173342-outdated)
+
+[Download YouTube Vanced Unofficial 17.28.34](https://github.com/cuynu/ytvanced/wiki/ytvanced_old#172834-very-outdated)
+
+[Download YouTube Vanced Official 17.03.38](https://github.com/cuynu/ytvanced/wiki/ytvanced_old#170338-very-outdated)
+
+[Download YouTube Music Vanced Unofficial 5.16.51](https://github.com/cuynu/ytvanced/wiki/ytvanced_old#51651)
+
+[Download YouTube Music Vanced Official 4.64.51](https://github.com/cuynu/ytvanced/wiki/ytvanced_old#46451)
 ____________________________________________________
 
 ## Discussion 
