@@ -42,7 +42,7 @@ Latest version is : 17.43.36
 
 [Download YouTube Vanced Unofficial version 17.43.36 Black](https://github.com/cuynu/ytvanced/releases/download/17.43.36/YouTube.Vanced.v17.43.36_Black_Universal.apk)
 
-[Download YouTube Vanced Unofficial version 17.43.36 Dark](https://github.com/cuynu/ytvanced/releases/download/17.43.36/YouTube.Vanced.v17.43.36_Dark_Universal.apk
+[Download YouTube Vanced Unofficial version 17.43.36 Dark](https://github.com/cuynu/ytvanced/releases/download/17.43.36/YouTube.Vanced.v17.43.36_Dark_Universal.apk)
 
 [Download YouTube Vanced Unofficial version 17.42.33 Black](https://github.com/cuynu/ytvanced/releases/download/17.42.33/YouTube.Vanced.v17.42.33_Black_Universal.apk)
 
