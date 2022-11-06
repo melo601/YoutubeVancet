@@ -38,7 +38,11 @@ Minimum Android version : 8 (Oreo) for version 17.41.34 and above,
 **YouTube Vanced Non-root** : 
 
 **Unofficial version (Recommended)** :
-Latest version is : 17.42.33
+Latest version is : 17.43.36
+
+[Download YouTube Vanced Unofficial version 17.43.36 Black](https://github.com/cuynu/ytvanced/releases/download/17.43.36/YouTube.Vanced.v17.43.36_Black_Universal.apk)
+
+[Download YouTube Vanced Unofficial version 17.43.36 Dark](https://github.com/cuynu/ytvanced/releases/download/17.43.36/YouTube.Vanced.v17.43.36_Dark_Universal.apk
 
 [Download YouTube Vanced Unofficial version 17.42.33 Black](https://github.com/cuynu/ytvanced/releases/download/17.42.33/YouTube.Vanced.v17.42.33_Black_Universal.apk)
 
@@ -47,6 +51,8 @@ Latest version is : 17.42.33
 [Download YouTube Vanced Unofficial version 17.41.34 Black](https://github.com/cuynu/ytvanced/releases/download/17.41.34/YouTube.Vanced.v17.41.34_Black_Universal.apk)
 
 [Download YouTube Vanced Unofficial version 17.41.34 Dark](https://github.com/cuynu/ytvanced/releases/download/17.41.34/YouTube.Vanced.v17.41.34_Dark_Universal.apk)
+
+[Download YouTube Music Vanced Unofficial version 5.31.50](https://github.com/cuynu/ytvanced/releases/download/17.43.36/YouTube.Music.Vanced_v5.31.50_Universal.apk)
 
 [Download YouTube Music Vanced Unofficial version 5.28.51](https://github.com/cuynu/ytvanced/releases/download/17.41.34/YouTube.Music.Vanced-v5.28.51_Universal.apk)
 
