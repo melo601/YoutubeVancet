@@ -2,7 +2,7 @@
 name: Bug report
 about: Report a problem related to YouTube Vanced
 title: ''
-labels: bug, duplicate
+labels: bug
 assignees: ''
 
 ---
@@ -23,7 +23,6 @@ A clear and concise description of what you expected to happen.
 **Screenshot/Videos**
 If applicable, upload screenshot or videos to help explain your problem.
 
-**Please complete the following information:**
  - Device: [e.g. Android device]
  - OS: [e.g. Android 11]
  - YouTube Vanced Version [e.g. 17.03.38]
