@@ -29,7 +29,7 @@ ____________________________________________________
 Minimum Android version : 8 (Oreo) for version 17.41.34 and above,
 6.0.0 for version [17.33.42](https://github.com/cuynu/ytvanced/releases/tag/17.33.42) or lower.
 
-**Vanced MicroG** **(required to use YouTube Vanced non-root version, not needed for root version)**
+**Vanced MicroG** **(REQUIRED to use YouTube Vanced non-root version, not needed for root version)**
 
 [Download Vanced MicroG 0.2.25.224113](https://github.com/cuynu/ytvanced/releases/download/17.41.34/Vanced.MicroG.v0.2.25.224113.apk)
 
