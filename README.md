@@ -125,6 +125,8 @@ ____________________________________________________
 
 ## Commons problem and solution
 
+If these solution isn't fix your problem, please create issues [here.](https://github.com/cuynu/ytvanced/issues)
+
 **No internet connection:**
 - Remove your account from Vanced MicroG (If have and try again)
 - Enable auto start for Vanced MicroG if you use heavy customized Android version such as  MIUI,OneUI,FlymeOS,HarmonyOS,etc
