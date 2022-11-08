@@ -95,7 +95,8 @@ ____________________________________________________
 
 ## Translation YouTube Vanced
 
-You can contributor translate YouTube Vanced to your language by visit [ReVanced Extended Crowdin](https://crowdin.com/project/revancedextended)
+You can contributor translate YouTube Vanced to your language by create pull requests to [ReVanced Patches inotia00](https://github.com/inotia00/revanced-patches/pulls)
+. Your translation will change in next version if your pull request has merged by inotia00, strings will change from ReVanced to Vanced automatically.
 
 This is temporary translate site, i will make own later!
 
