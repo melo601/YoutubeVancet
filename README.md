@@ -127,18 +127,19 @@ ____________________________________________________
 
 **No internet connection:**
 - Remove your account from Vanced MicroG (If have and try again)
-- Enable auto start for Vanced MicroG if you use heavy customized Android version such as OneUI,MIUI,etc
+- Enable auto start for Vanced MicroG if you use heavy customized Android version such as  MIUI,OneUI,FlymeOS,HarmonyOS,etc
 - Find a way to install other ROMs on your device if possible.
 
 
 **App not installed :**
-- Free up some free storage space
-- Uninstall official YouTube Vanced client downloaded from Vanced Manager then reinstall using my APK file from my repository. Reason : Mismatch signature.
+- Free up some free storage space and try again
+- Uninstall official YouTube Vanced client downloaded from Vanced Manager then reinstall. Reason : Mismatch signature.
+- Make sure you have downloaded Universal version of YouTube Vanced/YouTube Music Vanced.
 
 **Crash when opening:**
 - Install or reinstall Vanced MicroG 
 - Turn off battery optimization for Vanced MicroG
-- Allow Vanced MicroG run on background or auto start
+- Allow Vanced MicroG run on background or auto start (on heavy customized OS : MIUI,OneUI,FlymeOS,HarmonyOS,etc)
 - Wipe app data and cache
 - Reinstall YouTube Vanced client
 
