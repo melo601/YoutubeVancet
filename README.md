@@ -135,7 +135,7 @@ If these solution isn't fix your problem, please create issues [here.](https://g
 
 
 **App not installed :**
-- Free up some free storage space and try again
+- Free up some storage space and try again
 - Uninstall official YouTube Vanced client downloaded from Vanced Manager then reinstall. Reason : Mismatch signature.
 - Make sure you have downloaded Universal version of YouTube Vanced/YouTube Music Vanced.
 
