@@ -18,7 +18,7 @@ ____________________________________________________
 
 (Không có Vanced MicroG, YouTube Vanced sẽ không chạy, vui lòng cài đặt Vanced MicroG bên dưới.)
 
-- **[Common problems and solution](https://github.com/cuynu/ytvanced#commons-problem-and-solution)**
+- **[Common problems and solution](https://github.com/cuynu/ytvanced#common-problem-and-solution)**
 - **[Changelogs and known issues](https://github.com/cuynu/ytvanced/releases)**
 
 - YouTube Vanced Features : [See on Wikipedia](https://www.google.com/url?sa=t&source=web&rct=j&url=https://en.m.wikipedia.org/wiki/YouTube_Vanced&ved=2ahUKEwiHoPm3ppH7AhXYEnAKHeYsDboQFnoECAsQBQ&usg=AOvVaw2FfXMQmEyM6VQM9MKVbS6Q)
