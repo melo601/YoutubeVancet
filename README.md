@@ -129,6 +129,7 @@ If these solution isn't fix your problem, please create issues [here.](https://g
 
 **No internet connection:**
 - Remove your account from Vanced MicroG (If have and try again)
+- Wipe Vanced MicroG & YouTube Vanced & YouTube Music Vanced app data and cache
 - Enable auto start for Vanced MicroG if you use heavy customized Android version such as  MIUI,OneUI,FlymeOS,HarmonyOS,etc
 - Find a way to install other ROMs on your device if possible.
 
