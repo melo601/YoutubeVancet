@@ -11,6 +11,8 @@ Forks not required, this repository will stay here forever.
 
 Download counts : 
 [![Download counts](https://img.shields.io/github/downloads/cuynu/ytvanced/total?logo=github)](https://github.com/cuynu/ytvanced#download)
+
+**If you like this continuation of YouTube Vanced as Unofficial builds by me, please give me 1 star for this repository. Thanks you very much!**
 ____________________________________________________
 
  
