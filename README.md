@@ -17,6 +17,8 @@ ____________________________________________________
 (Without Vanced MicroG, YouTube Vanced will crash due to missing MicroG, Please install Vanced MicroG below.)
 
 (Không có Vanced MicroG, YouTube Vanced sẽ không chạy, vui lòng cài đặt Vanced MicroG bên dưới.)
+
+- **[Common problems and solution](https://github.com/cuynu/ytvanced#commons-installation-problem-and-solution)**
 - **[Changelogs and known issues](https://github.com/cuynu/ytvanced/releases)**
 
 - YouTube Vanced Features : [See on Wikipedia](https://www.google.com/url?sa=t&source=web&rct=j&url=https://en.m.wikipedia.org/wiki/YouTube_Vanced&ved=2ahUKEwiHoPm3ppH7AhXYEnAKHeYsDboQFnoECAsQBQ&usg=AOvVaw2FfXMQmEyM6VQM9MKVbS6Q)
@@ -121,11 +123,12 @@ ____________________________________________________
 
 **[Changelogs and known issues](https://github.com/cuynu/ytvanced/releases)**
 
-## Commons installation problem and solution
+## Commons problem and solution
 
 **No internet connection:**
 - Remove your account from Vanced MicroG (If have and try again)
 - Enable auto start for Vanced MicroG if you use heavy customized Android version such as OneUI,MIUI,etc
+- Find a way to install other ROMs on your device if possible.
 
 
 **App not installed :**
@@ -135,9 +138,10 @@ ____________________________________________________
 **Crash when opening:**
 - Install or reinstall Vanced MicroG 
 - Turn off battery optimization for Vanced MicroG
+- Allow Vanced MicroG run on background or auto start
 - Wipe app data and cache
 - Reinstall YouTube Vanced client
 
 **There was a problem parsing the package:**
 - Check your Android version, Make sure your current Android version meet minimum required Android version.
-- Redownload APK file..
+- Redownload APK file.
