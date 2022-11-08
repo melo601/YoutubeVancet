@@ -123,7 +123,7 @@ ____________________________________________________
 
 **[Changelogs and known issues](https://github.com/cuynu/ytvanced/releases)**
 
-## Commons problem and solution
+## Common problem and solution
 
 If these solution isn't fix your problem, please create issues [here.](https://github.com/cuynu/ytvanced/issues)
 
