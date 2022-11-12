@@ -9,6 +9,8 @@ Credits YouTube Vanced : [Vanced Team](https://vancedapp.com)
 
 Forks not required, this repository will stay here forever.
 
+Worry about malware or keylogger? [See VirusTotal scan results](https://github.com/cuynu/ytvanced/wiki/VirusTotal_Hash)
+
 Download counts : 
 [![Download counts](https://img.shields.io/github/downloads/cuynu/ytvanced/total?logo=github)](https://github.com/cuynu/ytvanced#download)
 
