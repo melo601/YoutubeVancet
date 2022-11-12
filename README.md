@@ -92,6 +92,7 @@ You can download old/outdated version of YouTube Vanced, YouTube Music Vanced an
 ____________________________________________________
 
 ## Discussion 
+ [Telegram Discussion](https://t.me/ytvanced1)
 
  [Discussion on GitHub (English)](https://github.com/cuynu/ytvanced/discussions)
 
