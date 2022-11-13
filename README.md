@@ -154,3 +154,43 @@ If these solution isn't fix your problem, please create issues [here.](https://g
 **There was a problem parsing the package:**
 - Check your Android version, Make sure your current Android version meet minimum required Android version.
 - Redownload APK file.
+
+## Screenshots
+
+Preview screenshots of YouTube Vanced (captured on 17.43.36) :
+
+Homepage:
+
+<a href="https://github.com/cuynu/ytvanced">
+<img alt="1" src="https://github.com/cuynu/archive/releases/download/archive/preview1.png" width="150" height="300" />
+</a>
+
+Vanced settings (In YouTube settings):
+
+<a href="https://github.com/cuynu/ytvanced">
+<img alt="4" src="https://github.com/cuynu/archive/releases/download/archive/settings.png" width="150" height="300" />
+</a>
+
+Picture-in-Picture: 
+
+<a href="https://github.com/cuynu/ytvanced">
+<img alt="a" src="https://github.com/cuynu/archive/releases/download/archive/preview5.png" width="150" height="300" />
+</a>
+
+Play in background:
+
+<a href="https://github.com/cuynu/ytvanced">
+<img alt="b" src="https://github.com/cuynu/archive/releases/download/archive/preview6.png" width="150" height="300" />
+</a>
+
+YouTube Shorts:
+
+<a href="https://github.com/cuynu/ytvanced">
+<img alt="2" src="https://github.com/cuynu/archive/releases/download/archive/preview2.png" width="150" height="300" />
+</a>
+
+Video playback new layout:
+<a href="https://github.com/cuynu/ytvanced">
+<img alt="3" src="https://github.com/cuynu/archive/releases/download/archive/preview3.png" width="150" height="300" />
+</a>
+
