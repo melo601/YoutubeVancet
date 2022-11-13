@@ -73,6 +73,7 @@ Latest version is : 17.43.36
 [Download Magisk Module YouTube Vanced 17.41.34 Black](https://github.com/cuynu/ytvanced/releases/download/17.41.34/YouTube.Vanced_v17.41.34_Black_MagiskModules_fixed.zip)
 
 
+
 ## YouTube Vanced old/outdated version
 
 You can download old/outdated version of YouTube Vanced, YouTube Music Vanced and Vanced MicroG here, BUT PLEASE DO NOT REPORT BUGS ON THESE VERSION.
