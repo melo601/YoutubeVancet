@@ -1,11 +1,13 @@
 ---
 name: Bug report
-about: Report a problem related to YouTube Vanced
+about: Report a problem related to YouTube Vanced & YouTube Music Vanced
 title: ''
 labels: bug
 assignees: ''
 
 ---
+
+PLEASE FILL OUT THIS FORM, DO NOT CREATE ISSUE WITHOUT THIS FORM, OTHERWISE, ISSUE WILL BE CLOSED
 
 **Describe the bug**
 A clear and concise description of what the bug is.
