@@ -5,4 +5,4 @@ contact_links:
     about: If you have a question or requests, visit Discussion tab. DO NOT CREATE ISSUE IF YOU DON'T HAVE ISSUE.
   - name: Issue related to "ReVanced"
     url: https://revanced.app
-    about: All of issue related to ReVanced here will be closed.
+    about: All of issue related to ReVanced created on this repository will be closed, if you want to report issue about ReVanced, go to revanced.app
