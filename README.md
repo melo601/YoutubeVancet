@@ -69,14 +69,13 @@ Before install this module, uninstall YouTube first.
 
 [Download Magisk Module YouTube Vanced 17.43.36 Dark](https://github.com/cuynu/ytvanced/releases/download/17.43.36/YouTube.Vanced_v17.43.36_Dark_MagiskModules.zip)
 
-[Download Magisk Module YouTube Vanced 17.42.33 Dark](https://github.com/cuynu/ytvanced/releases/download/17.42.33/YouTube.Vanced_v17.42.33_Dark_MagiskModules.zip)
-
-[Download Magisk Module YouTube Vanced 17.41.34 Black](https://github.com/cuynu/ytvanced/releases/download/17.41.34/YouTube.Vanced_v17.41.34_Black_MagiskModules_fixed.zip)
-
-
 ## YouTube Vanced old/outdated version
 
 You can download old/outdated version of YouTube Vanced, YouTube Music Vanced and Vanced MicroG here, BUT PLEASE DO NOT REPORT BUGS ON THESE VERSION.
+
+[Download YouTube Vanced Unofficial 17.42.33](https://github.com/cuynu/ytvanced/wiki/17.42.33)
+
+[Download YouTube Vanced Unofficial 17.41.34](https://github.com/cuynu/ytvanced/wiki/17.41.34)
 
 [Download YouTube Vanced Unofficial 17.33.42](https://github.com/cuynu/ytvanced/wiki/17.33.42)
 
