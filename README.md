@@ -29,6 +29,8 @@ ____________________________________________________
 - **[Can't install on Xiaomi MIUI devices?, See how to fix that with workaround!](https://github.com/cuynu/ytvanced#installation-for-miui)**
 - Architecture : Universal (arm64-v8a,armeabi-v7a,x86,x86_64)
 - Support all language supported by official YouTube client.
+
+- Please do not upload a video to YouTube like "How to Install YouTube Vanced". Otherwise, your channel will has community guidelines violation strike. Mine also has violated 2 strikes because distribution YouTube Vanced.
 ____________________________________________________
 
 # Download 
