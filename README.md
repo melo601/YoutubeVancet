@@ -57,6 +57,12 @@ Latest version is : 17.45.34
 
 [Download YouTube Vanced Unofficial version 17.43.36 Dark](https://github.com/cuynu/ytvanced/releases/download/17.43.36/YouTube.Vanced_v17.43.36_Dark_Universal.apk)
 
+**YouTube Music Vanced (temporary only non-root):**
+
+[Download YouTube Music Vanced Unofficial version 5.33.51](https://github.com/cuynu/ytvanced/releases/download/17.45.34/YouTube.Music.Vanced.v5.33.51_Universal.apk)
+
+[Download YouTube Music Vanced Unofficial version 5.33.51 (Only armeabi-v7a,arm64-v8a](https://github.com/cuynu/ytvanced/releases/download/17.45.34/YouTube.Music.Vanced.v5.33.51_2arch.apk)
+
 [Download YouTube Music Vanced Unofficial version 5.31.50](https://github.com/cuynu/ytvanced/releases/download/17.43.36/YouTube.Music.Vanced_v5.31.50_Universal.apk)
 
 [Download YouTube Music Vanced Unofficial version 5.28.51](https://github.com/cuynu/ytvanced/releases/download/17.41.34/YouTube.Music.Vanced-v5.28.51_Universal.apk)
