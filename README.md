@@ -98,6 +98,16 @@ You can download old/outdated version of YouTube Vanced, YouTube Music Vanced an
 [Download old Vanced MicroG](https://github.com/cuynu/ytvanced/wiki/MicroG)
 ____________________________________________________
 
+## YouTube Vanced for Android Car screen (Not Android Auto) 
+
+Do NOT DOWNLOAD THIS ON NON ANDROID CAR DEVICE
+
+Most Android Car screen are only have armeabi-v7a architecture and running Android 10 with some CPU like Spreadtrum,Allwinner,Rockchip,etc
+
+[Download YouTube Vanced 17.45.34 for Android Car screen](https://github.com/cuynu/ytvanced/releases/download/17.45.34/YouTube.Vanced.Android.CarOled.v17.45.34_Black.apk)
+
+
+
 ## Discussion 
  [Telegram Discussion](https://t.me/ytvanced1)
 
