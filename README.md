@@ -104,6 +104,8 @@ Do NOT DOWNLOAD THIS ON NON ANDROID CAR DEVICE
 
 Most Android Car screen are only have armeabi-v7a architecture and running Android 10 with some CPU like Spreadtrum,Allwinner,Rockchip,etc
 
+Android package name changed to com.android.car.vanced instead of com.vanced.android.youtube because some Android car screen are have YouTube Vanced official installed as system app and can't be uninstalled
+ 
 [Download YouTube Vanced 17.45.34 for Android Car screen](https://github.com/cuynu/ytvanced/releases/download/17.45.34/YouTube.Vanced.Android.CarOled.v17.45.34_Black.apk)
 
 
