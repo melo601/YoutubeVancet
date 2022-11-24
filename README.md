@@ -53,6 +53,8 @@ Latest version is : 17.45.34
 
 [Download YouTube Vanced Unofficial version 17.45.34 Dark](https://github.com/cuynu/ytvanced/releases/download/17.45.34/YouTube.Vanced.v17.45.34_Dark_Universal.apk)
 
+[Download YouTube Vanced Unofficial version 17.45.34 Monet theme (Only can install for Android 12+)](https://github.com/cuynu/ytvanced/releases/download/17.45.34/YouTube.Vanced.v17.45.34.Monet.Universal.apk)
+
 [Download YouTube Vanced Unofficial version 17.43.36 Black](https://github.com/cuynu/ytvanced/releases/download/17.43.36/YouTube.Vanced.v17.43.36_Black_Universal.apk)
 
 [Download YouTube Vanced Unofficial version 17.43.36 Dark](https://github.com/cuynu/ytvanced/releases/download/17.43.36/YouTube.Vanced_v17.43.36_Dark_Universal.apk)
