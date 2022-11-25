@@ -79,6 +79,8 @@ Before install this module, uninstall YouTube first.
 
 [Download Magisk Module YouTube Vanced 17.45.34 Dark](https://github.com/cuynu/ytvanced/releases/download/17.45.34/YouTube.Vanced.v17.45.34_Dark_Universal_MagiskModule.zip)
 
+[Download Magisk Module YouTube Vanced 17.45.34 Monet (Android 12+ Only)](https://github.com/cuynu/ytvanced/releases/download/17.45.34/YouTube.Vanced.v17.45.34_Monet_Universal_MagiskModule.zip)
+
 [Download Magisk Module YouTube Vanced 17.43.36 Black](https://github.com/cuynu/ytvanced/releases/download/17.43.36/YouTube.Vanced_v17.43.36_Black_MagiskModules.zip)
 
 [Download Magisk Module YouTube Vanced 17.43.36 Dark](https://github.com/cuynu/ytvanced/releases/download/17.43.36/YouTube.Vanced_v17.43.36_Dark_MagiskModules.zip)
