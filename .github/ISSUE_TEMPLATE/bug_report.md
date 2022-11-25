@@ -25,10 +25,12 @@ A clear and concise description of what you expected to happen.
 **Screenshot/Videos**
 If applicable, upload screenshot or videos to help explain your problem.
 
- - Device: [e.g. Android device]
- - OS: [e.g. Android 11]
- - YouTube Vanced Version [e.g. 17.03.38]
+- Device: [e.g. Android device]
+- OS: [e.g. Android 13]
+- YouTube Vanced Version [e.g. 17.03.38]
 - Vanced MicroG version [e.g. 20220230]
+   Don't fill into Vanced microG version if you're
+   using YouTube Vanced root [Magisk Module]
 
 **Additional context**
 Add any other context about the problem like logcat,etc here.
