@@ -38,7 +38,7 @@ ____________________________________________________
 
 # Download 
 Minimum Android version : 8 (Oreo) for version 17.41.34 and above,
-6.0.0 for version [17.33.42](https://github.com/cuynu/ytvanced/releases/tag/17.33.42) or lower.
+6.0.0 for version [17.33.42](https://github.com/cuynu/ytvanced/releases/tag/17.33.42) or lower, 5.0.0 for version 15.43.32 or lower.
 
 **Vanced MicroG** **(REQUIRED to use YouTube Vanced non-root version, not needed for root version)**
 
@@ -223,4 +223,17 @@ Video playback new layout:
 <a href="https://github.com/cuynu/ytvanced">
 <img alt="3" src="https://github.com/cuynu/archive/releases/download/archive/preview3.png" width="150" height="300" />
 </a>
+
+
+### Special YouTube Vanced for Android 5 users
+
+This old special version have many bugs such as ads in homepage, video playback buffer issue on some region, but basic features are working normally. Some users will got 400 error
+
+Android 5 user can't install latest Vanced microG version or Vanced because the base has dropped support, please use special files below for Android 5
+
+[Download Vanced microG 0.2.22.212658 Android 5](https://github.com/cuynu/ytvanced/releases/download/15.43.32/Vanced.microG_0.2.22.212658.apk)
+
+[Download YouTube Vanced Android 5 version 15.43.32 Black](https://github.com/cuynu/ytvanced/releases/download/15.43.32/YouTube.Vanced.v15.43.32_Black_Universal.apk)
+
+
 
