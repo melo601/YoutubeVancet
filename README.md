@@ -21,7 +21,7 @@ ____________________________________________________
 
 ### READ BEFORE DOWNLOAD :
 
-From version 17.41.34 and above, YouTube Vanced must require depend on ReVanced and ReVanced Extended patches, if you don't like this, PLEASE BUILD REVANCED AND USE YOURSELF
+From version 17.41.34 and above, YouTube Vanced must require depend on ReVanced and ReVanced Extended patches, if you don't like this, PLEASE BUILD REVANCED AND USE YOURSELF, [see inotia00 replies about this repository](https://t.me/revanced_extended_chat/126947)
  
 (Without Vanced MicroG, YouTube Vanced will crash due to missing MicroG, Please install Vanced MicroG below.)
 
