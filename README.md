@@ -19,6 +19,9 @@ Join unofficial update channel : </p> <a href="https://telegram.me/ytvancedupdat
 **If you like this continuation of YouTube Vanced as Unofficial builds by me, please give me 1 star for this repository. Thanks you very much!**
 ____________________________________________________
 
+### READ BEFORE DOWNLOAD :
+
+From version 17.41.34 and above, YouTube Vanced must require depend on ReVanced and ReVanced Extended patches, if you don't like this, PLEASE BUILD REVANCED AND USE YOURSELF
  
 (Without Vanced MicroG, YouTube Vanced will crash due to missing MicroG, Please install Vanced MicroG below.)
 
@@ -31,8 +34,6 @@ ____________________________________________________
 - **[Can't install on Xiaomi MIUI devices?, See how to fix that with workaround!](https://github.com/cuynu/ytvanced#installation-for-miui)**
 - Architecture : Universal (arm64-v8a,armeabi-v7a,x86,x86_64)
 - Support all language supported by official YouTube client.
-
-- Please do not upload a video to YouTube like "How to Install YouTube Vanced". Otherwise, your channel will has community guidelines violation strike. Mine also has violated 2 strikes because distribution YouTube Vanced.
 ____________________________________________________
 
 # Download 
