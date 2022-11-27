@@ -16,13 +16,8 @@ Worry about malware or keylogger? [See VirusTotal scan results](https://github.c
 
 Join unofficial update channel : </p> <a href="https://telegram.me/ytvancedupdates" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
 
-**Because all of YouTube Vanced unofficial builds are only builded by me, not with any teams so if you like this continuation of YouTube Vanced as Unofficial builds by me, please give 1 star for this repository to support me. Thanks you very much!**
 ____________________________________________________
 
-### READ BEFORE DOWNLOAD :
-
-From version 17.41.34 and above, YouTube Vanced must require depend on ReVanced and ReVanced Extended patches, if you don't like this, PLEASE BUILD REVANCED AND USE YOURSELF, [see inotia00 replies about this repository](https://t.me/revanced_extended_chat/126947)
- 
 (Without Vanced MicroG, YouTube Vanced will crash due to missing MicroG, Please install Vanced MicroG below.)
 
 (Không có Vanced MicroG, YouTube Vanced sẽ không chạy, vui lòng cài đặt Vanced MicroG bên dưới.)
@@ -223,17 +218,4 @@ Video playback new layout:
 <a href="https://github.com/cuynu/ytvanced">
 <img alt="3" src="https://github.com/cuynu/archive/releases/download/archive/preview3.png" width="150" height="300" />
 </a>
-
-
-### Special YouTube Vanced for Android 5 users
-
-This old special version have many bugs such as ads in homepage, video playback buffer issue on some region, but basic features are working normally. Some users will got 400 error
-
-Android 5 user can't install latest Vanced microG version or Vanced because the base has dropped support, please use special files below for Android 5
-
-[Download Vanced microG 0.2.22.212658 Android 5](https://github.com/cuynu/ytvanced/releases/download/15.43.32/Vanced.microG_0.2.22.212658.apk)
-
-[Download YouTube Vanced Android 5 version 15.43.32 Black](https://github.com/cuynu/ytvanced/releases/download/15.43.32/YouTube.Vanced.v15.43.32_Black_Universal.apk)
-
-
 
