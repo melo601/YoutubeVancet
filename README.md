@@ -33,7 +33,7 @@ ____________________________________________________
 
 # Download 
 Minimum Android version : 8 (Oreo) for version 17.41.34 and above,
-6.0.0 for version [17.33.42](https://github.com/cuynu/ytvanced/releases/tag/17.33.42) or lower, 5.0.0 for version 15.43.32 or lower.
+6.0.0 for version [17.33.42](https://github.com/cuynu/ytvanced/releases/tag/17.33.42) or older
 
 **Vanced MicroG** **(REQUIRED to use YouTube Vanced non-root version, not needed for root version)**
 
