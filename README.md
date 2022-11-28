@@ -1,13 +1,12 @@
 # YouTube Vanced
-YouTube Vanced &amp; Vanced MicroG APK install without Manager
+
+Another YouTube Vanced Unofficial projects
+
+Credit YouTube Vanced Official: [Vanced Team](https://github.com/TeamVanced)
 
 <a href="https://github.com/cuynu/ytvanced#download">
 <img alt="vanced" src="https://github.com/cuynu/archive/releases/download/archive/vanced2.jpg" width="270" height="150" />
 </a>
-
-Credits YouTube Vanced : [Vanced Team](https://vancedapp.com)
-
-Forks not required, this repository will stay here forever.
 
 Worry about malware or keylogger? [See VirusTotal scan results](https://github.com/cuynu/ytvanced/wiki/VirusTotal_Hash)
 
@@ -16,6 +15,7 @@ Worry about malware or keylogger? [See VirusTotal scan results](https://github.c
 
 Join unofficial update channel : </p> <a href="https://telegram.me/ytvancedupdates" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
 
+You can support me by give star for this repository or subscribe to [my personal YouTube channel](https://m.youtube.com/@cuynu) and disable the notification bell for my channel.
 ____________________________________________________
 
 (Without Vanced MicroG, YouTube Vanced will crash due to missing MicroG, Please install Vanced MicroG below.)
@@ -115,21 +115,23 @@ Android package name changed to com.android.car.vanced instead of com.vanced.and
 [Download YouTube Vanced 17.45.34 for Android Car screen](https://github.com/cuynu/ytvanced/releases/download/17.45.34/YouTube.Vanced.Android.CarOled.v17.45.34_Black.apk)
 
 
-
 ## Discussion 
  [Telegram Discussion](https://t.me/ytvanced1)
 
  [Discussion on GitHub (English)](https://github.com/cuynu/ytvanced/discussions)
 
-## Translation YouTube Vanced
+## Translate YouTube Vanced
 
 You can contributor translate YouTube Vanced to your language by create pull requests to [ReVanced Patches inotia00](https://github.com/inotia00/revanced-patches/pulls)
-. Your translation will change in next version if your pull request has merged by inotia00, strings will change from ReVanced to Vanced automatically.
-
-This is temporary translate site, i will make own later!
+. Your translation will change in next version if pull request has merged by inotia00, strings will change from ReVanced to Vanced automatically.
 
 ### Open source
-YouTube client for Android isn't open source, YouTube Vanced are is closed source before, but YouTube ReVanced patches is open source, my YouTube Vanced build version newer than 17.41.xx are based on ReVanced patches so you can build using ReVanced patches!
+
+All of my YouTube Vanced unofficial builds are using these patches
+
+[ReVanced patches](https://github.com/revanced/revanced-patches/)
+
+[ReVanced Extended patches tree](https://github.com/inotia00/revanced-patches/tree/revanced-extended)
 
 ## VirusTotal scan results and File Hashs
 
@@ -160,7 +162,7 @@ If these solution isn't fix your problem, please create issues [here.](https://g
 - Remove your account from Vanced MicroG (If have and try again)
 - Wipe Vanced MicroG & YouTube Vanced & YouTube Music Vanced app data and cache
 - Enable auto start for Vanced MicroG if you use heavy customized Android version such as  MIUI,OneUI,FlymeOS,HarmonyOS,etc
-- Allow this warning 
+- Allow this warning (If you're using MIUI)
 ![miui](https://github.com/cuynu/archive/releases/download/archive/IMG_20221115_120709.jpg)
 
 
@@ -182,7 +184,7 @@ If these solution isn't fix your problem, please create issues [here.](https://g
 
 ## Screenshots
 
-Preview screenshots of YouTube Vanced (captured on 17.43.36) :
+Preview screenshots of YouTube Vanced (captured on 17.45.34) :
 
 Homepage:
 
