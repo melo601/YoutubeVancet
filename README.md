@@ -15,7 +15,7 @@ Worry about malware or keylogger? [See VirusTotal scan results](https://github.c
 
 Join unofficial update channel : </p> <a href="https://telegram.me/ytvancedupdates" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
 
-You can support me by give star for this repository or subscribe to [my personal YouTube channel](https://m.youtube.com/@cuynu) and disable the notification bell for my channel.
+You can support me by give star for this repository or subscribe to [my personal YouTube channel](https://m.youtube.com/@cuynu/about) and disable the notification bell for my channel.
 ____________________________________________________
 
 (Without Vanced MicroG, YouTube Vanced will crash due to missing MicroG, Please install Vanced MicroG below.)
