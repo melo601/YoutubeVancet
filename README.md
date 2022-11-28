@@ -10,7 +10,7 @@ Credit YouTube Vanced Official: [Vanced Team](https://github.com/TeamVanced)
 
 Worry about malware or keylogger? [See VirusTotal scan results](https://github.com/cuynu/ytvanced/wiki/VirusTotal_Hash)
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/cuynu/ytvanced#download"><img src="https://img.shields.io/github/downloads/cuynu/ytvanced/total?color=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge"></a>
 
 Join unofficial update channel : </p> <a href="https://telegram.me/ytvancedupdates" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
