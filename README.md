@@ -1,6 +1,6 @@
 # YouTube Vanced
 
-Another YouTube Vanced Unofficial projects based on ReVanced patches
+Another YouTube Vanced Unofficial projects based on ReVanced patches with little different 
 
 Credit YouTube Vanced Official: [Vanced Team](https://github.com/TeamVanced)
 
