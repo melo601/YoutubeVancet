@@ -45,13 +45,19 @@ Minimum Android version : 8 (Oreo) for version 17.41.34 and above,
 
 **Unofficial version (Recommended)** :
 
-Latest version is : 17.45.34
+Latest version is : 17.45.36
+
+[Download YouTube Vanced Unofficial version 17.45.46 Black](https://github.com/cuynu/ytvanced/releases/download/17.45.36/YouTube.Vanced.v17.45.36_Black_Universal.apk)
+
+[Download YouTube Vanced Unofficial version 17.45.36 Dark](https://github.com/cuynu/ytvanced/releases/download/17.45.36/YouTube.Vanced.v17.45.36_Dark_Universal.apk)
+
+[Download YouTube Vanced Unofficial version 17.45.36 Monet theme (Android 12+ only)](https://github.com/cuynu/ytvanced/releases/download/17.45.36/YouTube.Vanced.v17.45.36_Monet_Universal.apk)
 
 [Download YouTube Vanced Unofficial version 17.45.34 Black](https://github.com/cuynu/ytvanced/releases/download/17.45.34/YouTube.Vanced.v17.45.34_Black_Universal.apk)
 
 [Download YouTube Vanced Unofficial version 17.45.34 Dark](https://github.com/cuynu/ytvanced/releases/download/17.45.34/YouTube.Vanced.v17.45.34_Dark_Universal.apk)
 
-[Download YouTube Vanced Unofficial version 17.45.34 Monet theme (Only can install for Android 12+)](https://github.com/cuynu/ytvanced/releases/download/17.45.34/YouTube.Vanced.v17.45.34.Monet.Universal.apk)
+[Download YouTube Vanced Unofficial version 17.45.34 Monet theme (Android 12+ only)](https://github.com/cuynu/ytvanced/releases/download/17.45.34/YouTube.Vanced.v17.45.34.Monet.Universal.apk)
 
 [Download YouTube Vanced Unofficial version 17.43.36 Black](https://github.com/cuynu/ytvanced/releases/download/17.43.36/YouTube.Vanced.v17.43.36_Black_Universal.apk)
 
