@@ -13,7 +13,7 @@ Worry about malware or keylogger? [See VirusTotal scan results](https://github.c
 <p align="left">
 <a href="https://github.com/cuynu/ytvanced#download"><img src="https://img.shields.io/github/downloads/cuynu/ytvanced/total?color=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge"></a>
 
-Join unofficial update channel : </p> <a href="https://telegram.me/ytvancedupdates" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
+Join unofficial update channel (note : Don't ask any questions in Telegram) : </p> <a href="https://telegram.me/ytvancedupdates" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
 
 You can support me by give star for this repository or subscribe to [my personal YouTube channel](https://m.youtube.com/@cuynu/about) and disable the notification bell for my channel.
 ____________________________________________________
@@ -124,7 +124,6 @@ Android package name changed to com.android.car.vanced instead of com.vanced.and
 
 
 ## Discussion 
- [Telegram Discussion](https://t.me/ytvanced1)
 
  [Discussion on GitHub (English)](https://github.com/cuynu/ytvanced/discussions)
 
