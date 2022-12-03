@@ -13,6 +13,8 @@ Worry about malware or keylogger? [See VirusTotal scan results](https://github.c
 <p align="left">
 <a href="https://github.com/cuynu/ytvanced#download"><img src="https://img.shields.io/github/downloads/cuynu/ytvanced/total?color=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge"></a>
 
+[Discussion on GitHub (English)](https://github.com/cuynu/ytvanced/discussions)
+
 Join unofficial update channel (note : Don't ask any questions in Telegram) : </p> <a href="https://telegram.me/ytvancedupdates" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
 
 You can support me by give star for this repository or subscribe to [my personal YouTube channel](https://m.youtube.com/@cuynu/about) and disable the notification bell for my channel.
@@ -122,11 +124,6 @@ Android package name changed to com.android.car.vanced instead of com.vanced.and
  
 [Download YouTube Vanced 17.45.34 for Android Car screen](https://github.com/cuynu/ytvanced/releases/download/17.45.34/YouTube.Vanced.Android.CarOled.v17.45.34_Black.apk)
 
-
-## Discussion 
-
- [Discussion on GitHub (English)](https://github.com/cuynu/ytvanced/discussions)
-
 ## Translate YouTube Vanced
 
 You can contributor translate YouTube Vanced to your language by create pull requests to [ReVanced Patches inotia00](https://github.com/inotia00/revanced-patches/pulls)
@@ -191,7 +188,7 @@ If these solution isn't fix your problem, please create issues [here.](https://g
 
 ## Screenshots
 
-Preview screenshots of YouTube Vanced (captured on 17.45.34) :
+Preview screenshots of YouTube Vanced (captured on 17.45.36) :
 
 Homepage:
 
@@ -224,6 +221,7 @@ YouTube Shorts:
 </a>
 
 Video playback new layout:
+
 <a href="https://github.com/cuynu/ytvanced">
 <img alt="3" src="https://github.com/cuynu/archive/releases/download/archive/preview3.png" width="150" height="300" />
 </a>
