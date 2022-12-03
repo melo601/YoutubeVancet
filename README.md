@@ -81,7 +81,20 @@ Latest version is : 17.45.36
 
 
 **YouTube Vanced Root [Magisk Module]**
-Before install this module, uninstall YouTube first.
+
+**Select update package if you want to update current installed YouTube Vanced Magisk Module without lose current settings, but if you have not installed or want to reinstall, please use normal Magisk Module (not label as UPDATE)**
+
+[Download Magisk Module YouTube Vanced 17.45.36 Black](https://github.com/cuynu/ytvanced/releases/download/17.45.36/YouTube.Vanced.v17.45.36_Black_Universal_MagiskModule.zip)
+
+[Download Magisk Module YouTube Vanced 17.45.36 Dark](https://github.com/cuynu/ytvanced/releases/download/17.45.36/YouTube.Vanced.v17.45.36_Dark_Universal_MagiskModule.zip)
+
+Place holder for Monet variant
+
+[Download UPDATE Package Magisk Module YouTube Vanced 17.45.36 Black](https://github.com/cuynu/ytvanced/releases/download/17.45.36/UPDATE.YouTube.Vanced.v17.45.36_Black_Universal.zip)
+
+[Download UPDATE Package Magisk Module YouTube Vanced 17.45.36 Black](https://github.com/cuynu/ytvanced/releases/download/17.45.36/UPDATE.YouTube.Vanced.v17.45.36_Dark_Universal.zip)
+
+Place holder for Monet variant
 
 [Download Magisk Module YouTube Vanced 17.45.34 Black](https://github.com/cuynu/ytvanced/releases/download/17.45.34/YouTube.Vanced.v17.45.34_Black_Universal_MagiskModule.zip)
 
