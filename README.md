@@ -15,7 +15,7 @@ Worry about malware or keylogger? [See VirusTotal scan results](https://github.c
 
 [Discussion on GitHub (English)](https://github.com/cuynu/ytvanced/discussions)
 
-Join unofficial update channel (note : Don't ask any questions in Telegram) : </p> <a href="https://telegram.me/ytvancedupdates" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
+Join unofficial update channel </p> <a href="https://telegram.me/ytvancedupdates" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
 
 You can support me by give star for this repository or subscribe to [my personal YouTube channel](https://m.youtube.com/@cuynu/about) and disable the notification bell for my channel.
 ____________________________________________________
@@ -106,7 +106,9 @@ Place holder for Monet variant
 
 [Download Magisk Module YouTube Vanced 17.43.36 Dark](https://github.com/cuynu/ytvanced/releases/download/17.43.36/YouTube.Vanced_v17.43.36_Dark_MagiskModules.zip)
 
-## YouTube Vanced old/outdated version
+____________________________________________________
+
+## YouTube Vanced old/outdated version:
 
 You can download old/outdated version of YouTube Vanced, YouTube Music Vanced and Vanced MicroG here, BUT PLEASE DO NOT REPORT BUGS ON THESE VERSION.
 
@@ -141,10 +143,13 @@ Different : Only use armeabi-v7a architecture and black theme
 
 [Download YouTube Vanced 17.45.34 for Android Car screen](https://github.com/cuynu/ytvanced/releases/download/17.45.34/YouTube.Vanced.Android.CarOled.v17.45.34_Black.apk)
 
+____________________________________________________
+
 ## Translate YouTube Vanced
 
 You can contributor translate YouTube Vanced to your language by create pull requests to [ReVanced Patches inotia00](https://github.com/inotia00/revanced-patches/pulls)
 . Your translation will change in next version if pull request has merged by inotia00, strings will change from ReVanced to Vanced automatically.
+____________________________________________________
 
 ### Open source
 
@@ -153,6 +158,8 @@ All of my YouTube Vanced unofficial builds are using these patches
 [ReVanced patches](https://github.com/revanced/revanced-patches/)
 
 [ReVanced Extended patches tree](https://github.com/inotia00/revanced-patches/tree/revanced-extended)
+
+____________________________________________________
 
 ## VirusTotal scan results and File Hashs
 
@@ -166,15 +173,6 @@ ____________________________________________________
 
 ____________________________________________________
 
-## Important Information from Vanced
-
-Thông báo từ Vanced / Important information from Vanced
-![Preview](https://files.catbox.moe/ricm16.jpg)
-
-____________________________________________________
-
-**[Changelogs and known issues](https://github.com/cuynu/ytvanced/releases)**
-
 ## Common problem and solution
 
 If these solution isn't fix your problem, please create issues [here.](https://github.com/cuynu/ytvanced/issues)
@@ -183,9 +181,6 @@ If these solution isn't fix your problem, please create issues [here.](https://g
 - Remove your account from Vanced MicroG (If have and try again)
 - Wipe Vanced MicroG & YouTube Vanced & YouTube Music Vanced app data and cache
 - Enable auto start for Vanced MicroG if you use heavy customized Android version such as  MIUI,OneUI,FlymeOS,HarmonyOS,etc
-- Allow this warning (If you're using MIUI)
-![miui](https://github.com/cuynu/archive/releases/download/archive/IMG_20221115_120709.jpg)
-
 
 **App not installed :**
 - Free up some storage space and try again
@@ -202,6 +197,8 @@ If these solution isn't fix your problem, please create issues [here.](https://g
 **There was a problem parsing the package:**
 - Check your Android version, Make sure your current Android version meet minimum required Android version.
 - Redownload APK file.
+
+____________________________________________________
 
 ## Screenshots
 
@@ -242,4 +239,5 @@ Video playback new layout:
 <a href="https://github.com/cuynu/ytvanced">
 <img alt="3" src="https://github.com/cuynu/archive/releases/download/archive/preview3.png" width="150" height="300" />
 </a>
+
 
