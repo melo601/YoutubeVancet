@@ -92,7 +92,7 @@ Place holder for Monet variant
 
 [Download UPDATE Package Magisk Module YouTube Vanced 17.45.36 Black](https://github.com/cuynu/ytvanced/releases/download/17.45.36/UPDATE.YouTube.Vanced.v17.45.36_Black_Universal.zip)
 
-[Download UPDATE Package Magisk Module YouTube Vanced 17.45.36 Black](https://github.com/cuynu/ytvanced/releases/download/17.45.36/UPDATE.YouTube.Vanced.v17.45.36_Dark_Universal.zip)
+[Download UPDATE Package Magisk Module YouTube Vanced 17.45.36 Dark](https://github.com/cuynu/ytvanced/releases/download/17.45.36/UPDATE.YouTube.Vanced.v17.45.36_Dark_Universal.zip)
 
 Place holder for Monet variant
 
