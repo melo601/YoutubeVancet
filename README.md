@@ -15,6 +15,8 @@ Worry about malware or keylogger? [See VirusTotal scan results](https://github.c
 
 [Discussion on GitHub (English)](https://github.com/cuynu/ytvanced/discussions)
 
+Want to recevie new Updates? Watch this repository (Recommended) or Join Telegram update channel (Not recommended)
+
 Join unofficial update channel </p> <a href="https://telegram.me/ytvancedupdates" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
 
 You can support me by give star for this repository or subscribe to [my personal YouTube channel](https://m.youtube.com/@cuynu/about) and disable the notification bell for my channel.
