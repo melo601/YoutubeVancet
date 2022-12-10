@@ -197,6 +197,14 @@ If these solution isn't fix your problem, please create issues [here.](https://g
 - Wipe app data and cache
 - Reinstall YouTube Vanced client
 
+**Not responding when watch videos :**
+
+If you got YouTube Vanced not responding when watch a videos, that's because Return YouTube Dislike trying to get the dislikes from the API, but due to poor network conditions, RYD unable to get the metrics, resulting in unresponsive YouTube. Turn off RYD in settings if you often have unstable network connection.
+
+**Not responding when not watch any videos :**
+
+Check your device and make sure the official latest version of YouTube still run well on your device, Older devices will often have this problem because the hardware is too old.
+
 **There was a problem parsing the package:**
 - Check your Android version, Make sure your current Android version meet minimum required Android version.
 - Redownload APK file.
