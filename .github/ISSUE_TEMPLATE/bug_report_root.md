@@ -1,5 +1,5 @@
 ---
-name: Bug report root
+name: Bug report root variant
 about: Report a problem related to YouTube Vanced & YouTube Music Vanced root variant
 title: ''
 labels: bug
@@ -14,8 +14,8 @@ Environment
 Platform:Android
 OS Version:
 YouTube Vanced Version:
-Vanced MicroG:
-Device Models:
+Magisk Module Download links: 
+Device:
 Reproducibility Rate:
 
 Description
