@@ -15,7 +15,7 @@ Platform:Android
 OS Version:
 YouTube Vanced Version:
 Vanced MicroG:
-Device Models:
+Device:
 Reproducibility Rate:
 
 Description
