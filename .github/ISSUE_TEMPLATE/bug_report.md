@@ -9,28 +9,43 @@ assignees: ''
 
 PLEASE FILL OUT THIS FORM, DO NOT CREATE ISSUE WITHOUT THIS FORM, OTHERWISE, ISSUE WILL CLOSE WITHOUT ANY NOTICE OR CONVERT TO DISCUSSION.
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+Environment
+===========
+Platform:Android
+OS Version:
+YouTube Vanced Version:
+Vanced MicroG:
+Device Models:
+Reproducibility Rate:
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+Description
+===========
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
 
-**Screenshot/Videos**
-If applicable, upload screenshot or videos to help explain your problem.
+Steps to reproduce
+==================
+1.
+2.
+3.
+4.
 
-- Device: [e.g. Android device]
-- OS: [e.g. Android 13]
-- YouTube Vanced Version [e.g. 17.03.38]
-- Vanced MicroG version [e.g. 20220230]
-   Don't fill into Vanced microG version if you're
-   using YouTube Vanced root [Magisk Module]
 
-**Additional context**
-Add any other context about the problem like logcat,etc here.
+Expected result
+===============
+
+
+Actual result
+=============
+
+
+Workarounds
+===========
+
+
+Screenshots / Videos / Logs
+===========================
+
+
+Notes
+=====
+
