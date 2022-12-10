@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: Bug report root
 about: Report a problem related to YouTube Vanced & YouTube Music Vanced root variant
 title: ''
 labels: bug
