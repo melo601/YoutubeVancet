@@ -1,7 +1,8 @@
 # YouTube Vanced
 Another YouTube Vanced Unofficial projects based on ReVanced patches with little different.
 
-Credit YouTube Vanced Official: [Vanced Team](https://github.com/TeamVanced)
+Credit YouTube Vanced : [Vanced Team](https://github.com/TeamVanced), patches : [ReVanced Extended](https://github.com/inotia00/revanced-patches)
+
 
 <a href="https://github.com/cuynu/ytvanced#download">
 <img alt="YouTube Vanced logo" src="https://github.com/cuynu/archive/releases/download/archive/vanced2.jpg" width="270" height="150" />
