@@ -1,7 +1,5 @@
 # YouTube Vanced
-YouTube Vanced & Vanced MicroG & YouTube Music Vanced APK install without Manager
-
-Another YouTube Vanced Unofficial projects based on ReVanced patches with little different 
+Another YouTube Vanced Unofficial projects based on ReVanced patches with little different.
 
 Credit YouTube Vanced Official: [Vanced Team](https://github.com/TeamVanced)
 
@@ -34,6 +32,10 @@ ____________________________________________________
 - **[Can't install on Xiaomi MIUI devices?, See how to fix that with workaround!](https://github.com/cuynu/ytvanced#installation-for-miui)**
 - Architecture : Universal (arm64-v8a,armeabi-v7a,x86,x86_64)
 - Support all language supported by official YouTube client.
+____________________________________________________
+
+**All of recents YouTube Vanced builds are patched with ReVanced/ReVanced Extended patches.**
+
 ____________________________________________________
 
 # Download 
