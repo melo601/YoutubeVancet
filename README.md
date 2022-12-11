@@ -4,11 +4,12 @@ Another YouTube Vanced Unofficial projects based on ReVanced patches with little
 Credit YouTube Vanced Official: [Vanced Team](https://github.com/TeamVanced)
 
 <a href="https://github.com/cuynu/ytvanced#download">
-<img alt="vanced" src="https://github.com/cuynu/archive/releases/download/archive/vanced2.jpg" width="270" height="150" />
+<img alt="YouTube Vanced logo" src="https://github.com/cuynu/archive/releases/download/archive/vanced2.jpg" width="270" height="150" />
 </a>
 
 Worry about malware or keylogger? [See VirusTotal scan results](https://github.com/cuynu/ytvanced/wiki/VirusTotal_Hash)
 
+Download counts :
 <p align="left">
 <a href="https://github.com/cuynu/ytvanced#download"><img src="https://img.shields.io/github/downloads/cuynu/ytvanced/total?color=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge"></a>
 
@@ -34,10 +35,6 @@ ____________________________________________________
 - Support all language supported by official YouTube client.
 ____________________________________________________
 
-**All of recents YouTube Vanced builds are patched with ReVanced/ReVanced Extended patches.**
-
-____________________________________________________
-
 # Download 
 Minimum Android version : 8 (Oreo) for version 17.41.34 and above,
 6.0.0 for version [17.33.42](https://github.com/cuynu/ytvanced/releases/tag/17.33.42) or older
@@ -48,7 +45,7 @@ Minimum Android version : 8 (Oreo) for version 17.41.34 and above,
 
 [Download Vanced MicroG 0.2.24.220220](https://github.com/cuynu/ytvanced/releases/download/17.03.38/Vanced.microG_0.2.24.220220.apk)
 
-**YouTube Vanced Non-root** : 
+**YouTube Vanced non-root variant** : 
 
 **Unofficial version (Recommended)** :
 
@@ -70,7 +67,7 @@ Latest version is : 17.45.36
 
 [Download YouTube Vanced Unofficial version 17.43.36 Dark](https://github.com/cuynu/ytvanced/releases/download/17.43.36/YouTube.Vanced_v17.43.36_Dark_Universal.apk)
 
-**YouTube Music Vanced :**
+**YouTube Music Vanced non-root & root variant:**
 
 [Download YouTube Music Vanced Unofficial version 5.33.51](https://github.com/cuynu/ytvanced/releases/download/17.45.34/YouTube.Music.Vanced.v5.33.51_Universal.apk)
 
@@ -85,7 +82,7 @@ Latest version is : 17.45.36
 [Download YouTube Music Vanced Unofficial version 5.28.51 (Only armeabi-v7a,arm64-v8a)](https://github.com/cuynu/ytvanced/releases/download/17.41.34/YouTube.Music.Vanced-v5.28.51_2arch.apk)
 
 
-**YouTube Vanced Root [Magisk Module]**
+**YouTube Vanced root variant [Magisk Module]**
 
 **Select update package if you want to update current installed YouTube Vanced Magisk Module without lose current settings, but if you have not installed or want to reinstall, please use normal Magisk Module (not label as UPDATE)**
 
