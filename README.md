@@ -184,6 +184,7 @@ If these solution isn't fix your problem, please create issues [here.](https://g
 - Remove your account from Vanced MicroG (If have and try again)
 - Wipe Vanced MicroG & YouTube Vanced & YouTube Music Vanced app data and cache
 - Enable auto start for Vanced MicroG if you use heavy customized Android version such as  MIUI,OneUI,FlymeOS,HarmonyOS,etc
+- For Tecno user : Find and open Phone Master app, go to auto start manager, allow Vanced microG and YouTube Vanced auto start.
 
 **App not installed :**
 - Free up some storage space and try again
@@ -194,6 +195,7 @@ If these solution isn't fix your problem, please create issues [here.](https://g
 - Install or reinstall Vanced MicroG 
 - Turn off battery optimization for Vanced MicroG
 - Allow Vanced MicroG run on background or auto start (on heavy customized OS : MIUI,OneUI,FlymeOS,HarmonyOS,etc)
+- For Tecno user : Find and open Phone Master app, go to auto start manager, allow Vanced microG and YouTube Vanced auto start.
 - Wipe app data and cache
 - Reinstall YouTube Vanced client
 
