@@ -84,7 +84,8 @@ Latest version is : 17.45.36 [(Changelogs)](https://github.com/cuynu/ytvanced/re
 
 
 **YouTube Vanced root variant [Magisk Module]**
-If module script not working, try extract the base.apk from the zip and install it manually, then try again
+
+If module script not working, try extract the base.apk or youtube.apk from the zip and install it manually, then try again
 
 **Select update package if you want to update current installed YouTube Vanced Magisk Module without lose current settings, but if you have not installed or want to reinstall, please use normal Magisk Module (not label as UPDATE)**
 
