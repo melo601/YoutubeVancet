@@ -8,7 +8,7 @@ Credit YouTube Vanced : [Vanced Team](https://github.com/TeamVanced), patches : 
 <img alt="YouTube Vanced logo" src="https://github.com/cuynu/archive/releases/download/archive/vanced2.jpg" width="270" height="150" />
 </a>
 
-Worry about malware or keylogger? [See VirusTotal scan results](https://github.com/cuynu/ytvanced/wiki/VirusTotal_Hash)
+Worry about malware,backdoor or keylogger? [See VirusTotal scan results](https://github.com/cuynu/ytvanced/wiki/VirusTotal_Hash)
 
 Download counts :
 <p align="left">
