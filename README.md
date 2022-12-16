@@ -50,7 +50,7 @@ Minimum Android version : 8 (Oreo) for version 17.41.34 and above,
 
 **Unofficial version (Recommended)** :
 
-Latest version is : 17.45.36
+Latest version is : 17.45.36 [(Changelogs)](https://github.com/cuynu/ytvanced/releases/tag/17.45.36)
 
 [Download YouTube Vanced Unofficial version 17.45.36 Black](https://github.com/cuynu/ytvanced/releases/download/17.45.36/YouTube.Vanced.v17.45.36_Black_Universal.apk)
 
