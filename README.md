@@ -262,5 +262,4 @@ Video playback new layout:
 ## Build guide
 
 We are merging ReVanced Extended patches into vanced-extended and master branch and do some changes, check back later
-[![Release](https://github.com/cuynu/ytvanced/actions/workflows/release.yml/badge.svg)](https://github.com/cuynu/ytvanced/actions/workflows/release.yml)
 
