@@ -1,5 +1,5 @@
 # YouTube Vanced
-Another YouTube Vanced Unofficial projects based on ReVanced patches with little different.
+Another YouTube Vanced Unofficial projects based on ReVanced patches 
 
 Credit YouTube Vanced : [Vanced Team](https://github.com/TeamVanced), patches : [ReVanced Extended](https://github.com/inotia00/revanced-patches)
 
@@ -261,5 +261,6 @@ Video playback new layout:
 
 ## Build guide
 
-We are syncing ReVanced patches into vanced-extended and master branch and do some changes, check back later
+We are merging ReVanced Extended patches into vanced-extended and master branch and do some changes, check back later
+[![Release](https://github.com/cuynu/ytvanced/actions/workflows/release.yml/badge.svg)](https://github.com/cuynu/ytvanced/actions/workflows/release.yml)
 
