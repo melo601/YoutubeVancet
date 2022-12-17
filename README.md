@@ -256,3 +256,10 @@ Video playback new layout:
 </a>
 
 
+
+
+
+## Build guide
+
+We are syncing ReVanced patches into vanced-extended and master branch and do some changes, check back later
+
