@@ -1,7 +1,7 @@
 ---
 name: Bug report root variant
 about: Report a problem related to YouTube Vanced & YouTube Music Vanced root variant
-title: ''
+title: '[BUG]'
 labels: bug
 assignees: ''
 
@@ -16,7 +16,6 @@ OS Version:
 YouTube Vanced Version:
 Magisk Module Download links: 
 Device:
-Reproducibility Rate:
 
 Description
 ===========
@@ -36,10 +35,6 @@ Expected result
 
 Actual result
 =============
-
-
-Workarounds
-===========
 
 
 Screenshots / Videos / Logs
