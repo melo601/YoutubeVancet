@@ -93,7 +93,7 @@ If module script not working, try extract the base.apk or youtube.apk from the z
 
 [Download Magisk Module YouTube Vanced 17.45.36 Dark](https://github.com/cuynu/ytvanced/releases/download/17.45.36/YouTube.Vanced.v17.45.36_Dark_Universal_MagiskModule.zip)
 
-[Download Magisk Module YouTube Vanced 17.45.36 Monet (Android 12+ only](https://github.com/cuynu/ytvanced/releases/download/17.45.36/YouTube.Vanced.v17.45.36_Monet_Universal_MagiskModule.zip)
+[Download Magisk Module YouTube Vanced 17.45.36 Monet (Android 12+ only)](https://github.com/cuynu/ytvanced/releases/download/17.45.36/YouTube.Vanced.v17.45.36_Monet_Universal_MagiskModule.zip)
 
 [Download UPDATE Package Magisk Module YouTube Vanced 17.45.36 Black](https://github.com/cuynu/ytvanced/releases/download/17.45.36/UPDATE.YouTube.Vanced.v17.45.36_Black_Universal_MagiskModule.zip)
 
