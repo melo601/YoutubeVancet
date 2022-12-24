@@ -29,8 +29,9 @@ ____________________________________________________
 
 - **[Common problems and solution](https://github.com/cuynu/ytvanced#common-problem-and-solution)**
 - **[Changelogs and known issues](https://github.com/cuynu/ytvanced/releases)**
+- **[Frequently asked questions](https://github.com/cuynu/ytvanced#frequently-asked-questions)**
 
-- YouTube Vanced Features : [See on Wikipedia](https://www.google.com/url?sa=t&source=web&rct=j&url=https://en.m.wikipedia.org/wiki/YouTube_Vanced&ved=2ahUKEwiHoPm3ppH7AhXYEnAKHeYsDboQFnoECAsQBQ&usg=AOvVaw2FfXMQmEyM6VQM9MKVbS6Q)
+- YouTube Vanced Features : Block advertisement, Return YouTube Dislikes, SponsorBlock, Custom video playback speed, Download videos and many more!
 - **[Can't install on Xiaomi MIUI devices?, See how to fix that with workaround!](https://github.com/cuynu/ytvanced#installation-for-miui)**
 - Architecture : Universal (arm64-v8a,armeabi-v7a,x86,x86_64)
 - Support all language supported by official YouTube client.
