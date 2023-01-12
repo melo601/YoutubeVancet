@@ -43,7 +43,7 @@ Minimum Android version : 8 (Oreo) for version 17.41.34 and above,
 
 IMPORTANT : EUROPE users may have video playback buffer issue, [click here to see how to fix!!!](https://github.com/cuynu/ytvanced/wiki/buffer)
 
-[Installation Guide](
+[Installation Guide](https://github.com/cuynu/ytvanced#installation-guide)
 
 **Vanced MicroG** **(REQUIRED to use YouTube Vanced non-root version, not needed for root version)**
 
