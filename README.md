@@ -43,6 +43,8 @@ Minimum Android version : 8 (Oreo) for version 17.41.34 and above,
 
 IMPORTANT : EUROPE users may have video playback buffer issue, [click here to see how to fix!!!](https://github.com/cuynu/ytvanced/wiki/buffer)
 
+[Installation Guide](
+
 **Vanced MicroG** **(REQUIRED to use YouTube Vanced non-root version, not needed for root version)**
 
 [Download Vanced MicroG 0.2.26.224913](https://github.com/cuynu/ytvanced/releases/download/17.45.36/Vanced.MicroG.v0.2.26.224913.apk)
@@ -155,6 +157,22 @@ Different : Only use armeabi-v7a architecture and black theme
 
 ____________________________________________________
 
+## Installation Guide
+
+If you not rooted :
+(Most device are not rooted by default)
+
+- Download Vanced microG (Latest version) and YouTube Vanced or YouTube Music Vanced non-root variant latest version from above or releases
+- Install as normal Android package file (APK)
+- (Some device will prevent you open YouTube Vanced, so you need to enable auto start for YouTube Vanced.)
+
+If you're rooted :
+- Download Magisk Module variant from above or releases
+- Install on Magisk Manager 
+- If YouTube not shown on app drawer, install base.apk from Magisk Module zip, and try install module again.
+
+____________________________________________________
+
 ## Translate YouTube Vanced
 
 You can contributor translate YouTube Vanced to your language by create pull requests to [ReVanced Patches inotia00](https://github.com/inotia00/revanced-patches/pulls)
@@ -186,6 +204,9 @@ ____________________________________________________
 ## Common problem and solution
 
 If these solution isn't fix your problem, please create issues [here.](https://github.com/cuynu/ytvanced/issues)
+
+**Video playback not working (buffer issue)**
+- Enable `Fix video playback buffer issue` option on YouTube Settings -> Vanced Settings -> Extended Settings then try again.
 
 **No internet connection:**
 - Remove your account from Vanced MicroG (If have and try again)
@@ -271,7 +292,7 @@ We are merging ReVanced Extended patches into vanced-extended and master branch 
 
 Q: What is this?
 
-A: This is a fork of YouTube Vanced after YouTube Vanced Official was discontinued.
+A: This is a fork of YouTube Vanced after YouTube Vanced Official was discontinued, its based on ReVanced Extended patches.
 
 Q: Is Unofficial YouTube Vanced safe?
 
@@ -292,4 +313,3 @@ A: You can go to this repository, and scroll down to the "Download" section and 
 Q: I can't see the Shorts and create button in the homepage!
 
 A: Both shorts and create buttons are hidden by default, go to Settings -> Vanced Settings -> Layout and enable it.
-
