@@ -178,46 +178,6 @@ If you can't install YouTube Vanced in MIUI, try turn off MIUI Optimization in D
 
 ____________________________________________________
 
-### Common problem and solution
-
-> If these solution isn't fix your problem, please create issues [here.](https://github.com/cuynu/ytvanced/issues)
-
-**Video playback not working (buffer issue)**
-- Enable `Fix video playback buffer issue` option on YouTube Settings -> Vanced Settings -> Extended Settings and try again, if not works, try logout Google account then change other account.
-
-**No internet connection:**
-- Remove your account from Vanced MicroG (If have and try again)
-- Wipe Vanced MicroG & YouTube Vanced & YouTube Music Vanced app data and cache
-- Enable auto start for Vanced MicroG if you use heavy customized Android version such as  MIUI,OneUI,FlymeOS,HarmonyOS,etc
-- For Tecno user : Find and open Phone Master app, go to auto start manager, allow Vanced microG and YouTube Vanced auto start.
-
-**App not installed :**
-- Free up some storage space and try again
-- Uninstall official YouTube Vanced client downloaded from Vanced Manager or other unknown sources then try again. Reason : Mismatch signature.
-- Make sure you have downloaded Universal version of YouTube Vanced/YouTube Music Vanced.
-
-**Crash when opening:**
-- Install or reinstall Vanced MicroG 
-- Turn off battery optimization for Vanced MicroG
-- Allow Vanced MicroG run on background or auto start (on heavy customized OS : MIUI,OneUI,FlymeOS,HarmonyOS,etc)
-- For Tecno user : Find and open Phone Master app, go to auto start manager, allow Vanced microG and YouTube Vanced auto start.
-- Wipe app data and cache
-- Reinstall YouTube Vanced client
-
-**Not responding when watch videos :**
-
-If you got YouTube Vanced not responding when watch a videos, that's because Return YouTube Dislike trying to get the dislikes from the API, but due to poor network conditions, RYD unable to get the metrics, resulting in unresponsive YouTube. Turn off RYD in settings if you often have unstable network connection.
-
-**Not responding when not watch any videos :**
-
-Check your device and make sure the official latest version of YouTube still run well on your device, Older devices will often have this problem because the hardware is too old.
-
-**There was a problem parsing the package:**
-- Check your Android version, Make sure your current Android version meet minimum required Android version.
-- Redownload APK file.
-
-____________________________________________________
-
 ### Screenshots
 
 Preview screenshots of YouTube Vanced (captured on 17.45.36) :
@@ -258,18 +218,61 @@ Video playback new layout:
 <img alt="3" src="https://github.com/cuynu/archive/releases/download/archive/preview3.png" width="150" height="300" />
 </a>
 
-
+_________________________________________________
 
 ### Build guide
 
 We are merging ReVanced Extended patches into vanced-extended and master branch and do some changes, check back later
+____________________________________________________
 
+### Common problem and solution
+
+> If these solution isn't fix your problem, please create issues [here.](https://github.com/cuynu/ytvanced/issues)
+
+**Video playback not working (buffer issue)**
+- Enable `Fix video playback buffer issue` option on YouTube Settings -> Vanced Settings -> Extended Settings and try again, if not works, try logout Google account then change other account.
+
+**No internet connection:**
+- Remove your account from Vanced MicroG (If have and try again)
+- Wipe Vanced MicroG & YouTube Vanced & YouTube Music Vanced app data and cache
+- Enable auto start for Vanced MicroG if you use heavy customized Android version such as  MIUI,OneUI,FlymeOS,HarmonyOS,etc
+- For Tecno user : Find and open Phone Master app, go to auto start manager, allow Vanced microG and YouTube Vanced auto start.
+
+**App not installed :**
+- Free up some storage space and try again
+- Uninstall official YouTube Vanced client downloaded from Vanced Manager or other unknown sources then try again. Reason : Mismatch signature.
+- Make sure you have downloaded Universal version of YouTube Vanced/YouTube Music Vanced.
+
+**Crash when opening:**
+- Install or reinstall Vanced MicroG 
+- Turn off battery optimization for Vanced MicroG
+- Allow Vanced MicroG run on background or auto start (on heavy customized OS : MIUI,OneUI,FlymeOS,HarmonyOS,etc)
+- For Tecno user : Find and open Phone Master app, go to auto start manager, allow Vanced microG and YouTube Vanced auto start.
+- Wipe app data and cache
+- Reinstall YouTube Vanced client
+
+**Not responding when watch videos :**
+
+If you got YouTube Vanced not responding when watch a videos, that's because Return YouTube Dislike trying to get the dislikes from the API, but due to poor network conditions, RYD unable to get the metrics, resulting in unresponsive YouTube. Turn off RYD in settings if you often have unstable network connection.
+
+**Not responding when not watch any videos :**
+
+Check your device and make sure the official latest version of YouTube still run well on your device, Older devices will often have this problem because the hardware is too old.
+
+**There was a problem parsing the package:**
+- Check your Android version, Make sure your current Android version meet minimum required Android version.
+- Redownload APK file.
+____________________________________________________
 
 ### Frequently asked questions
 
 Q: What is this?
 
 A: This is a fork of YouTube Vanced after YouTube Vanced Official was discontinued, its based on ReVanced Extended patches.
+
+Q: Different between ReVanced and YouTube Vanced Unofficial?
+
+A: There is no different between RV and Vanced, just the app logo changed, and some options.
 
 Q: Is Unofficial YouTube Vanced safe?
 
