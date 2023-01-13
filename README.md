@@ -33,6 +33,10 @@ ____________________________________________________
 - **[Can't install on Xiaomi MIUI devices?, See how to fix !](https://github.com/cuynu/ytvanced#installation-for-miui)**
 - Architecture : Universal (arm64-v8a,armeabi-v7a,x86,x86_64)
 - Support all language supported by official YouTube client.
+- Supported themes :
+> Black [Pure dark theme AMOLED], Dark theme [Normal dark theme]
+
+> Monet theme [Dynamic color on Android 12+]
 ____________________________________________________
 
 # Download 
@@ -53,7 +57,13 @@ Minimum Android version : 8 (Oreo) for version 17.41.34 and above,
 
 **Unofficial version (Recommended)** :
 
-Latest version is : 17.45.36 [(Changelogs)](https://github.com/cuynu/ytvanced/releases/tag/17.45.36)
+Latest version is : 18.02.33 [(Changelogs)](https://github.com/cuynu/ytvanced/releases/tag/18.02.33)
+
+[Download YouTube Vanced Unofficial version 18.02.33 Black](https://github.com/cuynu/ytvanced/releases/download/18.02.33/YouTube.Vanced.v18.02.33_Black_Universal.apk)
+
+[Download YouTube Vanced Unofficial version 18.02.33 Dark](https://github.com/cuynu/ytvanced/releases/download/18.02.33/YouTube.Vanced.v18.02.33_Dark_Universal.apk)
+
+[Download YouTube Vanced Unofficial version 18.02.33 Monet theme (Android 12+ only)](https://github.com/cuynu/ytvanced/releases/download/18.02.33/YouTube.Vanced.v18.02.33_Monet_Universal.apk)
 
 [Download YouTube Vanced Unofficial version 17.45.36 Black](https://github.com/cuynu/ytvanced/releases/download/17.45.36/YouTube.Vanced.v17.45.36_Black_Universal.apk)
 
@@ -125,7 +135,9 @@ Most Android Car screen are only have armeabi-v7a architecture and running Andro
 
 Android package name changed to com.android.car.vanced instead of com.vanced.android.youtube because some Android car screen are have YouTube Vanced official installed as system app and can't be uninstalled
 
-Different : Only use armeabi-v7a architecture and black theme
+Different : Only use armeabi-v7a architecture and black theme.
+
+[Download YouTube Vanced 18.02.33 for Android Car screen](https://github.com/cuynu/ytvanced/releases/download/18.02.33/YouTube.Vanced.Android.CarOled.v18.02.33_Black.apk)
 
 [Download YouTube Vanced 17.45.36 for Android Car screen](https://github.com/cuynu/ytvanced/releases/download/17.45.36/YouTube.Vanced.Android.CarOled.v17.45.36_Black.apk)
 
