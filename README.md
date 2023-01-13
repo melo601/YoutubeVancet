@@ -16,7 +16,9 @@ Download counts :
 
 [Discussion on GitHub (English)](https://github.com/cuynu/ytvanced/discussions)
 
-Want to recevie new Updates? Watch this repository (Recommended) or Join Telegram update channel (Not recommended)
+[Discussion on Telegram cuynu/ytvanced](https://t.me/ytvancedupdates_chat)
+
+Want to recevie new Updates? Watch this repository (Recommended) or Join Telegram update channel :
 
 Join unofficial update channel </p> <a href="https://telegram.me/ytvancedupdates" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
 
