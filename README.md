@@ -305,3 +305,7 @@ A: You can go to this repository, and scroll down to the "Download" section and 
 Q: I can't see the Shorts and create button in the homepage!
 
 A: Both shorts and create buttons are hidden by default, go to Settings -> Vanced Settings -> Layout and enable it.
+
+____________________________________________________
+
+### [Go back to the top of the page](https://github.com/cuynu/ytvanced#youtube-vanced)
