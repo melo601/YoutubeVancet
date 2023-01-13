@@ -75,9 +75,13 @@ Latest version is : 18.02.33 [(Changelogs)](https://github.com/cuynu/ytvanced/re
 
 **YouTube Music Vanced non-root & root variant:**
 
+[Download YouTube Music Vanced Unofficial version 5.39.52](https://github.com/cuynu/ytvanced/releases/download/5.39.52/YouTube.Music.Vanced.v5.39.52_Universal.apk)
+
+[Download YouTube Music Vanced Unofficial version 5.39.52 (Only armeabi-v7a,arm64-v8a)](https://github.com/cuynu/ytvanced/releases/download/5.39.52/YouTube.Music.Vanced.v5.39.52_2arch.apk)
+
 [Download YouTube Music Vanced Unofficial version 5.33.51](https://github.com/cuynu/ytvanced/releases/download/17.45.34/YouTube.Music.Vanced.v5.33.51_Universal.apk)
 
-[Download YouTube Music Vanced Unofficial version 5.33.51 (Only armeabi-v7a,arm64-v8a](https://github.com/cuynu/ytvanced/releases/download/17.45.34/YouTube.Music.Vanced.v5.33.51_2arch.apk)
+[Download YouTube Music Vanced Unofficial version 5.33.51 (Only armeabi-v7a,arm64-v8a)](https://github.com/cuynu/ytvanced/releases/download/17.45.34/YouTube.Music.Vanced.v5.33.51_2arch.apk)
 
 [Download Magisk Module YouTube Music Vanced Unofficial 5.33.51](https://github.com/cuynu/ytvanced/wiki/rootmusic53351)
 
