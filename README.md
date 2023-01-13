@@ -309,3 +309,6 @@ A: Both shorts and create buttons are hidden by default, go to Settings -> Vance
 ____________________________________________________
 
 ### [Go back to the top of the page](https://github.com/cuynu/ytvanced#youtube-vanced)
+
+____________________________________________________
+
