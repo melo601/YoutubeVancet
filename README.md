@@ -23,10 +23,6 @@ Join unofficial update channel </p> <a href="https://telegram.me/ytvancedupdates
 You can support me by give star for this repository or subscribe to [my personal YouTube channel](https://m.youtube.com/@cuynu/about) and disable the notification bell for my channel.
 ____________________________________________________
 
-(Without Vanced MicroG, YouTube Vanced will crash due to missing MicroG, Please install Vanced MicroG below.)
-
-(Không có Vanced MicroG, YouTube Vanced sẽ không chạy, vui lòng cài đặt Vanced MicroG bên dưới.)
-
 - **[Common problems and solution](https://github.com/cuynu/ytvanced#common-problem-and-solution)**
 - **[Changelogs and known issues](https://github.com/cuynu/ytvanced/releases)**
 - **[Frequently asked questions](https://github.com/cuynu/ytvanced#frequently-asked-questions)**
@@ -41,17 +37,15 @@ ____________________________________________________
 Minimum Android version : 8 (Oreo) for version 17.41.34 and above,
 6.0.0 for version [17.34.36](https://github.com/cuynu/ytvanced/releases/tag/17.34.36) or older
 
-IMPORTANT : EUROPE users may have video playback buffer issue, [click here to see how to fix!!!](https://github.com/cuynu/ytvanced/wiki/buffer)
-
 [Installation Guide](https://github.com/cuynu/ytvanced#installation-guide)
 
-**Vanced MicroG** **(REQUIRED to use YouTube Vanced non-root version, not needed for root version)**
+> **Warning**: Vanced MicroG is REQUIRED to use YouTube Vanced non-root variant, not needed for root variant.
+
+**Vanced MicroG (REQUIRED for non-root variant) :**
 
 [Download Vanced MicroG 0.2.26.224913](https://github.com/cuynu/ytvanced/releases/download/17.45.36/Vanced.MicroG.v0.2.26.224913.apk)
 
 [Download Vanced MicroG 0.2.25.224113](https://github.com/cuynu/ytvanced/releases/download/17.41.34/Vanced.MicroG.v0.2.25.224113.apk)
-
-[Download Vanced MicroG 0.2.24.220220](https://github.com/cuynu/ytvanced/releases/download/17.03.38/Vanced.microG_0.2.24.220220.apk)
 
 **YouTube Vanced non-root variant** : 
 
@@ -65,15 +59,7 @@ Latest version is : 17.45.36 [(Changelogs)](https://github.com/cuynu/ytvanced/re
 
 [Download YouTube Vanced Unofficial version 17.45.36 Monet theme (Android 12+ only)](https://github.com/cuynu/ytvanced/releases/download/17.45.36/YouTube.Vanced.v17.45.36_Monet_Universal.apk)
 
-[Download YouTube Vanced Unofficial version 17.45.34 Black](https://github.com/cuynu/ytvanced/releases/download/17.45.34/YouTube.Vanced.v17.45.34_Black_Universal.apk)
-
-[Download YouTube Vanced Unofficial version 17.45.34 Dark](https://github.com/cuynu/ytvanced/releases/download/17.45.34/YouTube.Vanced.v17.45.34_Dark_Universal.apk)
-
-[Download YouTube Vanced Unofficial version 17.45.34 Monet theme (Android 12+ only)](https://github.com/cuynu/ytvanced/releases/download/17.45.34/YouTube.Vanced.v17.45.34.Monet.Universal.apk)
-
-[Download YouTube Vanced Unofficial version 17.43.36 Black](https://github.com/cuynu/ytvanced/releases/download/17.43.36/YouTube.Vanced.v17.43.36_Black_Universal.apk)
-
-[Download YouTube Vanced Unofficial version 17.43.36 Dark](https://github.com/cuynu/ytvanced/releases/download/17.43.36/YouTube.Vanced_v17.43.36_Dark_Universal.apk)
+[Download older version of YouTube Vanced](https://github.com/cuynu/ytvanced#youtube-vanced-oldoutdated-version)
 
 **YouTube Music Vanced non-root & root variant:**
 
@@ -83,18 +69,12 @@ Latest version is : 17.45.36 [(Changelogs)](https://github.com/cuynu/ytvanced/re
 
 [Download Magisk Module YouTube Music Vanced Unofficial 5.33.51](https://github.com/cuynu/ytvanced/wiki/rootmusic53351)
 
-[Download YouTube Music Vanced Unofficial version 5.31.50](https://github.com/cuynu/ytvanced/releases/download/17.43.36/YouTube.Music.Vanced_v5.31.50_Universal.apk)
-
-[Download YouTube Music Vanced Unofficial version 5.28.51](https://github.com/cuynu/ytvanced/releases/download/17.41.34/YouTube.Music.Vanced-v5.28.51_Universal.apk)
-
-[Download YouTube Music Vanced Unofficial version 5.28.51 (Only armeabi-v7a,arm64-v8a)](https://github.com/cuynu/ytvanced/releases/download/17.41.34/YouTube.Music.Vanced-v5.28.51_2arch.apk)
+[Download older version of YouTube Music Vanced](https://github.com/cuynu/ytvanced#youtube-vanced-oldoutdated-version)
 
 
 **YouTube Vanced root variant [Magisk Module]**
 
-If module script not working, try extract the base.apk or youtube.apk from the zip and install it manually, then try again
-
-**Select update package if you want to update current installed YouTube Vanced Magisk Module without lose current settings, but if you have not installed or want to reinstall, please use normal Magisk Module (not label as UPDATE)**
+> **Tips**: If module script not working, try extract the base.apk or youtube.apk from the zip and install it manually, then try again
 
 [Download Magisk Module YouTube Vanced 17.45.36 Black](https://github.com/cuynu/ytvanced/releases/download/17.45.36/YouTube.Vanced.v17.45.36_Black_Universal_MagiskModule.zip)
 
@@ -106,23 +86,15 @@ If module script not working, try extract the base.apk or youtube.apk from the z
 
 [Download UPDATE Package Magisk Module YouTube Vanced 17.45.36 Dark](https://github.com/cuynu/ytvanced/releases/download/17.45.36/UPDATE.YouTube.Vanced.v17.45.36_Dark_Universal_MagiskModule.zip)
 
-Place holder for Monet variant
-
-[Download Magisk Module YouTube Vanced 17.45.34 Black](https://github.com/cuynu/ytvanced/releases/download/17.45.34/YouTube.Vanced.v17.45.34_Black_Universal_MagiskModule.zip)
-
-[Download Magisk Module YouTube Vanced 17.45.34 Dark](https://github.com/cuynu/ytvanced/releases/download/17.45.34/YouTube.Vanced.v17.45.34_Dark_Universal_MagiskModule.zip)
-
-[Download Magisk Module YouTube Vanced 17.45.34 Monet (Android 12+ Only)](https://github.com/cuynu/ytvanced/releases/download/17.45.34/YouTube.Vanced.v17.45.34_Monet_Universal_MagiskModule.zip)
-
-[Download Magisk Module YouTube Vanced 17.43.36 Black](https://github.com/cuynu/ytvanced/releases/download/17.43.36/YouTube.Vanced_v17.43.36_Black_MagiskModules.zip)
-
-[Download Magisk Module YouTube Vanced 17.43.36 Dark](https://github.com/cuynu/ytvanced/releases/download/17.43.36/YouTube.Vanced_v17.43.36_Dark_MagiskModules.zip)
-
 ____________________________________________________
 
 ## YouTube Vanced old/outdated version:
 
-You can download old/outdated version of YouTube Vanced, YouTube Music Vanced and Vanced MicroG here, BUT PLEASE DO NOT REPORT BUGS ON THESE VERSION.
+> **Warning**: Older/outdated version may have bugs or unexpected behavior, use it as your own risk!
+
+[Download YouTube Vanced Unofficial 17.45.34](https://github.com/cuynu/ytvanced/wiki/17.45.34)
+
+[Download YouTube Vanced Unofficial 17.43.36](https://github.com/cuynu/ytvanced/wiki/17.43.36)
 
 [Download YouTube Vanced Unofficial 17.42.33](https://github.com/cuynu/ytvanced/wiki/17.42.33)
 
@@ -133,6 +105,8 @@ You can download old/outdated version of YouTube Vanced, YouTube Music Vanced an
 [Download YouTube Vanced Unofficial 17.28.34](https://github.com/cuynu/ytvanced/wiki/17.28.34)
 
 [Download YouTube Vanced Official 17.03.38](https://github.com/cuynu/ytvanced/wiki/17.03.38)
+
+[Download YouTube Music Vanced Unofficial version 5.28.51 and 5.31.50](https://github.com/cuynu/ytvanced/wiki/5.28.51_and5.31.50)
 
 [Download YouTube Music Vanced Unofficial 5.16.51](https://github.com/cuynu/ytvanced/wiki/5.16.51)
 
@@ -173,7 +147,7 @@ If you're rooted :
 
 ____________________________________________________
 
-## Translate YouTube Vanced
+### Translate YouTube Vanced
 
 You can contributor translate YouTube Vanced to your language by create pull requests to [ReVanced Patches inotia00](https://github.com/inotia00/revanced-patches/pulls)
 . Your translation will change in next version if pull request has merged by inotia00, strings will change from ReVanced to Vanced automatically.
@@ -181,7 +155,7 @@ ____________________________________________________
 
 ### Open source
 
-All of my YouTube Vanced unofficial builds are using these patches
+All of my YouTube Vanced unofficial builds are using these open source patches
 
 [ReVanced patches](https://github.com/revanced/revanced-patches/)
 
@@ -189,24 +163,25 @@ All of my YouTube Vanced unofficial builds are using these patches
 
 ____________________________________________________
 
-## VirusTotal scan results and File Hashs
+### VirusTotal scan results and File Hashs
 
 **Because all my YouTube Vanced apk files are signed with debug keys, so some security vendor will flag it as malicious. Don't worry about this, its only a normal problem!**
 
-## [View YouTube Vanced/YouTube Music Vanced/Vanced MicroG VirusTotal Scan results/File Hash](https://github.com/cuynu/ytvanced/wiki/VirusTotal_Hash)
+### [View YouTube Vanced/YouTube Music Vanced/Vanced MicroG VirusTotal Scan results/File Hash](https://github.com/cuynu/ytvanced/wiki/VirusTotal_Hash)
 ____________________________________________________
 
-## Installation for MIUI
-[Some Xiaomi device that running MIUI may not be able to install due to security check by Xiaomi and MIUI Optimization, you can workaround that by install [Package Installer (Google) from APKMirror (Select version depend on your Android version)](https://www.apkmirror.com/apk/google-inc/package-installer/) and turn off MIUI Optimization on Developer options then install YouTube Vanced client with Package Installer (Google) instead of default Xiaomi APK installer.]
+### Installation for MIUI
+
+If you can't install YouTube Vanced in MIUI, try turn off MIUI Optimization in Developer options then try install again.
 
 ____________________________________________________
 
-## Common problem and solution
+### Common problem and solution
 
-If these solution isn't fix your problem, please create issues [here.](https://github.com/cuynu/ytvanced/issues)
+> If these solution isn't fix your problem, please create issues [here.](https://github.com/cuynu/ytvanced/issues)
 
 **Video playback not working (buffer issue)**
-- Enable `Fix video playback buffer issue` option on YouTube Settings -> Vanced Settings -> Extended Settings then try again.
+- Enable `Fix video playback buffer issue` option on YouTube Settings -> Vanced Settings -> Extended Settings and try again, if not works, try logout Google account then change other account.
 
 **No internet connection:**
 - Remove your account from Vanced MicroG (If have and try again)
@@ -241,7 +216,7 @@ Check your device and make sure the official latest version of YouTube still run
 
 ____________________________________________________
 
-## Screenshots
+### Screenshots
 
 Preview screenshots of YouTube Vanced (captured on 17.45.36) :
 
@@ -283,12 +258,12 @@ Video playback new layout:
 
 
 
-## Build guide
+### Build guide
 
 We are merging ReVanced Extended patches into vanced-extended and master branch and do some changes, check back later
 
 
-## Frequently asked questions
+### Frequently asked questions
 
 Q: What is this?
 
