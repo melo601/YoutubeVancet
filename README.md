@@ -97,6 +97,8 @@ Latest version is : 18.02.33 [(Changelogs)](https://github.com/cuynu/ytvanced/re
 
 > **Tips**: If module script not working, try extract the base.apk or youtube.apk from the zip and install it manually, then try again
 
+> **Warning** : Before install, if you have non-root variant installed before, you MUST uninstall non-root variant.
+
 [Download Magisk Module YouTube Vanced 18.02.33 Black](https://github.com/cuynu/ytvanced/releases/download/18.02.33/YouTube.Vanced.v18.02.33_Black_MagiskModule.zip)
 
 [Download Magisk Module YouTube Vanced 17.45.36 Black](https://github.com/cuynu/ytvanced/releases/download/17.45.36/YouTube.Vanced.v17.45.36_Black_Universal_MagiskModule.zip)
