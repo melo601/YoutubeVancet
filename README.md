@@ -154,7 +154,7 @@ Android package name changed to com.android.car.vanced instead of com.vanced.and
 
 Different : Only use armeabi-v7a architecture and black theme.
 
-[Download YouTube Vanced 18.02.33 for Android Car screen](https://github.com/cuynu/ytvanced/releases/download/18.02.33/YouTube.Vanced.Android.CarOled.v18.02.33_Black.apk)
+[Download YouTube Vanced 18.01.38 for Android Car screen](https://github.com/cuynu/ytvanced/releases/download/18.01.38/YouTube.Vanced.AndroidCarOled.v18.02.33.apk)
 
 [Download YouTube Vanced 17.45.36 for Android Car screen](https://github.com/cuynu/ytvanced/releases/download/17.45.36/YouTube.Vanced.Android.CarOled.v17.45.36_Black.apk)
 
