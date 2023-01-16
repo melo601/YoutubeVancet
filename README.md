@@ -57,7 +57,13 @@ Minimum Android version : 8 (Oreo) for version 17.41.34 and above,
 
 **Unofficial version (Recommended)** :
 
-Stable version is : 17.45.36 [(Changelogs)](https://github.com/cuynu/ytvanced/releases/tag/17.45.36)
+Stable version is : 18.01.38 [(Changelogs)](https://github.com/cuynu/ytvanced/releases/tag/18.01.38)
+
+[Download YouTube Vanced Unofficial version 18.01.38 Black](https://github.com/cuynu/ytvanced/releases/download/18.01.38/YouTube.Vanced.v18.01.38_Black_Universal.apk)
+
+[Download YouTube Vanced Unofficial version 18.01.38 Dark](https://github.com/cuynu/ytvanced/releases/download/18.01.38/YouTube.Vanced.v18.01.38_Dark_Universal.apk)
+
+[Download YouTube Vanced Unofficial version 18.01.38 Monet theme (Android 12+ only)](https://github.com/cuynu/ytvanced/releases/download/18.01.38/YouTube.Vanced.v18.01.38_Monet_Universal.apk)
 
 [Download YouTube Vanced Unofficial version 17.45.36 Black](https://github.com/cuynu/ytvanced/releases/download/17.45.36/YouTube.Vanced.v17.45.36_Black_Universal.apk)
 
@@ -93,9 +99,13 @@ Stable version is : 17.45.36 [(Changelogs)](https://github.com/cuynu/ytvanced/re
 
 > **Warning** : Before install, if you have non-root variant installed before, you MUST uninstall non-root variant.
 
-[Download Magisk Module YouTube Vanced 18.02.33 Black](https://github.com/cuynu/ytvanced/releases/download/18.02.33/YouTube.Vanced.v18.02.33_Black_MagiskModule.zip)
+[Download Magisk Module YouTube Vanced 18.01.38 Black](https://github.com/cuynu/ytvanced/releases/download/18.01.38/YouTube.Vanced.v18.01.38_Black_MagiskModule.zip)
 
-[Download Magisk Module YouTube Vanced 17.45.36 Black](https://github.com/cuynu/ytvanced/releases/download/17.45.36/YouTube.Vanced.v17.45.36_Black_Universal_MagiskModule.zip)
+[Download Magisk Module YouTube Vanced 18.01.38 Dark](https://github.com/cuynu/ytvanced/releases/download/18.01.38/YouTube.Vanced.v18.01.38_Dark_MagiskModule.zip)
+
+[Download Magisk Module YouTube Vanced 18.01.38 Monet (Android 12+ only)](https://github.com/cuynu/ytvanced/releases/download/18.01.38/YouTube.Vanced.v18.01.38_Monet_MagiskModule.zip)
+
+[Download Magisk Module YouTube Vanced 17.45.36 Black](https://github.com/cuynu/ytvanced/releases/download/17.45.36/YouTube.Vanced.v17.45.36_Dark_Universal_MagiskModule.zip)
 
 [Download Magisk Module YouTube Vanced 17.45.36 Dark](https://github.com/cuynu/ytvanced/releases/download/17.45.36/YouTube.Vanced.v17.45.36_Dark_Universal_MagiskModule.zip)
 
