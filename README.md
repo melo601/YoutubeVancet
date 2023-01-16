@@ -57,13 +57,7 @@ Minimum Android version : 8 (Oreo) for version 17.41.34 and above,
 
 **Unofficial version (Recommended)** :
 
-Latest version is : 18.02.33 [(Changelogs)](https://github.com/cuynu/ytvanced/releases/tag/18.02.33)
-
-[Download YouTube Vanced Unofficial version 18.02.33 Black](https://github.com/cuynu/ytvanced/releases/download/18.02.33/YouTube.Vanced.v18.02.33_Black_Universal.apk)
-
-[Download YouTube Vanced Unofficial version 18.02.33 Dark](https://github.com/cuynu/ytvanced/releases/download/18.02.33/YouTube.Vanced.v18.02.33_Dark_Universal.apk)
-
-[Download YouTube Vanced Unofficial version 18.02.33 Monet theme (Android 12+ only)](https://github.com/cuynu/ytvanced/releases/download/18.02.33/YouTube.Vanced.v18.02.33_Monet_Universal.apk)
+Stable version is : 17.45.36 [(Changelogs)](https://github.com/cuynu/ytvanced/releases/tag/17.45.36)
 
 [Download YouTube Vanced Unofficial version 17.45.36 Black](https://github.com/cuynu/ytvanced/releases/download/17.45.36/YouTube.Vanced.v17.45.36_Black_Universal.apk)
 
