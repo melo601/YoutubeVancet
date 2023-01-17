@@ -57,6 +57,8 @@ Minimum Android version : 8 (Oreo) for version 17.41.34 and above,
 
 **Unofficial version (Recommended)** :
 
+> **Warning** : There have been reports of 18.01.38 version not working on Samsung devices running Android 8.x, if you have this problem, use 17.45.36 temporary.
+
 Stable version is : 18.01.38 [(Changelogs)](https://github.com/cuynu/ytvanced/releases/tag/18.01.38)
 
 [Download YouTube Vanced Unofficial version 18.01.38 Black](https://github.com/cuynu/ytvanced/releases/download/18.01.38/YouTube.Vanced.v18.01.38_Black_Universal.apk)
