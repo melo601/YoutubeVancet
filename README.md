@@ -12,7 +12,7 @@ Worry about malware,backdoor or keylogger? [See VirusTotal scan results](https:/
 
 Download counts :
 <p align="left">
-<a href="https://cuynu.github.io/github-release-stats/?username=cuynu&repository=ytvanced"><img src="https://img.shields.io/github/downloads/cuynu/ytvanced/total?color=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge"></a>
+<a href="https://github.com/cuynu/ytvanced#download"><img src="https://img.shields.io/github/downloads/cuynu/ytvanced/total?color=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge"></a>
 
 [Discussion on GitHub (English)](https://github.com/cuynu/ytvanced/discussions)
 
