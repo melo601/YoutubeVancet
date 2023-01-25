@@ -285,3 +285,10 @@ A: Both shorts and create buttons are hidden by default, go to Settings -> Vance
 ### [Go back to the top of the page](https://github.com/cuynu/ytvanced#youtube-vanced)
 
 
+# Credits :
+
+[Team Vanced](https://github.com/TeamVanced) Old YouTube Vanced official which is closed source
+
+[Inotia00](https://github.com/inotia00) : Provide ReVanced Extended patches used to patch Unofficial YouTube Vanced builds (17.41.34+)
+
+[ReVanced Team](https://github.com/revanced) : ReVanced Team which develop ReVanced patches from scratch.
