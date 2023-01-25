@@ -1,53 +1,32 @@
 # YouTube Vanced
-Another YouTube Vanced Unofficial projects based on ReVanced patches 
-
-Credit YouTube Vanced : [Vanced Team](https://github.com/TeamVanced), patches : [ReVanced Extended](https://github.com/inotia00/revanced-patches)
-
+Another YouTube Vanced Unofficial project based on ReVanced patches maintained by Cuynu
 
 <a href="https://github.com/cuynu/ytvanced#download">
 <img alt="YouTube Vanced logo" src="https://github.com/cuynu/archive/releases/download/archive/vanced2.jpg" width="270" height="150" />
 </a>
 
-Worry about malware,backdoor or keylogger? [See VirusTotal scan results](https://github.com/cuynu/ytvanced/wiki/VirusTotal_Hash)
-
 Download counts :
 <p align="left">
 <a href="https://github.com/cuynu/ytvanced#download"><img src="https://img.shields.io/github/downloads/cuynu/ytvanced/total?color=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge"></a>
 
-[Discussion on GitHub (English)](https://github.com/cuynu/ytvanced/discussions)
-
-[Discussion on Telegram cuynu/ytvanced](https://t.me/ytvancedupdates_chat)
+Worry about malware,backdoor or keylogger? [See VirusTotal scan results](https://github.com/cuynu/ytvanced/wiki/VirusTotal_Hash)
 
 Want to recevie new Updates? Watch this repository (Recommended) or Join Telegram update channel :
 
 Join unofficial update channel </p> <a href="https://telegram.me/ytvancedupdates" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
 
-You can support me by give star for this repository or subscribe to [my personal YouTube channel](https://m.youtube.com/@cuynu/about) and disable the notification bell for my channel.
-____________________________________________________
-
-- **[Common problems and solution](https://github.com/cuynu/ytvanced#common-problem-and-solution)**
-- **[Changelogs and known issues](https://github.com/cuynu/ytvanced/releases)**
-- **[Frequently asked questions](https://github.com/cuynu/ytvanced#frequently-asked-questions)**
-
-- YouTube Vanced Features : Block advertisement, Return YouTube Dislikes, SponsorBlock, Play in background/PiP, Download videos and many more!
-- **[Can't install on Xiaomi MIUI devices?, See how to fix !](https://github.com/cuynu/ytvanced#installation-for-miui)**
-- Architecture : Universal (arm64-v8a,armeabi-v7a,x86,x86_64)
-- Support all language supported by official YouTube client.
-- Supported themes :
-> Black [Pure dark theme AMOLED], Dark theme [Normal dark theme]
-
-> Monet theme [Dynamic color on Android 12+]
-____________________________________________________
+# Introduction :
+This is an Unofficial YouTube Vanced project which continue Vanced after its got discontinued by Team Vanced. In first time, this repository only contains the last version of Vanced (17.03.38), But after a few of months after the official version (17.03.38) is discontinued, Homepage ads are shown on this 17.03.38 version. I was angry and can't use this version anymore so i use ReVanced Extended patch to patch YouTube and repack it as YouTube Vanced then uploaded here. (Spolier : In future, i must make my own patch instead of depend on ReVanced Extended patch.)
 
 # Download 
-Minimum Android version : 8 (Oreo) for version 17.41.34 and above,
-6.0.0 for version [17.34.36](https://github.com/cuynu/ytvanced/releases/tag/17.34.36) or older
 
-[Installation Guide](https://github.com/cuynu/ytvanced#installation-guide)
+> **Warning** : Minimum required Android version : 8.0+ for version 17.41.34 and above (<6.0 for version 17.34.36 or older)
 
-> **Warning**: Vanced MicroG is REQUIRED to use YouTube Vanced non-root variant, not needed for root variant.
+> Architecture : arm64-v8a, armeabi-v7a, x86, x86_64 (Universal)
 
-**Vanced MicroG (REQUIRED for non-root variant) :**
+> Theme : Black, Dark and Monet (Android 12+) theme
+
+**Vanced MicroG : (REQUIRED to use YouTube Vanced non-root variant, not needed for root variant)**
 
 [Download Vanced MicroG 0.2.26.225014](https://github.com/cuynu/ytvanced/releases/download/18.02.33/Vanced.microG.0.2.26.225014.apk)
 
@@ -56,8 +35,6 @@ Minimum Android version : 8 (Oreo) for version 17.41.34 and above,
 **YouTube Vanced non-root variant** : 
 
 **Unofficial version (Recommended)** :
-
-> **Warning** : There have been reports of video playback not work after login Google account. If so, please change other Google account and use temporary.
 
 Stable version is : 18.01.38 [(Changelogs)](https://github.com/cuynu/ytvanced/releases/tag/18.01.38)
 
@@ -113,10 +90,6 @@ Stable version is : 18.01.38 [(Changelogs)](https://github.com/cuynu/ytvanced/re
 
 [Download Magisk Module YouTube Vanced 17.45.36 Monet (Android 12+ only)](https://github.com/cuynu/ytvanced/releases/download/17.45.36/YouTube.Vanced.v17.45.36_Monet_Universal_MagiskModule.zip)
 
-[Download UPDATE Package Magisk Module YouTube Vanced 17.45.36 Black](https://github.com/cuynu/ytvanced/releases/download/17.45.36/UPDATE.YouTube.Vanced.v17.45.36_Black_Universal_MagiskModule.zip)
-
-[Download UPDATE Package Magisk Module YouTube Vanced 17.45.36 Dark](https://github.com/cuynu/ytvanced/releases/download/17.45.36/UPDATE.YouTube.Vanced.v17.45.36_Dark_Universal_MagiskModule.zip)
-
 ____________________________________________________
 
 ## YouTube Vanced old/outdated version:
@@ -148,11 +121,9 @@ ____________________________________________________
 
 ## YouTube Vanced for Android Car screen (Not Android Auto) 
 
-Do NOT DOWNLOAD THIS ON NON ANDROID CAR DEVICE
+Do NOT DOWNLOAD THIS ON NON ANDROID CAR DEVICE !!!
 
 Most Android Car screen are only have armeabi-v7a architecture and running Android 10 with some CPU like Spreadtrum,Allwinner,Rockchip,etc
-
-Android package name changed to com.android.car.vanced instead of com.vanced.android.youtube because some Android car screen are have YouTube Vanced official installed as system app and can't be uninstalled
 
 Different : Only use armeabi-v7a architecture and black theme.
 
@@ -178,13 +149,6 @@ If you're rooted :
 - Install on Magisk Manager 
 - If YouTube not shown on app drawer, install base.apk from Magisk Module zip, and try install module again.
 
-____________________________________________________
-
-### Translate YouTube Vanced
-
-You can contributor translate YouTube Vanced to your language by create pull requests to [ReVanced Patches inotia00](https://github.com/inotia00/revanced-patches/pulls)
-. Your translation will change in next version if pull request has merged by inotia00, strings will change from ReVanced to Vanced automatically.
-____________________________________________________
 
 ### Open source
 
@@ -194,20 +158,18 @@ All of my YouTube Vanced unofficial builds are using these open source patches
 
 [ReVanced Extended patches tree](https://github.com/inotia00/revanced-patches/tree/revanced-extended)
 
-____________________________________________________
 
 ### VirusTotal scan results and File Hashs
 
 **Because all my YouTube Vanced apk files are signed with debug keys, so some security vendor will flag it as malicious. Don't worry about this, its only a normal problem!**
 
 ### [View YouTube Vanced/YouTube Music Vanced/Vanced MicroG VirusTotal Scan results/File Hash](https://github.com/cuynu/ytvanced/wiki/VirusTotal_Hash)
-____________________________________________________
+
 
 ### Installation for MIUI
 
 If you can't install YouTube Vanced in MIUI, try turn off MIUI Optimization in Developer options then try install again.
 
-____________________________________________________
 
 ### Screenshots
 
@@ -249,12 +211,6 @@ Video playback new layout:
 <img alt="3" src="https://github.com/cuynu/archive/releases/download/archive/preview3.png" width="150" height="300" />
 </a>
 
-_________________________________________________
-
-### Build guide
-
-We are merging ReVanced Extended patches into vanced-extended and master branch and do some changes, check back later
-____________________________________________________
 
 ### Common problem and solution
 
@@ -293,7 +249,7 @@ Check your device and make sure the official latest version of YouTube still run
 **There was a problem parsing the package:**
 - Check your Android version, Make sure your current Android version meet minimum required Android version.
 - Redownload APK file.
-____________________________________________________
+
 
 ### Frequently asked questions
 
@@ -325,9 +281,7 @@ Q: I can't see the Shorts and create button in the homepage!
 
 A: Both shorts and create buttons are hidden by default, go to Settings -> Vanced Settings -> Layout and enable it.
 
-____________________________________________________
 
 ### [Go back to the top of the page](https://github.com/cuynu/ytvanced#youtube-vanced)
 
-____________________________________________________
 
