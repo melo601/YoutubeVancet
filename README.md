@@ -161,8 +161,6 @@ All of my YouTube Vanced unofficial builds are using these open source patches
 
 ### VirusTotal scan results and File Hashs
 
-**Because all my YouTube Vanced apk files are signed with debug keys, so some security vendor will flag it as malicious. Don't worry about this, its only a normal problem!**
-
 ### [View YouTube Vanced/YouTube Music Vanced/Vanced MicroG VirusTotal Scan results/File Hash](https://github.com/cuynu/ytvanced/wiki/VirusTotal_Hash)
 
 
