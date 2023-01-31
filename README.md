@@ -2,7 +2,7 @@
 Another YouTube Vanced Unofficial project based on ReVanced patches maintained by Cuynu
 
 <a href="https://github.com/cuynu/ytvanced#download">
-<img alt="YouTube Vanced logo" src="https://github.com/cuynu/archive/releases/download/archive/vanced2.jpg" width="280" height="157" />
+<img alt="YouTube Vanced logo" src="https://github.com/cuynu/archive/releases/download/archive/vanced2.jpg" width="270" height="150" />
 </a>
 
 Download counts :
@@ -244,11 +244,11 @@ Video playback new layout:
 
 **Not responding when watch videos :**
 
-If you got YouTube Vanced not responding when watch a videos, that's because Return YouTube Dislike trying to get the dislikes from the API, but due to poor network conditions, RYD unable to get the metrics, resulting in unresponsive YouTube. Turn off RYD in settings if you often have unstable network connection.
+- If you got YouTube Vanced not responding when watch a videos, that's because Return YouTube Dislike trying to get the dislikes from the API, but due to poor network conditions, RYD unable to get the metrics, resulting in unresponsive YouTube. Turn off RYD in settings if you often have unstable network connection.
 
 **Not responding when not watch any videos :**
 
-Check your device and make sure the official latest version of YouTube still run well on your device, Older devices will often have this problem because the hardware is too old.
+- Check your device and make sure the official latest version of YouTube still run well on your device, Older devices will often have this problem because the hardware is too old.
 
 **There was a problem parsing the package:**
 - Check your Android version, Make sure your current Android version meet minimum required Android version.
@@ -291,7 +291,7 @@ A: Both shorts and create buttons are hidden by default, go to Settings -> Vance
 
 # Credits :
 
-[Team Vanced](https://github.com/TeamVanced) Old YouTube Vanced official which is closed source
+[Team Vanced](https://github.com/TeamVanced) : Old YouTube Vanced official which is closed source
 
 [Inotia00](https://github.com/inotia00) : Provide ReVanced Extended patches used to patch Unofficial YouTube Vanced builds (17.41.34+)
 
