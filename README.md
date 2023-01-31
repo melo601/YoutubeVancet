@@ -6,7 +6,8 @@ Another YouTube Vanced Unofficial project based on ReVanced patches maintained b
 </a>
 
 Download counts :
-![Download counts](https://img.shields.io/github/downloads/cuynu/ytvanced/total?logo=github&color=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge)](https://github.com/cuynu/ytvanced#download)
+
+[![Download counts](https://img.shields.io/github/downloads/cuynu/ytvanced/total?logo=githubcolor=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge)](https://github.com/cuynu/ytvanced#download)
 
 Worry about malware,backdoor or keylogger? [See VirusTotal scan results](https://github.com/cuynu/ytvanced/wiki/VirusTotal_Hash)
 
