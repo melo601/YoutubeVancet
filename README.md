@@ -20,6 +20,8 @@ It took me a lot of effort to develop this project, the download links are all d
 
 [Subscribe to YouTube channel : Cuynu](https://m.youtube.com/@cuynu/about)
 
+Other support/donation method not available until i make own patch.
+
 # Introduction
 
 This is an Unofficial YouTube Vanced project which continue Vanced after its got discontinued by Team Vanced. In first time, this repository only contains the last version of Vanced (17.03.38), But after a few of months after the official version (17.03.38) is discontinued, Homepage ads are shown on this 17.03.38 version. I was angry and can't use this version anymore so i use ReVanced Extended patch to patch YouTube and repack it as YouTube Vanced then uploaded here. (Spolier : In future, i must make my own patch instead of depend on ReVanced Extended patch.)
