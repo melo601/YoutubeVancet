@@ -13,7 +13,7 @@ Download counts :
 
 Worry about malware,backdoor or keylogger? [See VirusTotal scan results](https://github.com/cuynu/ytvanced/wiki/VirusTotal_Hash)
 
-Want to recevie new Updates? Watch this repository (Recommended) or Join Telegram update channel :
+Want to recevie new update and news? Watch this repository or join our Telegram channel below :
 
 Join unofficial update channel </p> <a href="https://telegram.me/ytvancedupdates" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
 
