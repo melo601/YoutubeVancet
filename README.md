@@ -30,7 +30,7 @@ This is an Unofficial YouTube Vanced project which continue Vanced after its got
 
 # Download 
 
-> **Warning** : Minimum required Android version : 8.0+ for version 17.41.34 and above (6.0 and 7.0 for version [17.34.36](https://github.com/cuynu/ytvanced/releases/tag/17.34.36) or older)
+> **Warning** : Minimum required Android version : 8.0+ for version 17.41.34 and above (6.0 and 7.0 for version [17.34.36](https://github.com/cuynu/ytvanced/wiki/17.34.36-(Android-6-and-7)) or older)
 
 > Architecture : arm64-v8a, armeabi-v7a, x86, x86_64 (Universal)
 
@@ -78,13 +78,13 @@ Stable version is : 18.01.38 [(Changelogs)](https://github.com/cuynu/ytvanced/re
 
 [Download Magisk Module YouTube Vanced 17.45.36 Monet (Android 12+ only)](https://github.com/cuynu/ytvanced/releases/download/17.45.36/YouTube.Vanced.v17.45.36_Monet_Universal_MagiskModule.zip)
 
-**YouTube Music Vanced non-root variant : **
+**YouTube Music Vanced non-root variant:**
 
 [Download YouTube Music Vanced Unofficial version 5.39.52](https://github.com/cuynu/ytvanced/releases/download/5.39.52/YouTube.Music.Vanced.v5.39.52_Universal.apk)
 
 [Download YouTube Music Vanced Unofficial version 5.39.52 (Only armeabi-v7a,arm64-v8a)](https://github.com/cuynu/ytvanced/releases/download/5.39.52/YouTube.Music.Vanced.v5.39.52_2arch.apk)
 
-**YouTube Music Vanced root variant [Magisk Module] : **
+**YouTube Music Vanced root variant [Magisk Module]:**
 
 [Download YouTube Music Vanced Unofficial version 5.39.52 Magisk Module (arm64-v8a)](https://github.com/cuynu/ytvanced/releases/download/5.39.52/YTM.Vanced.v5.39.52_arm64-v8a_MagiskModule.zip)
 
