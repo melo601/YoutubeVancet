@@ -1,5 +1,5 @@
 # YouTube Vanced
-Another YouTube Vanced Unofficial project based on ReVanced patches maintained by Cuynu
+YouTube Vanced Unofficial project based on ReVanced patches maintained by Cuynu
 
 <a href="https://github.com/cuynu/ytvanced#download">
 <img alt="YouTube Vanced logo" src="https://github.com/cuynu/archive/releases/download/archive/vanced2.jpg" width="270" height="150" />
@@ -7,7 +7,7 @@ Another YouTube Vanced Unofficial project based on ReVanced patches maintained b
 
 **This project is TEMPORARY discontinued to focus on creating separate patches for Vanced instead of use ReVanced patch, [View details](https://github.com/cuynu/ytvanced/discussions/104).**
 
-Download counts :
+Total download counts :
 
 [![Download counts](https://img.shields.io/github/downloads/cuynu/ytvanced/total?logo=githubcolor=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge)](https://github.com/cuynu/ytvanced#download)
 
