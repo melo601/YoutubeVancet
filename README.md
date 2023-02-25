@@ -142,12 +142,11 @@ If you're rooted :
 
 ### Open source
 
-All of my YouTube Vanced unofficial builds are using these open source patches
-
-[ReVanced patches](https://github.com/revanced/revanced-patches/)
+Currently, I use ReVanced Extended patches to patch YouTube Vanced and provide it on ytvanced repository. But in future, I will use own patch.
 
 [ReVanced Extended patches tree](https://github.com/inotia00/revanced-patches/tree/revanced-extended)
 
+[Vanced-patches tree](https://github.com/cuynu/vanced-patches)
 
 ### VirusTotal scan results and File Hashs
 
@@ -239,14 +238,13 @@ Video playback new layout:
 - Redownload APK file.
 
 
-## [Frequently asked questions](https://github.com/cuynu/ytvanced/wiki/faq)
-
-
 # Credits :
+
+Thanks inotia00 maked ReVanced Extended patch can be used to build ReVanced/Vanced, love u <3
 
 [Team Vanced](https://github.com/TeamVanced) : Old YouTube Vanced official which is closed source
 
-[Inotia00](https://github.com/inotia00) : Provide ReVanced Extended patches used to patch Unofficial YouTube Vanced builds (17.41.34+)
+[inotia00](https://github.com/inotia00) : Provide ReVanced Extended patch used to patch Unofficial YouTube Vanced builds (17.41.34-18.01.38)
 
 [ReVanced Team](https://github.com/revanced) : ReVanced Team which develop ReVanced patches from scratch.
 
