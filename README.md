@@ -60,6 +60,8 @@ Stable version is : 18.01.38 [(Changelogs)](https://github.com/cuynu/ytvanced/re
 
 [Download YouTube Vanced Unofficial version 17.45.36 Monet theme (Android 12+ only)](https://github.com/cuynu/ytvanced/releases/download/17.45.36/YouTube.Vanced.v17.45.36_Monet_Universal.apk)
 
+[Download YouTube Vanced Unofficial version 17.34.36 (for Android 6 & 7)](https://github.com/cuynu/ytvanced/wiki/17.34.36-(Android-6-and-7))
+
 [Download older version of YouTube Vanced](https://github.com/cuynu/ytvanced#youtube-vanced-oldoutdated-version)
 
 **YouTube Vanced root variant [Magisk Module]**
