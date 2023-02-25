@@ -30,7 +30,7 @@ This is an Unofficial YouTube Vanced project which continue Vanced after its got
 
 # Download 
 
-> **Warning** : Minimum required Android version : 8.0+ for version 17.41.34 and above (<6.0 for version 17.34.36 or older)
+> **Warning** : Minimum required Android version : 8.0+ for version 17.41.34 and above (6.0 and 7.0 for version [17.34.36](https://github.com/cuynu/ytvanced/releases/tag/17.34.36) or older)
 
 > Architecture : arm64-v8a, armeabi-v7a, x86, x86_64 (Universal)
 
