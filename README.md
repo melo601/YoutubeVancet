@@ -62,31 +62,9 @@ Stable version is : 18.01.38 [(Changelogs)](https://github.com/cuynu/ytvanced/re
 
 [Download older version of YouTube Vanced](https://github.com/cuynu/ytvanced#youtube-vanced-oldoutdated-version)
 
-**YouTube Music Vanced non-root & root variant:**
-
-
-[Download YouTube Music Vanced Unofficial version 5.39.52](https://github.com/cuynu/ytvanced/releases/download/5.39.52/YouTube.Music.Vanced.v5.39.52_Universal.apk)
-
-[Download YouTube Music Vanced Unofficial version 5.39.52 (Only armeabi-v7a,arm64-v8a)](https://github.com/cuynu/ytvanced/releases/download/5.39.52/YouTube.Music.Vanced.v5.39.52_2arch.apk)
-
-[Download YouTube Music Vanced Unofficial version 5.39.52 Magisk Module (arm64-v8a)](https://github.com/cuynu/ytvanced/releases/download/5.39.52/YTM.Vanced.v5.39.52_arm64-v8a_MagiskModule.zip)
-
-[Download YouTube Music Vanced Unofficial version 5.39.52 Magisk Module (armeabi-v7a)](https://github.com/cuynu/ytvanced/releases/download/5.39.52/YTM.Vanced.v5.39.52_armeabi-v7a_MagiskModule.zip)
-
-[Download YouTube Music Vanced Unofficial version 5.33.51](https://github.com/cuynu/ytvanced/releases/download/17.45.34/YouTube.Music.Vanced.v5.33.51_Universal.apk)
-
-[Download YouTube Music Vanced Unofficial version 5.33.51 (Only armeabi-v7a,arm64-v8a)](https://github.com/cuynu/ytvanced/releases/download/17.45.34/YouTube.Music.Vanced.v5.33.51_2arch.apk)
-
-[Download Magisk Module YouTube Music Vanced Unofficial 5.33.51](https://github.com/cuynu/ytvanced/wiki/rootmusic53351)
-
-[Download older version of YouTube Music Vanced](https://github.com/cuynu/ytvanced#youtube-vanced-oldoutdated-version)
-
-
 **YouTube Vanced root variant [Magisk Module]**
 
 > **Tips**: If module script not working, try extract the base.apk or youtube.apk from the zip and install it manually, then try again
-
-> **Warning** : Before install, if you have non-root variant installed before, you MUST uninstall non-root variant.
 
 [Download Magisk Module YouTube Vanced 18.01.38 Black](https://github.com/cuynu/ytvanced/releases/download/18.01.38/YouTube.Vanced.v18.01.38_Black_MagiskModule.zip)
 
@@ -100,33 +78,35 @@ Stable version is : 18.01.38 [(Changelogs)](https://github.com/cuynu/ytvanced/re
 
 [Download Magisk Module YouTube Vanced 17.45.36 Monet (Android 12+ only)](https://github.com/cuynu/ytvanced/releases/download/17.45.36/YouTube.Vanced.v17.45.36_Monet_Universal_MagiskModule.zip)
 
+**YouTube Music Vanced non-root variant : **
+
+[Download YouTube Music Vanced Unofficial version 5.39.52](https://github.com/cuynu/ytvanced/releases/download/5.39.52/YouTube.Music.Vanced.v5.39.52_Universal.apk)
+
+[Download YouTube Music Vanced Unofficial version 5.39.52 (Only armeabi-v7a,arm64-v8a)](https://github.com/cuynu/ytvanced/releases/download/5.39.52/YouTube.Music.Vanced.v5.39.52_2arch.apk)
+
+**YouTube Music Vanced root variant [Magisk Module] : **
+
+[Download YouTube Music Vanced Unofficial version 5.39.52 Magisk Module (arm64-v8a)](https://github.com/cuynu/ytvanced/releases/download/5.39.52/YTM.Vanced.v5.39.52_arm64-v8a_MagiskModule.zip)
+
+[Download YouTube Music Vanced Unofficial version 5.39.52 Magisk Module (armeabi-v7a)](https://github.com/cuynu/ytvanced/releases/download/5.39.52/YTM.Vanced.v5.39.52_armeabi-v7a_MagiskModule.zip)
+
+[Download older version of YouTube Music Vanced](https://github.com/cuynu/ytvanced#youtube-vanced-oldoutdated-version)
+
 ____________________________________________________
 
 ## YouTube Vanced old/outdated version:
 
 > **Warning**: Older/outdated version may have bugs or unexpected behavior, use it as your own risk!
 
-[Download YouTube Vanced Unofficial 17.45.34](https://github.com/cuynu/ytvanced/wiki/17.45.34)
+[Download older version of YouTube Vanced in release page](https://github.com/cuynu/ytvanced/tags)
 
-[Download YouTube Vanced Unofficial 17.43.36](https://github.com/cuynu/ytvanced/wiki/17.43.36)
+[Download older version of YouTube Music Vanced in release page](https://github.com/cuynu/ytvanced/tags)
 
-[Download YouTube Vanced Unofficial 17.42.33](https://github.com/cuynu/ytvanced/wiki/17.42.33)
+[Download older version of YouTube Vanced in wiki page](https://github.com/cuynu/ytvanced/wiki/old#youtube-vanced)
 
-[Download YouTube Vanced Unofficial 17.41.34](https://github.com/cuynu/ytvanced/wiki/17.41.34)
+[Download older version of YouTube Music Vanced in wiki page](https://github.com/cuynu/ytvanced/wiki/old#youtube-music-vanced)
 
-[Download YouTube Vanced Unofficial 17.33.42](https://github.com/cuynu/ytvanced/wiki/17.33.42)
-
-[Download YouTube Vanced Unofficial 17.28.34](https://github.com/cuynu/ytvanced/wiki/17.28.34)
-
-[Download YouTube Vanced Official 17.03.38](https://github.com/cuynu/ytvanced/wiki/17.03.38)
-
-[Download YouTube Music Vanced Unofficial version 5.28.51 and 5.31.50](https://github.com/cuynu/ytvanced/wiki/5.28.51_and5.31.50)
-
-[Download YouTube Music Vanced Unofficial 5.16.51](https://github.com/cuynu/ytvanced/wiki/5.16.51)
-
-[Download YouTube Music Vanced Official 4.64.51](https://github.com/cuynu/ytvanced/wiki/4.64.51)
-
-[Download old Vanced MicroG](https://github.com/cuynu/ytvanced/wiki/MicroG)
+[Download older verson of Vanced MicroG](https://github.com/cuynu/ytvanced/wiki/MicroG)
 ____________________________________________________
 
 ## YouTube Vanced for Android Car screen (Not Android Auto) 
@@ -137,7 +117,7 @@ Most Android Car screen are only have armeabi-v7a architecture and running Andro
 
 Different : Only use armeabi-v7a architecture and black theme.
 
-[Download YouTube Vanced 18.01.38 for Android Car screen](https://github.com/cuynu/ytvanced/releases/download/18.01.38/YouTube.Vanced.AndroidCarOled.v18.02.33.apk)
+[Download YouTube Vanced 18.01.38 for Android Car screen](https://github.com/cuynu/ytvanced/releases/download/18.01.38/YouTube.Vanced.AndroidCarOled.v18.01.38.apk)
 
 [Download YouTube Vanced 17.45.36 for Android Car screen](https://github.com/cuynu/ytvanced/releases/download/17.45.36/YouTube.Vanced.Android.CarOled.v17.45.36_Black.apk)
 
