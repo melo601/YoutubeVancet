@@ -35,7 +35,7 @@ Other support/donation method are not available right now.
 
 **Vanced MicroG : (REQUIRED to use YouTube Vanced non-root variant, not needed for root variant)**
 
-[Download Vanced microG 0.2.27.230755](https://github.com/cuynu/ytvanced/releases/download/18.01.38/Vanced.microG.0.2.27.230755.apk)
+[Download Vanced MicroG 0.2.27.230755](https://github.com/cuynu/ytvanced/releases/download/18.01.38/Vanced.microG.0.2.27.230755.apk)
 
 [Download Vanced MicroG 0.2.26.225014](https://github.com/cuynu/ytvanced/releases/download/18.02.33/Vanced.microG.0.2.26.225014.apk)
 
