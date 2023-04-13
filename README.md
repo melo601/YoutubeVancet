@@ -150,7 +150,7 @@ Currently, I use ReVanced Extended patches to patch YouTube Vanced and provide i
 > If these solution isn't fix your problem, please create issues [here.](https://github.com/cuynu/ytvanced/issues)
 
 **Video playback not working (buffer issue)**
-- Enable `Fix video playback buffer issue` option on YouTube Settings -> Vanced Settings -> Extended Settings and try again, if not works, try logout Google account then change other account.
+- Enable `Fix video playback buffer issue` option on YouTube Settings -> Vanced Settings -> Extended Settings and try again, if not works, install 18.02.33 beta version.
 
 **No internet connection:**
 - Remove your account from Vanced MicroG (If have and try again)
