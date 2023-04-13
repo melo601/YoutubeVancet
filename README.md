@@ -45,6 +45,10 @@ Other support/donation method are not available right now.
 
 Stable version is : 18.01.38 [(Changelogs)](https://github.com/cuynu/ytvanced/releases/tag/18.01.38)
 
+**Use beta 18.02.33 to fix video playback issue for non-root variant (if had):**
+
+[Download YouTube Vanced Unofficial version 18.02.33 Black Beta](https://github.com/cuynu/ytvanced/releases/download/18.02.33/YouTube.Vanced.v18.02.33_Black_Universal.apk)
+
 [Download YouTube Vanced Unofficial version 18.01.38 Black](https://github.com/cuynu/ytvanced/releases/download/18.01.38/YouTube.Vanced.v18.01.38_Black_Universal.apk)
 
 [Download YouTube Vanced Unofficial version 18.01.38 Dark](https://github.com/cuynu/ytvanced/releases/download/18.01.38/YouTube.Vanced.v18.01.38_Dark_Universal.apk)
@@ -54,10 +58,6 @@ Stable version is : 18.01.38 [(Changelogs)](https://github.com/cuynu/ytvanced/re
 [Download YouTube Vanced Unofficial version 17.34.36 (for Android 6 & 7)](https://github.com/cuynu/ytvanced/wiki/17.34.36-(Android-6-and-7))
 
 [Download older version of YouTube Vanced](https://github.com/cuynu/ytvanced#youtube-vanced-oldoutdated-version)
-
-**Use beta 18.02.33 to fix video playback issue for non-root variant (if had):**
-
-[Download YouTube Vanced Unofficial version 18.02.33 Black Beta](https://github.com/cuynu/ytvanced/releases/download/18.02.33/YouTube.Vanced.v18.02.33_Black_Universal.apk)
 
 **YouTube Vanced root variant [Magisk Module]**
 
