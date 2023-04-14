@@ -45,7 +45,7 @@ Other support/donation method are not available right now.
 
 Stable version is : 18.02.33 [(Changelogs)](https://github.com/cuynu/ytvanced/releases/tag/18.02.33)
 
-**Use 18.02.33 to fix video playback issue for non-root variant (if had):**
+**Use 18.02.33 to fix video playback issue for non-root variant, see [buffer fix solution](https://github.com/cuynu/ytvanced/edit/master/README.md#common-problem-and-solution).**
 
 [Download YouTube Vanced Unofficial version 18.02.33 Black hotfix](https://github.com/cuynu/ytvanced/releases/download/18.02.33/YouTube.Vanced.v18.02.33_Black_Universal_hotfix.apk)
 
@@ -152,7 +152,12 @@ Currently, I use ReVanced Extended patches to patch YouTube Vanced and provide i
 > If these solution isn't fix your problem, please create issues [here.](https://github.com/cuynu/ytvanced/issues)
 
 **Video playback not working (buffer issue)**
-- Enable `Fix video playback buffer issue` option on YouTube Settings -> Vanced Settings -> Extended Settings and try again, if not works, install 18.02.33 beta version.
+
+For 18.02.33 hotfix :
+- Enable `spoof protobuf` on Vanced settings -> Video. Buffering problem should fix.
+
+For older version :
+- Enable `Fix video playback buffer issue` option on YouTube Settings -> Vanced Settings -> Extended Settings and try again, if not works, install 18.02.33 hotfix version.
 
 **No internet connection:**
 - Remove your account from Vanced MicroG (If have and try again)
