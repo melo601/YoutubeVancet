@@ -156,7 +156,7 @@ Currently, I use ReVanced Extended patches to patch YouTube Vanced and provide i
 **Video playback not working (buffer issue)**
 
 For 18.02.33 hotfix :
-- Enable `protobuf spoof` option on Vanced settings -> Video. Buffering problem should fix.
+- Enable `spoof protobuf` option on Vanced settings -> Video (If `protobuf spoof` option is enabled by default, re-enable `spoof protobuf` option. Buffering problem should fix.
 
 For older version :
 - Enable `Fix video playback buffer issue` option on YouTube Settings -> Vanced Settings -> Extended Settings and try again, if not works, install 18.02.33 hotfix version.
