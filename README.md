@@ -24,6 +24,9 @@ Help us by subscribe to personal YouTube Channel:)
 
 Other support/donation method are not available right now.
 
+# Notice 
+
+This is an "UNOFFICIAL" project by single person and NOT ASSOCIATED WITH TEAM VANCED.
 
 # Download 
 
