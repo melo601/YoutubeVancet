@@ -44,8 +44,6 @@ This is an "UNOFFICIAL" project by single person and NOT ASSOCIATED WITH TEAM VA
 
 **YouTube Vanced non-root variant** : 
 
-**Unofficial version (Recommended)** :
-
 Stable version is : 18.02.33 [(Changelogs)](https://github.com/cuynu/ytvanced/releases/tag/18.02.33)
 
 **Use 18.02.33 to fix video playback issue for non-root variant, see [buffer fix solution](https://github.com/cuynu/ytvanced#common-problem-and-solution).**
@@ -63,8 +61,6 @@ Stable version is : 18.02.33 [(Changelogs)](https://github.com/cuynu/ytvanced/re
 [Download YouTube Vanced Unofficial version 18.01.38 Monet theme (Android 12+ only)](https://github.com/cuynu/ytvanced/releases/download/18.01.38/YouTube.Vanced.v18.01.38_Monet_Universal.apk)
 
 [Download YouTube Vanced Unofficial version 17.34.36 (for Android 6 & 7)](https://github.com/cuynu/ytvanced/wiki/17.34.36-(Android-6-and-7))
-
-[Download older version of YouTube Vanced](https://github.com/cuynu/ytvanced#youtube-vanced-oldoutdated-version)
 
 **YouTube Vanced root variant [Magisk Module]**
 
@@ -92,7 +88,7 @@ Stable version is : 18.02.33 [(Changelogs)](https://github.com/cuynu/ytvanced/re
 
 ____________________________________________________
 
-## YouTube Vanced old/outdated version:
+## Old/outdated version:
 
 > **Warning**: Older/outdated version may have bugs or unexpected behavior, use it as your own risk!
 
@@ -107,13 +103,9 @@ ____________________________________________________
 [Download older verson of Vanced MicroG](https://github.com/cuynu/ytvanced/wiki/MicroG)
 ____________________________________________________
 
-## YouTube Vanced for Android Car screen (Not Android Auto) 
+## For Android Car screen (Not Android Auto) 
 
-Do NOT DOWNLOAD THIS ON NON ANDROID CAR DEVICE !!!
-
-Most Android Car screen are only have armeabi-v7a architecture and running Android 10 with some CPU like Spreadtrum,Allwinner,Rockchip,etc
-
-Different : Only use armeabi-v7a architecture and black theme.
+DO NOT INSTALL ON REGULAR ANDROID DEVICE.
 
 [Download YouTube Vanced 18.01.38 for Android Car screen](https://github.com/cuynu/ytvanced/releases/download/18.01.38/YouTube.Vanced.AndroidCarOled.v18.01.38.apk)
 
