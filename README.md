@@ -30,8 +30,6 @@ This is an "UNOFFICIAL" project by single person and NOT ASSOCIATED WITH TEAM VA
 
 # Download 
 
-If you was come here from piunikaweb.com, please request delete this repo link from their owner of that site.
-
 > **Warning** : Minimum required Android version : 8.0+ for version 17.41.34 and above (6.0 and 7.0 for version [17.34.36](https://github.com/cuynu/ytvanced/wiki/17.34.36-(Android-6-and-7)) or older)
 
 > Architecture : arm64-v8a, armeabi-v7a, x86, x86_64 (Universal)
