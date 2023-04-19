@@ -64,7 +64,9 @@ Stable version is : 18.02.33 [(Changelogs)](https://github.com/cuynu/ytvanced/re
 
 **YouTube Vanced root variant [Magisk Module]**
 
-> **Tips**: If module script not working, try extract the base.apk or youtube.apk from the zip and install it manually, then try again
+> **Tips**: If module script not working, try extract the base.apk or youtube.apk from the zip and install it manually, then try again.
+
+Notice : Root variant does not have buffering issue, so use 18.01.38 highly recommend!
 
 [Download Magisk Module YouTube Vanced 18.01.38 Black](https://github.com/cuynu/ytvanced/releases/download/18.01.38/YouTube.Vanced.v18.01.38_Black_MagiskModule.zip)
 
