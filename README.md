@@ -144,7 +144,7 @@ Currently, I use ReVanced Extended patches to patch YouTube Vanced and provide i
 
 ### [View YouTube Vanced/YouTube Music Vanced/Vanced MicroG VirusTotal Scan results/File Hash](https://github.com/cuynu/ytvanced/wiki/VirusTotal_Hash)
 
-### Common problem and solution
+### Troubleshoot 
 
 > If these solution isn't fix your problem, please create issues [here.](https://github.com/cuynu/ytvanced/issues)
 
