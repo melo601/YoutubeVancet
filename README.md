@@ -36,7 +36,7 @@ This is an "UNOFFICIAL" project by single person and NOT ASSOCIATED WITH TEAM VA
 
 > Theme : Black, Dark and Monet (Android 12+) theme
 
-**Vanced MicroG : (REQUIRED to use YouTube Vanced non-root variant, not needed for root variant)**
+**Vanced MicroG : (Install it only if you install non-root variant)**
 
 [Download Vanced MicroG 0.2.27.231413](https://github.com/cuynu/ytvanced/releases/download/18.01.38/Vanced.microG.0.2.27.231413.apk)
 
@@ -46,7 +46,7 @@ This is an "UNOFFICIAL" project by single person and NOT ASSOCIATED WITH TEAM VA
 
 Stable version is : 18.02.33 [(Changelogs)](https://github.com/cuynu/ytvanced/releases/tag/18.02.33)
 
-**Use 18.02.33 to fix video playback issue for non-root variant, see [buffer fix solution](https://github.com/cuynu/ytvanced#common-problem-and-solution).**
+**Use 18.02.33 to fix video playback issue for non-root variant, see [buffer fix solution and troubleshoots](https://github.com/cuynu/ytvanced#troubleshoot).**
 
 [Download YouTube Vanced Unofficial version 18.02.33 Black hotfix](https://github.com/cuynu/ytvanced/releases/download/18.02.33/YouTube.Vanced.v18.02.33_Black_Universal_hotfix.apk)
 
