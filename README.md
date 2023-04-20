@@ -21,7 +21,8 @@ Join unofficial update channel </p> <a href="https://telegram.me/ytvancedupdates
 Help us by subscribe to personal YouTube Channel:)
 
 [Subscribe to YouTube channel : Cuynu](https://m.youtube.com/@cuynu/about)
- (There is no Vanced related videos in this channel, only subscribe it for donation!)
+ 
+(There is no Vanced related videos in personal channel, only subscribe it for donation!)
 
 Other support/donation method are not available right now.
 
