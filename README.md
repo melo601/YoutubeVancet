@@ -36,7 +36,7 @@ This is an "UNOFFICIAL" project by single person and NOT ASSOCIATED WITH TEAM VA
 
 > Architecture : arm64-v8a, armeabi-v7a, x86, x86_64 (Universal)
 
-> Theme : Black, Dark and Monet (Android 12+) theme
+> Theme : Black, Dark and Monet theme, Monet theme only can install on Android 12 and above!
 
 **Vanced MicroG : (Install it only if you install non-root variant)**
 
