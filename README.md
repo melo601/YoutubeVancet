@@ -192,11 +192,9 @@ If you can't install YouTube Vanced in MIUI, try turn off MIUI Optimization in D
 
 # Credits :
 
-Thanks inotia00 maked ReVanced Extended patch can be used to build ReVanced/Vanced, love u <3
-
 [Team Vanced](https://github.com/TeamVanced) : Old YouTube Vanced official which is closed source
 
-[inotia00](https://github.com/inotia00) : Provide ReVanced Extended patch used to patch Unofficial YouTube Vanced builds (17.41.34+)
+[inotia00](https://github.com/inotia00) : Provide ReVanced Extended patch used to patch Unofficial YouTube Vanced builds (17.41.34-18.02.33)
 
 [ReVanced Team](https://github.com/revanced) : ReVanced Team which develop ReVanced patches from scratch.
 
