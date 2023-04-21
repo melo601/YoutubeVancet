@@ -68,7 +68,7 @@ Stable version is : 18.02.33 [(Changelogs)](https://github.com/cuynu/ytvanced/re
 
 > **Tips**: If module script not working, try extract the base.apk or youtube.apk from the zip and install it manually, then try again.
 
-Notice : Root variant does not have buffering issue, so use 18.01.38 highly recommend!
+Notice : Root variant does not have buffering issue, so use 18.01.38 is highly recommend!
 
 [Download Magisk Module YouTube Vanced 18.01.38 Black](https://github.com/cuynu/ytvanced/releases/download/18.01.38/YouTube.Vanced.v18.01.38_Black_MagiskModule.zip)
 
@@ -95,10 +95,6 @@ ____________________________________________________
 ## Old/outdated version:
 
 > **Warning**: Older/outdated version may have bugs or unexpected behavior, use it as your own risk!
-
-[Download older version of YouTube Vanced in release page](https://github.com/cuynu/ytvanced/tags)
-
-[Download older version of YouTube Music Vanced in release page](https://github.com/cuynu/ytvanced/tags)
 
 [Download older version of YouTube Vanced in wiki page](https://github.com/cuynu/ytvanced/wiki/old#youtube-vanced)
 
@@ -138,15 +134,12 @@ If you're rooted :
 
 ### Open source
 
-Currently, I use ReVanced Extended patches to patch YouTube Vanced and provide it on ytvanced repository. But in future, I will use other.
+Currently, I use ReVanced Extended patches to patch YouTube Vanced and provide it on ytvanced repository. But in future, I will use my patch.
 
 [ReVanced Extended patches tree](https://github.com/inotia00/revanced-patches/tree/revanced-extended)
 
 [Vanced-patches tree](https://github.com/cuynu/vanced-patches)
 
-### VirusTotal scan results and File Hashs
-
-### [View YouTube Vanced/YouTube Music Vanced/Vanced MicroG VirusTotal Scan results/File Hash](https://github.com/cuynu/ytvanced/wiki/VirusTotal_Hash)
 
 ### Troubleshoot 
 
@@ -170,8 +163,9 @@ For older version :
 - Free up some storage space and try again
 - Uninstall official YouTube Vanced client downloaded from Vanced Manager or other unknown sources then try again. Reason : Mismatch signature.
 - Make sure you have downloaded Universal version of YouTube Vanced/YouTube Music Vanced.
+- Check out if old Vanced still installed in multiple user & virtual space mode
 
-**Crash when opening:**
+**Crash when opening & MicroG does not run in background :**
 - Install or reinstall Vanced MicroG 
 - Turn off battery optimization for Vanced MicroG
 - Allow Vanced MicroG run on background or auto start (on heavy customized OS : MIUI,OneUI,FlymeOS,HarmonyOS,etc)
@@ -194,48 +188,6 @@ For older version :
 ### Installation for MIUI
 
 If you can't install YouTube Vanced in MIUI, try turn off MIUI Optimization in Developer options then try install again.
-
-
-### Screenshots
-
-Preview screenshots of YouTube Vanced (captured on 17.45.36) :
-
-Homepage:
-
-<a href="https://github.com/cuynu/ytvanced">
-<img alt="1" src="https://github.com/cuynu/archive/releases/download/archive/preview1.png" width="150" height="300" />
-</a>
-
-Vanced settings (In YouTube settings):
-
-<a href="https://github.com/cuynu/ytvanced">
-<img alt="4" src="https://github.com/cuynu/archive/releases/download/archive/settings.png" width="150" height="300" />
-</a>
-
-Picture-in-Picture: 
-
-<a href="https://github.com/cuynu/ytvanced">
-<img alt="a" src="https://github.com/cuynu/archive/releases/download/archive/preview5.png" width="150" height="300" />
-</a>
-
-Play in background:
-
-<a href="https://github.com/cuynu/ytvanced">
-<img alt="b" src="https://github.com/cuynu/archive/releases/download/archive/preview6.png" width="150" height="300" />
-</a>
-
-YouTube Shorts:
-
-<a href="https://github.com/cuynu/ytvanced">
-<img alt="2" src="https://github.com/cuynu/archive/releases/download/archive/preview2.png" width="150" height="300" />
-</a>
-
-Video playback new layout:
-
-<a href="https://github.com/cuynu/ytvanced">
-<img alt="3" src="https://github.com/cuynu/archive/releases/download/archive/preview3.png" width="150" height="300" />
-</a>
-
 
 
 # Credits :
