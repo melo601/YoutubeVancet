@@ -5,7 +5,7 @@ YouTube Vanced Unofficial project ~based on ReVanced patches~ maintained by Cuyn
 <img alt="YouTube Vanced logo" src="https://github.com/cuynu/archive/releases/download/archive/vanced2.jpg" width="270" height="150" />
 </a>
 
-**This project is TEMPORARY discontinued. [View details](https://github.com/cuynu/ytvanced/discussions/104).**
+**This project is TEMPORARY discontinued, [View details](https://github.com/cuynu/ytvanced/discussions/104).**
 
 Total download counts :
 
