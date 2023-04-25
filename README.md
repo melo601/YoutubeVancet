@@ -42,7 +42,7 @@ This is an "UNOFFICIAL" project by single person and NOT ASSOCIATED WITH TEAM VA
 
 [Download Vanced MicroG 0.2.27.231612](https://github.com/cuynu/ytvanced/releases/download/18.01.38/Vanced.microG.0.2.27.231612.apk)
 
-[Download Vanced MicroG 0.2.27.231416](https://github.com/cuynu/ytvanced/releases/download/18.01.38/Vanced.microG.0.2.27.231416.apk)
+[Download Vanced MicroG 0.2.27.231413](https://github.com/cuynu/ytvanced/releases/download/18.01.38/Vanced.microG.0.2.27.231413.apk)
 
 **YouTube Vanced non-root variant** : 
 
