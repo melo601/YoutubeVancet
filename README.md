@@ -113,10 +113,6 @@ DO NOT INSTALL ON REGULAR ANDROID DEVICE.
 
 [Download YouTube Vanced 18.01.38 for Android Car screen](https://github.com/cuynu/ytvanced/releases/download/18.01.38/YouTube.Vanced.AndroidCarOled.v18.01.38.apk)
 
-[Download YouTube Vanced 17.45.36 for Android Car screen](https://github.com/cuynu/ytvanced/releases/download/17.45.36/YouTube.Vanced.Android.CarOled.v17.45.36_Black.apk)
-
-[Download YouTube Vanced 17.45.34 for Android Car screen](https://github.com/cuynu/ytvanced/releases/download/17.45.34/YouTube.Vanced.Android.CarOled.v17.45.34_Black.apk)
-
 ____________________________________________________
 
 ## Installation Guide
