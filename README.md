@@ -64,6 +64,8 @@ Stable version is : 18.02.33 [(Changelogs)](https://github.com/cuynu/ytvanced/re
 
 [Download YouTube Vanced Unofficial version 17.34.36 (for Android 6 & 7)](https://github.com/cuynu/ytvanced/wiki/17.34.36-(Android-6-and-7))
 
+[Download YouTube Vanced for Android car screen](https://github.com/cuynu/ytvanced#for-android-car-screen-not-android-auto)
+
 **YouTube Vanced root variant [Magisk Module]**
 
 > **Tips**: If module script not working, try extract the base.apk or youtube.apk from the zip and install it manually, then try again.
