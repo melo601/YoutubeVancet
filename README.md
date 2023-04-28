@@ -1,4 +1,4 @@
-<p align="center"><b>English</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/kitadai31/revanced-patches-android6-7/wiki/README_VI">Tiếng Việt</a></p>
+<p align="center"><b>English</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/cuynu/ytvanced/wiki/README_VI">Tiếng Việt</a></p>
 
 # YouTube Vanced
 YouTube Vanced Unofficial project ~based on ReVanced patches~ maintained by Cuynu
