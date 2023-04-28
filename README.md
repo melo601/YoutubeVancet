@@ -108,6 +108,7 @@ ____________________________________________________
 ## For Android Car screen (Not Android Auto) 
 
 Use 17.34.36 for Android Car device that run Android 6 & 7.
+
 DO NOT INSTALL ON REGULAR ANDROID DEVICE.
 
 [Download YouTube Vanced 18.02.33 for Android Car screen](https://github.com/cuynu/ytvanced/releases/download/18.02.33/YouTube.Vanced.AndroidCarOled.v18.02.33.apk)
