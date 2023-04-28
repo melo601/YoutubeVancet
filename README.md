@@ -48,7 +48,7 @@ This is an "UNOFFICIAL" project by single person and NOT ASSOCIATED WITH TEAM VA
 
 Stable version is : 18.02.33 [(Changelogs)](https://github.com/cuynu/ytvanced/releases/tag/18.02.33)
 
-**Use 18.02.33 to fix video playback issue for non-root variant, see [buffer fix solution and troubleshoots](https://github.com/cuynu/ytvanced#troubleshoot).**
+**Video playback freeze or buffering?, see [video playback buffer fix solution and troubleshoots](https://github.com/cuynu/ytvanced#troubleshoot).**
 
 [Download YouTube Vanced Unofficial version 18.02.33 Black hotfix](https://github.com/cuynu/ytvanced/releases/download/18.02.33/YouTube.Vanced.v18.02.33_Black_Universal_hotfix.apk)
 
