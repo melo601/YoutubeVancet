@@ -15,7 +15,7 @@ Worry about malware,backdoor or keylogger? [See VirusTotal scan results](https:/
 
 Want to recevie new update? Watch this repository or join us Telegram channel below :
 
-Join unofficial update channel </p> <a href="https://telegram.me/ytvancedupdates" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
+Join unofficial update/news channel </p> <a href="https://telegram.me/ytvancedupdates" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
 
 # Donation 
 Help us by subscribe to personal YouTube Channel:)
@@ -29,6 +29,8 @@ Other support/donation method are not available right now.
 # Notice 
 
 This is an "UNOFFICIAL" project by single person and NOT ASSOCIATED WITH TEAM VANCED.
+
+I will use YouTube 18.17.36 beta as base to implement my patch, soon...
 
 # Download 
 
