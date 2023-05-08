@@ -33,9 +33,9 @@ I will use YouTube 18.17.36 beta as base to implement my patch, soon...
 
 **Vanced MicroG : (Install it only if you install non-root variant)**
 
-[Download Vanced MicroG 0.2.27.231612](https://github.com/cuynu/ytvanced/releases/download/18.01.38/Vanced.microG.0.2.27.231612.apk)
+[Download Vanced MicroG 0.2.27.231712](https://github.com/cuynu/ytvanced/releases/download/18.01.38/Vanced.microG.0.2.27.231712.apk)
 
-[Download Vanced MicroG 0.2.27.231413](https://github.com/cuynu/ytvanced/releases/download/18.01.38/Vanced.microG.0.2.27.231413.apk)
+[Download Vanced MicroG 0.2.27.231612](https://github.com/cuynu/ytvanced/releases/download/18.01.38/Vanced.microG.0.2.27.231612.apk)
 
 **YouTube Vanced non-root variant** : 
 
