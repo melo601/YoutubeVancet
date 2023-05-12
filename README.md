@@ -7,6 +7,8 @@ YouTube Vanced Unofficial project maintained by Cuynu
 
 **This project is TEMPORARY discontinued, [View details](https://github.com/cuynu/ytvanced/discussions/104).**
 
+## WE HAVE ARCHIVED THIS REPOSITORY TEMPORARY, PLEASE REPORT NEW ISSUE IN TELEGRAM !
+
 Total download counts :
 
 [![Download counts](https://img.shields.io/github/downloads/cuynu/ytvanced/total?logo=githubcolor=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge)](https://github.com/cuynu/ytvanced#download)
