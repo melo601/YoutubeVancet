@@ -43,6 +43,8 @@ I will use YouTube 18.17.36 beta as base to implement my patch, soon...
 
 Stable version is : 18.02.33 [(Changelogs)](https://github.com/cuynu/ytvanced/releases/tag/18.02.33)
 
+[Why no newer version?](https://github.com/cuynu/ytvanced/discussions/104) 
+
 **Video playback freeze or buffering?, see [video playback buffer fix solution and troubleshoots](https://github.com/cuynu/ytvanced#troubleshoot).**
 
 [Download YouTube Vanced Unofficial version 18.02.33 Black hotfix](https://github.com/cuynu/ytvanced/releases/download/18.02.33/YouTube.Vanced.v18.02.33_Black_Universal_hotfix.apk)
