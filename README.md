@@ -198,4 +198,11 @@ If you can't install YouTube Vanced in MIUI, try turn off MIUI Optimization in D
 
 [ReVanced Team](https://github.com/revanced) : ReVanced Team which develop ReVanced patches from scratch.
 
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/cuynu/ytvanced.svg)](https://starchart.cc/cuynu/ytvanced)
+
+
+
 ### [Go back to the top of the page](https://github.com/cuynu/ytvanced#youtube-vanced)
