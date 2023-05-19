@@ -23,7 +23,7 @@ Join unofficial update/news channel </p> <a href="https://telegram.me/ytvancedup
 
 This is an "UNOFFICIAL" project by single person and NOT ASSOCIATED WITH TEAM VANCED.
 
-I will use YouTube 18.17.36 beta as base to implement my patch, soon...
+
 
 # Download 
 
@@ -43,7 +43,7 @@ I will use YouTube 18.17.36 beta as base to implement my patch, soon...
 
 Stable version is : 18.02.33 [(Changelogs)](https://github.com/cuynu/ytvanced/releases/tag/18.02.33)
 
-[Why no newer version?](https://github.com/cuynu/ytvanced/discussions/104) 
+
 
 **Video playback freeze or buffering?, see [video playback buffer fix solution and troubleshoots](https://github.com/cuynu/ytvanced#troubleshoot).**
 
