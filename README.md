@@ -8,6 +8,9 @@ YouTube Vanced Unofficial project maintained by Cuynu
 **This project is TEMPORARY discontinued, [View details](https://github.com/cuynu/ytvanced/discussions/104).**
 
 
+## Notice : This not an real YouTube Vanced project, it is a fork/clone of YouTube Vanced with limited features, see [reddit discussion](https://www.reddit.com/r/Vanced/comments/13i6v9j/how_bout_banning_ucuynu_off_from_this_subreddit/) ! 
+
+
 
 Total download counts :
 
@@ -19,9 +22,7 @@ Want to recevie new update? Watch this repository or join us Telegram channel be
 
 Join unofficial update/news channel </p> <a href="https://telegram.me/ytvancedupdates" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
 
-# Notice 
 
-This is an "UNOFFICIAL" project by single person and NOT ASSOCIATED WITH TEAM VANCED.
 
 
 
