@@ -5,10 +5,10 @@ Another YouTube Vanced Unofficial project maintained by Cuynu
 <img alt="YouTube Vanced logo" src="https://github.com/cuynu/archive/releases/download/archive/vanced2.jpg" width="270" height="150" />
 </a>
 
-**This project is discontinued.
+## This project has been discontinued.
 
 
-## Notice : This not an real YouTube Vanced project, it is a fork/fan-made project of YouTube Vanced with limited features, see [reddit discussion](https://www.reddit.com/r/Vanced/comments/13i6v9j/how_bout_banning_ucuynu_off_from_this_subreddit/) ! 
+
 
 
 Total download counts :
