@@ -5,7 +5,7 @@ Another YouTube Vanced Unofficial project maintained by Cuynu
 <img alt="YouTube Vanced logo" src="https://github.com/cuynu/archive/releases/download/archive/vanced2.jpg" width="270" height="150" />
 </a>
 
-## This project has been discontinued.
+## This project has been discontinued, [View details.](https://github.com/cuynu/ytvanced/discussions/205)
 
 
 
