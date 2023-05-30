@@ -47,6 +47,10 @@ Stable version is : 18.02.33 [(Changelogs)](https://github.com/cuynu/ytvanced/re
 
 **Video playback freeze or buffering?, see [video playback buffer fix solution and troubleshoots](https://github.com/cuynu/ytvanced#troubleshoot).**
 
+#### 18.21.34 IS LAST OFFER FOR ALL, PROJECT WILL NOT UPDATE ANYMORE UNLESS WE RENAME IT TO YOUTUBE VANCED+ !
+
+[Download YouTube Vanced version 18.21.34 Black](https://github.com/cuynu/ytvanced/releases/download/18.21.34/YouTube.Vanced+.v18.21.34_Black_Universal_bye.apk)
+
 [Download YouTube Vanced Unofficial version 18.02.33 Black hotfix](https://github.com/cuynu/ytvanced/releases/download/18.02.33/YouTube.Vanced.v18.02.33_Black_Universal_hotfix.apk)
 
 [Download YouTube Vanced Unofficial version 18.02.33 Dark hotfix](https://github.com/cuynu/ytvanced/releases/download/18.02.33/YouTube.Vanced.v18.02.33_Dark_Universal_hotfix.apk)
