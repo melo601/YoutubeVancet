@@ -27,7 +27,7 @@ Join unofficial update/news channel </p> <a href="https://telegram.me/ytvancedup
 
 # Download 
 
-> **Warning** : Minimum required Android version : 8.0+ for version 17.41.34 and above (6.0 and 7.0 for version [17.34.36](https://github.com/cuynu/ytvanced/wiki/17.34.36-(Android-6-and-7)) or older)
+> **Warning** : Minimum required Android version : 8.0+ for version 17.41.34 and above (6.0 and 7.0 for version [17.39.35](https://github.com/cuynu/ytvanced/wiki/17.39.35-(Android-6-&-7)) or older)
 
 > Architecture : arm64-v8a, armeabi-v7a, x86, x86_64 (Universal)
 
