@@ -7,22 +7,13 @@ Another YouTube Vanced Unofficial project maintained by Cuynu
 
 ## This project has been discontinued, [View details.](https://github.com/cuynu/ytvanced/discussions/205)
 
-
-
-
-
 Total download counts :
 
 [![Download counts](https://img.shields.io/github/downloads/cuynu/ytvanced/total?logo=githubcolor=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge)](https://github.com/cuynu/ytvanced#download)
 
 Worry about malware,backdoor or keylogger? [See VirusTotal scan results](https://github.com/cuynu/ytvanced/wiki/VirusTotal_Hash)
 
-Want to recevie new update? Watch this repository or join us Telegram channel below :
-
 Join unofficial update/news channel </p> <a href="https://telegram.me/ytvancedupdates" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
-
-
-
 
 
 # Download 
@@ -39,16 +30,14 @@ Join unofficial update/news channel </p> <a href="https://telegram.me/ytvancedup
 
 [Download Vanced MicroG 0.2.27.231612](https://github.com/cuynu/ytvanced/releases/download/18.01.38/Vanced.microG.0.2.27.231612.apk)
 
-**YouTube Vanced non-root variant** : 
+**YouTube Vanced/YouTube Vanced+ non-root variant** : 
 
 Stable version is : 18.21.34
 [(Changelogs)](https://github.com/cuynu/ytvanced/releases/tag/18.21.34)
 
-
-
 **Video playback freeze or buffering?, see [video playback buffer fix solution and troubleshoots](https://github.com/cuynu/ytvanced#troubleshoot).**
 
-#### 18.21.34 IS LAST OFFER FOR ALL, PROJECT WILL NOT UPDATE ANYMORE UNLESS WE RENAME IT TO YOUTUBE VANCED+ !
+#### 18.21.34 IS LAST VERSION FOR ALL, UNLESS I CAN DEVELOP OWN PATCH!
 
 [Download YouTube Vanced+ version 18.21.34 Black](https://github.com/cuynu/ytvanced/releases/download/18.21.34/YouTube.Vanced+.v18.21.34_Black_Universal_bye.apk)
 
@@ -68,7 +57,7 @@ Stable version is : 18.21.34
 
 [Download YouTube Vanced Unofficial version 18.01.38 Monet theme (Android 12+ only)](https://github.com/cuynu/ytvanced/releases/download/18.01.38/YouTube.Vanced.v18.01.38_Monet_Universal.apk)
 
-[Download YouTube Vanced Unofficial version 17.34.36 (for Android 6 & 7)](https://github.com/cuynu/ytvanced/wiki/17.34.36-(Android-6-and-7))
+[Download YouTube Vanced Unofficial version 17.39.35 (for Android 6 & 7)](https://github.com/cuynu/ytvanced/wiki/17.39.35-(Android-6-&-7))
 
 [Download YouTube Vanced for Android car screen](https://github.com/cuynu/ytvanced#for-android-car-screen-not-android-auto)
 
@@ -113,7 +102,7 @@ ____________________________________________________
 
 ## For Android Car screen (Not Android Auto) 
 
-Use 17.34.36 for Android Car device that run Android 6 & 7.
+Use 17.39.35 for Android Car device that run Android 6 & 7.
 
 DO NOT INSTALL ON REGULAR ANDROID DEVICE.
 
@@ -123,34 +112,15 @@ DO NOT INSTALL ON REGULAR ANDROID DEVICE.
 
 [Download YouTube Vanced 18.01.38 for Android Car screen](https://github.com/cuynu/ytvanced/releases/download/18.01.38/YouTube.Vanced.AndroidCarOled.v18.01.38.apk)
 
+[Download YouTube Vanced 17.39.35 for Android Car screen](https://github.com/cuynu/ytvanced/releases/download/17.39.35/YouTube.Vanced.AndroidCarOled_v17.39.35.apk)
+
 [Download YouTube Vanced 17.34.36 for Android Car screen](https://github.com/cuynu/ytvanced/releases/download/17.34.36/YouTube.Vanced.v17.34.36.AndroidCarOled.apk)
 ____________________________________________________
 
-## Installation Guide
+### Source code
+https://github.com/cuynu/oldvanced-patches-rvx
 
-If you not rooted :
-(Most device are not rooted by default)
-
-- Download Vanced microG (Latest version) and YouTube Vanced or YouTube Music Vanced non-root variant latest version from above or releases
-- Install as normal Android package file (APK)
-- (Some device will prevent you open YouTube Vanced, so you need to enable auto start for YouTube Vanced & Vanced microG.)
-
-If you're rooted :
-- Download Magisk Module variant from above or releases
-- Install on Magisk Manager 
-- Disable updates for original YouTube on Play Store.
-- If after install its still is original YouTube, reinstall module then restart your device
-- If YouTube not shown on app drawer, install base.apk from Magisk Module zip, and try install module again.
-
-
-### Open source
-
-Currently, I use ReVanced Extended patches to patch YouTube Vanced and provide it on ytvanced repository. But in future, I will use my patch.
-
-[ReVanced Extended patches tree](https://github.com/inotia00/revanced-patches/tree/revanced-extended)
-
-[Vanced-patches tree](https://github.com/cuynu/vanced-patches)
-
+https://github.com/cuynu/oldvanced-integrations-rvx
 
 ### Troubleshoot 
 
@@ -158,11 +128,11 @@ Currently, I use ReVanced Extended patches to patch YouTube Vanced and provide i
 
 **Video playback not working (buffer issue)**
 
-For 18.02.33 hotfix :
+For 17.34.36/17.39.35/18.02.33/18.21.34 :
 - Enable `spoof protobuf` option on Vanced settings -> Video (If `protobuf spoof` option is enabled by default, re-enable `spoof protobuf` option. Buffering problem should fix.
 
 For older version :
-- Enable `Fix video playback buffer issue` option on YouTube Settings -> Vanced Settings -> Extended Settings and try again, if not works, install 18.02.33 hotfix version.
+- Enable `Fix video playback buffer issue` option on YouTube Settings -> Vanced Settings -> Extended Settings and try again, if not works, install newer version.
 
 **No internet connection:**
 - Remove your account from Vanced MicroG (If have and try again)
@@ -183,14 +153,6 @@ For older version :
 - For Tecno user : Find and open Phone Master app, go to auto start manager, allow Vanced microG and YouTube Vanced auto start.
 - Wipe app data and cache
 - Reinstall YouTube Vanced client
-
-**Not responding when watch videos :**
-
-- If you got YouTube Vanced not responding when watch a videos, that's because Return YouTube Dislike trying to get the dislikes from the API, but due to poor network conditions, RYD unable to get the metrics, resulting in unresponsive YouTube. Turn off RYD in settings if you often have unstable network connection.
-
-**Not responding when not watch any videos :**
-
-- Check your device and make sure the official latest version of YouTube still run well on your device, Older devices will often have this problem because the hardware is too old.
 
 **There was a problem parsing the package:**
 - Check your Android version, Make sure your current Android version meet minimum required Android version.
